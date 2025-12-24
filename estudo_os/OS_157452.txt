@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 157452
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação dos conversores fibra óptica.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

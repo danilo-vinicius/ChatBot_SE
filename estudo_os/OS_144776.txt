@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 144776
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Central CP 352 - CP 352
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Etiquetagem e identificação dos cabos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Todos cabos identificados, alguns cabos não identificados,pois moradores não atenderam a ligaçao .
+========================================

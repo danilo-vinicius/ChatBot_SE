@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 137327
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação do Dvr .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

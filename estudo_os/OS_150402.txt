@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 150402
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Motor Portão - 800 Fast
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Motor do portão parou aberto.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Motor de Portão. 
+Status/Ação Final: OS Resolvida
+========================================

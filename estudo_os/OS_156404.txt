@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 156404
+CLIENTE: BL - TERRAÇO SHOPPING
+EQUIPAMENTO: HEXA GERAL BL TERRAÇO SHOPPING - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Fixação de um varal
+[Andar/Sala/Unidade] Subsolo
+[Descrição Detalhada do Problema] Fixar um varal na loja 
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Para colocar roupas para secar naturalmente aquelas que não podem ir na secadora.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalar varal
+Status/Ação Final: OS Resolvida
+========================================

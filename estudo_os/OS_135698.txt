@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 135698
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Controladora - Orquídeas - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Reposicionamento de câmeras do lpr
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

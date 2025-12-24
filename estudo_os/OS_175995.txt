@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 175995
+CLIENTE: CGP - GREEN PARK ASA NORTE
+EQUIPAMENTO: Câmera BL - Green Park - IMX C
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

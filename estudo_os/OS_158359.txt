@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 158359
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Controladora Commbox - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Troca da controladora.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

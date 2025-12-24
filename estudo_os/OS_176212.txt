@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 176212
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Identificar os pontos de telefone e computador da nova sala do RH.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

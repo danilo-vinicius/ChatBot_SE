@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 179493
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] Problema na porta/chave da porta de acesso ao armazenamento de matérias controlados e de expediente
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] Anderson Oliveira Ferreira
+[Telefone (celular):] (61) 99503-3625
+[Endereço de E-mail:] anderson.ferreira@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1° subsolo sala da mesa de operações
+[Descreva o problema de forma clara e objetiva.] A porta de acesso aos materiais de expedientes e alguns controlados esta com a chave presa e nao é possivel tranca-la.
+[Impacto (o que acontece se não for resolvido):] Matérias controlados vulneráveis. 
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] Servico deve ser acompanhado devido material armazenado.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar porta de acesso a materiais de expediente e materiais controlados.
+Status/Ação Final: OS Resolvida
+========================================

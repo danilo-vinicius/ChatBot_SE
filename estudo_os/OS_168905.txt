@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 168905
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Organização do skid e retirado dos nobreaks.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

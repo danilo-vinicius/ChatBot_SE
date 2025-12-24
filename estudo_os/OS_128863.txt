@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 128863
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: Crimpagem - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Crimpagem de cabos de rede para instalação dos equipamentos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Cabos estão nos pontos aguardando equipamentos.
+Status/Ação Final: OS Resolvida
+========================================

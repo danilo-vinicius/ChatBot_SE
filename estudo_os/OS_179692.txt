@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 179692
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA HIDRÁULICA AL ASA NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1º andar 
+[Descreva o problema de forma clara e objetiva.] Identificamos que o acionador da descarga do vaso sanitário está com defeito. A peça superior (botão/haste) está solta e não aciona o mecanismo interno corretamente, impossibilitando o uso normal da descarga.
+[Impacto (o que acontece se não for resolvido):] Esse defeito está impedindo o funcionamento da descarga, causando transtornos aos usuários do banheiro
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar o botão de acionamento da caixa de descarga.
+Status/Ação Final: OS Resolvida
+========================================

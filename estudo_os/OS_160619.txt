@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 160619
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA ELÉTRICA BL SUDOESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Instalação de tomada para secadora
+[Descrição Detalhada do Problema] Solicito a instalação de uma tomada de 220 e 20 amperes na loja do Sudoeste para uso de uma secadora, foi improvisado uma extensão para ir sendo usada a máquina até a instalação da máquina.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Foi improvisado uma extensão para funcionamento da máquina até a instalação da tomada
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalar tomada de 20A para ligar máquina de secar 
+Status/Ação Final: OS Resolvida
+========================================

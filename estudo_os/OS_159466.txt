@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 159466
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA ELÉTRICA BL QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Troca de lampada
+[Descrição Detalhada do Problema] Troca de lâmpadas nas fotos elas estão normais mas ficam piscando direto.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Troca de lâmpada
+Status/Ação Final: OS Resolvida
+========================================

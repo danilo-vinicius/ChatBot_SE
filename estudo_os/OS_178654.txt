@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 178654
+CLIENTE: BRASFORT - GOIANIA
+EQUIPAMENTO: Manutenção Geral - Geral
+TÉCNICO: Luciano Nascimento
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção corretiva.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Falta de comunicação com todos os dispositivos.
+
+Status/Ação Final: OS Resolvida
+========================================

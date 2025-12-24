@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 173789
+CLIENTE: BL - TERRAÇO SHOPPING
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Colocar Access Point.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

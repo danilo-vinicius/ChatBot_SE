@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 163413
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: Câmeras - Vip 1230
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação câmera na sala de desenvolvimento.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

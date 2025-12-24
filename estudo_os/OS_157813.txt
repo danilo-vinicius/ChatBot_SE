@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 157813
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Manutenção Semanal - Geral - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Geral.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Manutenção geral 
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 178068
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Câmera - VIP 1230 B
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ajustes do Ângulo das Câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 157898
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA ELÉTRICA BL SUDOESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Ar condicionado
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Segundo a Supervisora da loja a tomada deu curto e chegou a derreter a tomada do ar condicionando.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Verificar o que ocorreu o curto para não repetir outra vez.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar a tomada de ar condicionado.
+Status/Ação Final: OS Resolvida
+========================================

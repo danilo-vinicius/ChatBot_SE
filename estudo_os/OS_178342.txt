@@ -1,0 +1,20 @@
+
+========================================
+ORDEM DE SERVIÇO: 178342
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA GERAL BL QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Saan quadra 1 lote 835
+[Descreva o problema de forma clara e objetiva.] Solicito, por gentileza, a verificação na parte superior da cobertura, pois, com o período de chuvas, está ocorrendo vazamento de água
+[Impacto (o que acontece se não for resolvido):] O que tem causado alagamento na área administrativa
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

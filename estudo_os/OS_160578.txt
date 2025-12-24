@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 160578
+CLIENTE: HEXA - CREA
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de câmeras e switch.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

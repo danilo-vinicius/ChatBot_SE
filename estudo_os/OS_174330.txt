@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 174330
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Luciano Nascimento
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Central com problema para arma
+Detalhe do Defeito: Falha de arme
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Falta de comunicação equipamentos ligados. Reset no switch o senhor Valdir não conseguiu. 
+Status/Ação Final: OS Resolvida
+========================================

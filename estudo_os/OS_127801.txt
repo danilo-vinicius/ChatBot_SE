@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 127801
+CLIENTE: Luger
+EQUIPAMENTO: Facial - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de facial.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

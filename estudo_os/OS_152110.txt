@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 152110
+CLIENTE: BL - NOROESTE
+EQUIPAMENTO: HEXA GERAL BL NOROESTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Descrição Detalhada do Problema] A cuba da pia do banheiro se soltou.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] As colaboradoras precisam usar a pia
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Colar com massa plástica a cuba que descolou
+Status/Ação Final: OS Resolvida
+========================================

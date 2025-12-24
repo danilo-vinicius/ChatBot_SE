@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 159831
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Geral - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção LPR.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

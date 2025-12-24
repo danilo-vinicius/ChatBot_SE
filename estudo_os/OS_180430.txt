@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 180430
+CLIENTE: T - Refeitório
+EQUIPAMENTO: HEXA ELÉTRICA TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ficção de tomada eletrônica na bancada cozinha
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A tomada da cozinha está soltando 
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos. Atribuição em massa.
+========================================

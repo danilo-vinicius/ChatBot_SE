@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 168013
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Atila Gabriel Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Levar os dois nobreak e liga-los.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

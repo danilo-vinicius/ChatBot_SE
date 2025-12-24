@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 174592
+CLIENTE: EPB - Residência QL 12
+EQUIPAMENTO: Central de Alarme - AMT 2018 E SMART
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Entrega de controle remoto e Mudar a Central do lugar
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

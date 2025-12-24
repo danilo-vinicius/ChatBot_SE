@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 163110
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA CARPINTARIA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Gaveta Caiu
+[Descrição Detalhada do Problema] A gaveta da secretaria onde ficam as documentações caiu no dia de ontem (21/05/2025). Gostaríamos de uma ajuda com esse problema.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Substituir os trilhos de abertura da gaveta.
+Status/Ação Final: OS Resolvida
+========================================

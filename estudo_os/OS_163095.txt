@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 163095
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Configuração CFTV e Controle de Acesso
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

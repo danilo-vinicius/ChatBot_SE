@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 181675
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA CARPINTARIA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] CLESIO SILVA
+[Telefone (celular):] (61) 99807-4133
+[Endereço de E-mail:] clesio.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Unidade de Taguatinga, Sala da secretaria
+[Descreva o problema de forma clara e objetiva.] porta de um dos armários está solta.
+[Impacto (o que acontece se não for resolvido):] dificuldade de acesso dos materiais contidos dentro do armário
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] Horário de funcionamento 8:00 às 20:00
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar porta do armário que está solta.
+
+Status/Ação Final: OS Resolvida
+========================================

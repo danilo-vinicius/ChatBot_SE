@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154106
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: BrasfortSmart - Geral
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Erro na coleta de biometrias
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

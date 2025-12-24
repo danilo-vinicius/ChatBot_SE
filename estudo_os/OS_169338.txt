@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169338
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos e alinhamento CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

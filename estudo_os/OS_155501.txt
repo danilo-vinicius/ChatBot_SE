@@ -1,0 +1,26 @@
+
+========================================
+ORDEM DE SERVIÇO: 155501
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA ELÉTRICA BL QD 1 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Botão de abertura da tranca eletrônica da porta principal
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Sede
+[Edifício/Condomínio] Sede Saan
+[Endereço] Quadra 01 lote 835 Saan
+[Andar/Sala/Unidade] Porta de entrada/saída
+[Descrição Detalhada do Problema] O botão de abertura da tranca eletrônica está apresentando problemas na hora da abertura, temos que tentar várias vezes até conseguir abrir.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] A porta pode não abrir mais pelo botão sendo necessário a abertura apenas com a chave.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Troca de botão de acionamento da porta eletrônica
+
+Status/Ação Final: Em Andamento
+========================================

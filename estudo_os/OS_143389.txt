@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 143389
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: HEXA ELÉTRICA AL NORTE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Tipo de Serviço Solicitado]  <span style='color:red'>Elétrica (troca de luminária, reparo de fiação)</span>
+[Outros, Especificar:] Troca de Baia
+[Nome do Solicitante] Lucas Corrêa
+[Telefone] (61) 99109-0185
+[E-mail ] lucas.correa@brasfort.com.br
+[Empresa] Brasfort
+[Edifício/Condomínio] Brasfort
+[Endereço] SAAN Q3 LT 1240
+[Andar/Sala/Unidade] 2º Andar Sala de Desenvolvimento
+[Descrição Detalhada do Problema] Seria remover a instalação elétrica de uma das mesas da sala de Desenvolvimento e levar para a sala do Comercial Privado, pois os departamentos trocarão de lugar provavelmente na Quarta-Feira (11/12/24).
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Precisamos da calha com ponto de energia para ligarmos os computadores
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Lucas Corrêa
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

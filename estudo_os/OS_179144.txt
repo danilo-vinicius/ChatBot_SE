@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 179144
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA GERAL AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1º subsolo
+[Descreva o problema de forma clara e objetiva.] Solicito o reparo da pedra localizada na entrada do box do vestiário masculino, no 1º subsolo.
+A pedra encontra-se quebrada e solta, oferecendo risco de acidente aos usuários.
+[Impacto (o que acontece se não for resolvido):] A pedra encontra-se quebrada e solta, oferecendo risco de acidente aos usuários.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Usar massa plástica preta para colar o granito no banheiro na entrada do box do chuveiro 
+Status/Ação Final: OS Resolvida
+========================================

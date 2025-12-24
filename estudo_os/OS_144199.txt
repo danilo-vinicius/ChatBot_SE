@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 144199
+CLIENTE: CASA DE MÁQUINAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de câmera na guarita.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

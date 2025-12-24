@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 171986
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Controladora Commbox1 - Genérico
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+instalação da controladora Combox no local solicitado.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

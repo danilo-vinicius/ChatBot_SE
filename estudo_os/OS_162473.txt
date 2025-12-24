@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 162473
+CLIENTE: NVL NOVELIS
+EQUIPAMENTO: Central de alarme - AMT 8000 Pró
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação do sensor.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 134132
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: Geral - Res. Jacy Burmann - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção do porta de serviço.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 168557
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA HIDRÁULICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] desobstrução de esgoto
+[Nome do Solicitante] Júlio
+[Andar/Sala/Unidade] Subsolo
+[Descrição Detalhada do Problema] Necessitamos verificar o que está ocorrendo pois a água não está escoando e precisamos começar a lavagem de roupas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar drenagem do fosso de água das máquinas.
+Status/Ação Final: OS Resolvida
+========================================

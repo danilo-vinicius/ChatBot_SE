@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 155894
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Controle de acesso GERAL - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação da infraestrutura.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

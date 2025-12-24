@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 137788
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Revisão geral do sistema CFTV no Green Park, com atualização de relatório e backup de todas as centrais interfone.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

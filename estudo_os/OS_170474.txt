@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 170474
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA ELÉTRICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Instalação de tomada
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Instalação de tomada uma tomada para ligação de uma passadoria.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar possibilidade de instalação de uma tomada. A tomada deve estar lá na loja.
+Status/Ação Final: OS Resolvida
+========================================

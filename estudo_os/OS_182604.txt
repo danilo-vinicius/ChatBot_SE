@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182604
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de Cabo do jurídico 2°andar.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Atribuição automática de técnico
+========================================

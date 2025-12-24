@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 179518
+CLIENTE: RMC RESIDENCIA MARIA DO CARMO
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV E Manutenção do controle de acesso. Instalar uma câmera e substituir uma fonte e tuibe
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 159543
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Finalização da infraestrutura para passagem de cabos e análise de como será feita a fixação das controladoras de acesso.
+========================================

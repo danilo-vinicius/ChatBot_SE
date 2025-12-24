@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 153993
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA HIDRÁULICA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Edifício/Condomínio] Academia Luger Unidade de Taguatinga Qne 06 
+
+[Andar/Sala/Unidade] Banheiro 
+[Descrição Detalhada do Problema] Prezados, 
+O banheiro PNE apresenta um cheiro muito forte de esgoto. Gostaríamos de um auxílio mediante a esse problema. Ficaremos no aguardo de um retorno e tenham um ótimo trabalho!
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar cheiro forte no banheiro PCD da academia
+Status/Ação Final: OS Resolvida
+========================================

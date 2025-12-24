@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 150954
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone, bloco F 102.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

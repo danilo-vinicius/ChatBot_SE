@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169038
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos e Instalação de IVA.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: A passagem do cabeamento Cat-6 e a instalação dos cabos para os sensores IVA foram iniciadas. Ambas as atividades estão parcialmente executadas e pendentes de finalização.
+========================================

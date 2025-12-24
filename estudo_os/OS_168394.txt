@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 168394
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA ELÉTRICA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Tomada
+[Nome do Solicitante] Moisés Filipe
+[Telefone] (61) 99120-1998
+[E-mail ] moises.souza@luger-academia.com.br
+[Andar/Sala/Unidade] Recepção
+[Descrição Detalhada do Problema] Tomada pendurada na parede
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Potencial risco de incêndio
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] Estamos aqui das 07:00hrs às 18:00hrs. A sala possui facial, portanto, estaremos por perto para abrir 
+[Nome do Solicitante (Assine no campo abaixo)] Moisés Filipe
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar tomada solta. Favor procurar o Moisés para verificar onde fica a tomada.
+Status/Ação Final: OS Resolvida
+========================================

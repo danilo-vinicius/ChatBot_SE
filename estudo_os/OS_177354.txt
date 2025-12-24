@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 177354
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção do Sistema do Interfone.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 181880
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

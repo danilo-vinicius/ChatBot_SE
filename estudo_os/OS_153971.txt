@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 153971
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: HEXA ELÉTRICA BL PENÍNSULA - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Empresa] Braslav Peninsula
+[Edifício/Condomínio] Condominio Peninsula
+[Endereço] Av. Araucarias LT 4530/4790
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Porta da loja não está abrindo novamente
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Precisa ser aberta para funcionamento da loja
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar porta de aço da entrada da loja
+Status/Ação Final: OS Resolvida
+========================================

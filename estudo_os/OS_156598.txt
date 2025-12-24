@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 156598
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Problema no monitor do estacionamento
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

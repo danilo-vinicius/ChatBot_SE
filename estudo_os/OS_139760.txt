@@ -1,0 +1,26 @@
+
+========================================
+ORDEM DE SERVIÇO: 139760
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: HEXA GERAL AL NORTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Tipo de Serviço Solicitado]  <span style='color:red'>Outros</span>
+[Outros, Especificar:] Acúmulo de água causando foco de dengue 
+[Nome do Solicitante] Edivania Almeida 
+[Telefone] (61) 98592-6414
+[E-mail ] edivania.almeida@brasfort.com.br
+[Empresa] CT centro de treinamento da brigada 
+[Edifício/Condomínio] Quadra 01 Saan 
+[Endereço] Quadra 01 Saan 
+[Andar/Sala/Unidade] Reservatório de água 
+[Descrição Detalhada do Problema] Reservatório de água no CT, está com foco de dengue, necessitando urgentemente de ser esvaziada 
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] O reservatório de água está com foco de dengue, podendo causar dengue nos funcionários da Braslav e vizinhos 
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] Pela manhã se possível 
+[Nome do Solicitante (Assine no campo abaixo)] Edivania Almeida
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Favor verificar a possibilidade de retirar a água do tanque de areia indicado na foto
+Status/Ação Final: OS Resolvida
+========================================

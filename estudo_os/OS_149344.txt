@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 149344
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone dia 06/01, bloco F 504.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção interfone dia 06/01, bloco F 504.
+Status/Ação Final: OS Resolvida
+========================================

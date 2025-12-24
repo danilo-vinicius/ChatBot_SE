@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168060
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA GERAL AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] PORTA DA ENTRADA COM DIFICULDADES PARA FECHAR
+[Andar/Sala/Unidade] LUGER TAGUATINGA, TERREO
+[Descrição Detalhada do Problema] A FECHADURA DA NOSSA PORTA DE ENROLAR ESTA COM DIFICULDADES PARA TRANCAR
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar fechadura da porta de aço.
+Status/Ação Final: OS Resolvida
+========================================

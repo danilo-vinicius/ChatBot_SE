@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 176942
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Controle de acesso GERAL - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação da catraca de entrada,
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182429
+CLIENTE: NVL NOVELIS
+EQUIPAMENTO: Central de alarme - AMT 8000 Pró
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação Central de Alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Chegando no local iniciamos as verificações de funcionamento da central,  observamos que o modulo gprs estava ligado porém sem comunicação do chip, verificamos as configurações da central para a comunicação gprs, estava tudo certo porém sem comunicação, retornamos para a Brasfort em busca de uma nova placa gprs para que pudéssemos realizar mais alguns testes, retornamos para a Novelis e trocamos a placa e testamos porém sem sucesso na comunicação, analisando outras configurações da central encontramos uma inconsistência na configuração do servidor DNS, realizamos uma nova configuração e a comunicação retonrou, porém sem sucesso com o gprs, observamos que a central esta com uma versão antiga, podendo ser esse o motivo do mal funcionamento de uma função,  explicamos que seria necessário a retirada da central para que ela seja encaminhada para uma loja autorizada que possa realizar a atualização do firmware, só que explicamos que seria melhor esperar o período de festas passar para que o local não fique sem o alarme. O sistema irá funcionar pela internet, caso a Internet falhe perderemos a comunicação com a central, mas explicamos todos os detalhes para os responsáveis do local.
+========================================

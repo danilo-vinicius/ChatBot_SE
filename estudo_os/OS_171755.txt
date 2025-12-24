@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 171755
+CLIENTE: BB PREVIDÊNCIA - SETOR BANCÁRIO SUL
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de CFTV. 20/08/2025
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

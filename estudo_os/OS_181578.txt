@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 181578
+CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção preventiva CFTV e alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: manuntenção preventiva da scia luger , retornando a conexão com o segware 
+Status/Ação Final: OS Resolvida
+========================================

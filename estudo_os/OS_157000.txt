@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 157000
+CLIENTE: EPB - Chancelaria
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Levantamento do CFTV, dia 07/03/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Chegando ao local para verificar as câmeras encontramos o sistema com a ordem das câmeras desconfiguradas, após a configuração observamos que ao contrário da ideia do responsável do local que seriam 5 câmeras fora, tinha somente uma câmera inoperante, localizamos a câmera e de longe percebermos que a câmera estava com água dentro da carcaça, removemos ela do portão e abrimos, antes de abrir já tínhamos a certeza que ela não iria mais funcionar, após abrir só confirmou que realmente não tinha jeito, será necessário a compra de uma nova câmera.
+========================================

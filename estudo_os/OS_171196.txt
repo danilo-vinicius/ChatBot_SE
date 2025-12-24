@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 171196
+CLIENTE: PARQUE DAS ACÁCIAS - NOROESTE
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação das biometrias.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

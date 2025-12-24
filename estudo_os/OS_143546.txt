@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 143546
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: HEXA GERAL AL NORTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Tipo de Serviço Solicitado]  <span style='color:red'>Manutenções Básicas</span>
+[Outros, Especificar:] Instalação de espelho
+[Nome do Solicitante] Marcos Luciano Oliveira
+[Telefone] (61) 99294-5791
+[E-mail ] mlo.df.df@gmail.com
+[Empresa] Sede quadra 01
+[Edifício/Condomínio] Sede 01
+[Endereço] Quadra 05 Conj B Casa 30
+[Andar/Sala/Unidade] Almoxarifado 
+[Descrição Detalhada do Problema] Instalação de espelho nos vestiários de troca de uniformes 
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Melhora  o nível de satisfação  e otimizar as trocas de uniformes 
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] N/a
+[Nome do Solicitante (Assine no campo abaixo)] Marcos Luciano Oliveira
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 138137
+CLIENTE: Vistoria técnica detalhada de Segurança Eletrõnica
+EQUIPAMENTO: Vistoria técnica detalhada de Segurança Eletrõnica - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Vistoria técnica na unidade de Ceilândia do cliente Ciplan, para realização do projeto de controle de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

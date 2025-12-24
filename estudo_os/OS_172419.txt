@@ -1,0 +1,31 @@
+
+========================================
+ORDEM DE SERVIÇO: 172419
+CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+EQUIPAMENTO: Central de Alarme - AMT 8000 Pró
+TÉCNICO: Kayke Rodrigues Alves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+A equipe realizará a verificação e manutenção da central de alarme . Serão verificados os pontos críticos do sistema.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foi realizada a manutenção técnica em uma central de alarme, conforme ordem de serviço previamente aberta e checklist inicial preenchido no local. Durante o atendimento, foram realizadas as seguintes verificações e procedimentos:
+
+Verificação do número do chip instalado na central;
+
+Verificação do endereço MAC do equipamento;
+
+Conferência das senhas de acesso disponíveis;
+
+Identificado que a central não estava conectada à rede via cabo Ethernet;
+
+Realizada a devida conexão da central ao cabo de rede, estabelecendo comunicação adequada.
+
+Durante todo o processo, o suporte técnico foi informado em tempo real sobre as ações executadas, sendo todos os dados registrados conforme checklist da O.S.
+
+No entanto, foi constatado que a central encontrava-se configurada com uma senha diferente da usual, a qual não pôde ser identificada nem mesmo com o auxílio do suporte técnico. Essa limitação impossibilitou o acesso completo ao aplicativo da central, o que comprometeu a conclusão de todas as etapas do checklist, visto que algumas informações específicas só poderiam ser obtidas via acesso interno ao sistema da central.
+
+Conclusão:
+
+A manutenção avançou até o ponto possível com as credenciais disponíveis. Recomenda-se o procedimento de redefinição de senha ou intervenção do fabricante para acesso completo ao sistema e finalização da verificação técnica.
+========================================

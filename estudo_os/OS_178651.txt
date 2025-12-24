@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 178651
+CLIENTE: BB PREVIDÊNCIA - SETOR BANCÁRIO SUL
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de câmera na onde fica a leitura da Neo energia.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

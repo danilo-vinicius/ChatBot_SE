@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 138612
+CLIENTE: SISTEMA DE BOMBAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Continuação da instalação de controle de acesso das portas de serviços do 6° e 7° andar.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

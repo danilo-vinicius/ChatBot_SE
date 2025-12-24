@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 156493
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: CPD - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção do CPD.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

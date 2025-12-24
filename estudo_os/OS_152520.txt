@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 152520
+CLIENTE: SISTEMA DE BOMBAS
+EQUIPAMENTO: Geral - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Correção de cabos
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 178671
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: foi realizado testes de conexão , o dvr do anexo não estava em funcionamento 
+Status/Ação Final: OS Resolvida
+========================================

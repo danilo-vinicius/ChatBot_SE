@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 160099
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA ELÉTRICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Reparo em luminária
+[Descrição Detalhada do Problema] Luminária se desprendeu do local.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Pode ser que outros gatos entrem novamente na loja por este buraco da luminária.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fixação de luminária.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169701
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de Preventiva CFTV, 25/07/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

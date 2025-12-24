@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 175637
+CLIENTE: PARQUE DAS ACÁCIAS - NOROESTE
+EQUIPAMENTO: Rede Geral - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de Cabos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

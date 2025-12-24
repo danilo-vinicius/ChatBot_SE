@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 174986
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA GERAL TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Limpeza de ventilador refeitório
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O ventilador do refeitório está muito sujos 
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos. Atribuição em massa.
+========================================

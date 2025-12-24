@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 131410
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Fonte colmeia - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do motivo de algumas câmeras terem ficado com tela preta no S.I.M next da guarita.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Somente algumas câmeras ficaram sem imagem.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 179477
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] RAFAEL DE OLIVEIRA ROCHA
+[Telefone (celular):] (61) 99127-0010
+[Endereço de E-mail:] rafael.rocha@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Banheiro masculino | 2° andar
+[Descreva o problema de forma clara e objetiva.] Porta papel com defeito
+[Impacto (o que acontece se não for resolvido):] gasto de papel acima do normal
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar dispenser do banheiro masculino.
+Status/Ação Final: OS Resolvida
+========================================

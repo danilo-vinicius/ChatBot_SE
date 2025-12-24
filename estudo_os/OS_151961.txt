@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 151961
+CLIENTE: Verificação Remota CFTV
+EQUIPAMENTO: Carro - Geral
+TÉCNICO: Wesley Soares Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação de veiculos
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Quely Souza Ferreira
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 170437
+CLIENTE: 4º andar
+EQUIPAMENTO: HEXA GERAL 4° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção nas condensadora de ar-condicionado
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: As centrais de ar-condicionado não está funcionando corretamente 
+Status/Ação Final: OS Resolvida
+========================================

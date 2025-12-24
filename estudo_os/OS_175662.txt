@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 175662
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Central PABX Telefonica - CP 352
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Devolver para o Ari 2 placas ramais desbalanceadas, 03 placas ramais balanceadas, 1 Placa CP 192 e 1 Fonte.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

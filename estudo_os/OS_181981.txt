@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 181981
+CLIENTE: BL - NOROESTE
+EQUIPAMENTO: HEXA CARPINTARIA BL NOROESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Q SHCNW CLNW 2/3 BLOCO F S/N LOJA 106 - CENTRO NOROESTE
+[Descreva o problema de forma clara e objetiva.] Solicito a verificação da porta do banheiro da loja.
+[Impacto (o que acontece se não for resolvido):] Pois a mesma apresenta problemas e necessita de ajustes.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: verificar porta do banheiro.
+Status/Ação Final: OS Resolvida
+========================================

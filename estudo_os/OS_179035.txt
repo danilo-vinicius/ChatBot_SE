@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 179035
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Antena - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção da Antena - Apartamento 102 - Bloco B
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Rogério
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 181908
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção no interfone.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

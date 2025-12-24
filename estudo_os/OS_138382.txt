@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 138382
+CLIENTE: CENTRAL ARCOND/GERADOR/OXIGENIO
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Ao iniciar a instalação, constatamos que a infraestrutura existente é insuficiente para atender às necessidades do projeto. Os cabos disponíveis são de baixa qualidade pois já foram utilizados e em quantidade limitada, além de não haver canalizações adequadas para a passagem dos mesmos. Será necessária a aquisição de novos materiais e a passagem exposta dos cabos em alguns pontos, especialmente em áreas externas. A cliente solicitou a possibilidade de expandir o sistema com a adição de duas câmeras, o que demandará uma reavaliação do projeto.
+========================================

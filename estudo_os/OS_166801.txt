@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 166801
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ligar botoeira, serviço realizado dia 18/06/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Edição da OS executada por : Quely Souza Ferreira - Alterado: [de 20/06/2025 07:56:57 para 20/06/2025 7:56]
+========================================

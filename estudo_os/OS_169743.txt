@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 169743
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA GERAL BL QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Verificar o compressor de ar
+[Andar/Sala/Unidade] Área operacional
+[Descrição Detalhada do Problema] O compressor as vezes não está disparando para recarregar de ar e também está sem a válvula para tirar a água que se acumula no tanque.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar compressor.
+Status/Ação Final: OS Resolvida
+========================================

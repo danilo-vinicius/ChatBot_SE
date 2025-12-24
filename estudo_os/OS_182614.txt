@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182614
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Caua Carvalho de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva e verificação dos sensores das portas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Atribuição efetuada na criação da OS
+========================================

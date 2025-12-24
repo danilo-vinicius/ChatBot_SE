@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 157814
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA GERAL AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Regular porta do banheiro
+[Nome do Solicitante] Clesio Silva 
+[Telefone] (61) 99807-4133
+[E-mail ] clesio.silva@luger-academia.com.br
+[Andar/Sala/Unidade] QNE 06 LOTE 16
+[Descrição Detalhada do Problema] Venho por meio desse chamado solicitar o ajuste na porta dos banheiros da unidade.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Portas rangendo
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Clesio Silva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar IN LOCO a situação
+Status/Ação Final: OS Resolvida
+========================================

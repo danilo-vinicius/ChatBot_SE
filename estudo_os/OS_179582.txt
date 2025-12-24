@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 179582
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção no DVR - Bloco C
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

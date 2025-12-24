@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 179802
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA GERAL TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Trocar lâmpada queimada
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Tem alguma lâmpada queimada no refeitório 
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos. Atribuição em massa.
+========================================

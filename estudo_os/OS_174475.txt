@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 174475
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA ELÉTRICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Solicito que seja realizado um ajuste na parte de iluminação da loja, pois há uma lâmpada com a moldura fora do padrão. Além disso, é necessário efetuar a troca de uma lâmpadas dessa moldura, uma vez que não está acendendo só um lado
+[Impacto (o que acontece se não for resolvido):] Prejuízo estético, pois a moldura fora do padrão dá uma impressão de desorganização ou falta de manutenção.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Troca de lâmpada e ajuste de luminária.
+Status/Ação Final: Edição da OS executada por : Adriano Mattos e Pinto - Alterado: [de 23/09/2025 09:25:43 para 23/09/2025 9:25]
+========================================

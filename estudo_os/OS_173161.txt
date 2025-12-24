@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 173161
+CLIENTE: Rancho Verde (Usina Rancho Verde)
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Falha de Comunicação com a Câmera - Rancho Verde.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21382244,"beginDate":"2025-09-04T18:28:40.499+0000","endDate":null,"status":5,"sequentialId":338,"accountId":1473869,"accountCode":"0090","accountOffset":-3,"personOpenId":129381,"personOpen":"Danilo Torres","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":1,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":18756769,"text":"Falha de Comunica\u00e7\u00e3o com a C\u00e2mera - Rancho Verde.","date":"2025-09-04T18:28:41.000+0000","personId":129381,"person":"Danilo Torres","lastEditionDate":null}],"account":"Rancho Verde (Usina Rancho Verde)","executingActivities":false}
+Array
+Status/Ação Final: OS Resolvida
+========================================

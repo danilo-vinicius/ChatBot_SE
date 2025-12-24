@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 152304
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção do Interfone Bloco D apto 1101
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

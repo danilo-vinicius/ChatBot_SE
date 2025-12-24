@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169794
+CLIENTE: SQS 313 BLOCO D
+EQUIPAMENTO: CFTV GERAL - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Luciano Nascimento
+========================================

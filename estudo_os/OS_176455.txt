@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 176455
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

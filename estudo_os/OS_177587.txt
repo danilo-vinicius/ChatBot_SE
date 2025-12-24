@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 177587
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalar a placa e configurar o motor
+Detalhe do Defeito: Outros
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

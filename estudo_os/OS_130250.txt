@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 130250
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: Patch Panel - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de Patch Panel de 48 portas e crimpagem dos cabos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

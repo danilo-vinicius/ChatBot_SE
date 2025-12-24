@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 182094
+CLIENTE: T - Corredor
+EQUIPAMENTO: HEXA ELÉTRICA TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Subestação de painel de led queimado
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Os painéis de led do corredor estão com pouca iluminosidade
+
+
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos
+========================================

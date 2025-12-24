@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 178481
+CLIENTE: GB - GENERAL BURMANN NOROESTE
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva de CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

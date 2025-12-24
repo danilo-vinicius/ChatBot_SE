@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 176846
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Crimpagem da fibra optica.
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

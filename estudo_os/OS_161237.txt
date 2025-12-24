@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 161237
+CLIENTE: Res. P. das Orquídeas
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação biometria.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

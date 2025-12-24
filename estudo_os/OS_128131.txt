@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 128131
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Interfone não está funcionando, Bloco D 1204. Manutenção interfone.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Interfone não está funcionando, Bloco D 1204. Manutenção interfone.
+Status/Ação Final: OS Resolvida
+========================================

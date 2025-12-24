@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 171560
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Controle de acesso GERAL - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção no portão, e no sistema geral de controle de acesso
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 177134
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Substituição da sirene com fio e verificação do sistema.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

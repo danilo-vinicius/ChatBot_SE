@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 155659
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Wesley Soares Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Problema no leitor biométrico, o equipamento foi enviado para o suporte, onde será realizado testes para identificar o problema.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

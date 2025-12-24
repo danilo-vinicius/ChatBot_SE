@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 164628
+CLIENTE: COND. TOP LIFE SAINT TROPEZ
+EQUIPAMENTO: Central PABX - CP 352
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção central de interfone.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

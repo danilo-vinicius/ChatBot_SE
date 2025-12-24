@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 152144
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA GERAL BL 307S - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar rachadura em parede
+[Empresa] Braslav Peninsula
+[Edifício/Condomínio] Condominio Peninsula
+[Endereço] Av. Araucarias LT 4530/4790
+Verificar rachadura que está aparecendo na parede da loja.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: verificação trinca embaixo de bancada de mármore
+Status/Ação Final: OS Resolvida
+========================================

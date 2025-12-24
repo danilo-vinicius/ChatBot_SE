@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 168715
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Kayke Rodrigues Alves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Reposicionar câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

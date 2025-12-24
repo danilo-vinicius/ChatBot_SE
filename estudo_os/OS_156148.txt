@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 156148
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA ELÉTRICA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Manutenção da geladeira
+[OPA - Térreo
+[Descrição Detalhada do Problema] A geladeira não está funcionando. A principio não está ligando.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Item que todos os funcionários acondicionam suas refeições
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar falta de energia na geladeira.
+Status/Ação Final: OS Resolvida
+========================================

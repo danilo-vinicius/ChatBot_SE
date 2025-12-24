@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 161814
+CLIENTE: GB - GENERAL BURMANN NOROESTE
+EQUIPAMENTO: Motor de Portão - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Motor portão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

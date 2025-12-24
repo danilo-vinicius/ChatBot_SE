@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 172280
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA GERAL TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Substituição
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Substituição da roda do motor do portão garagem 
+Status/Ação Final: OS Resolvida
+========================================

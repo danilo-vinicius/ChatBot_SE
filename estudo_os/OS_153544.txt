@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 153544
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Edifício/Condomínio] Quadra 03 - Sede
+[Endereço] SAAN QD.03
+[Andar/Sala/Unidade] Térreo
+[Descrição Detalhada do Problema] Estamos com os dois banheiros do térreo precisando de manutenção:
+
+Banheiro feminino: Pia entupida
+Banheiro masculino: Pia entupida e mictório entupido
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

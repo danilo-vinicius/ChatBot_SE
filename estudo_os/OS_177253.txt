@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 177253
+CLIENTE: EPB - Chancelaria
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação vídeo porteiro.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

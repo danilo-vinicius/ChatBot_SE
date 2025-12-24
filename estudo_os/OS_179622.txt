@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 179622
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação de CFTV e controle de acesso
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

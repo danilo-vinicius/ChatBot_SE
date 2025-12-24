@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 162562
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Vistoria das câmeras MIBO da portaria.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

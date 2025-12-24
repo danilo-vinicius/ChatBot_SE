@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 179480
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA CARPINTARIA AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 2º subsolo
+[Descreva o problema de forma clara e objetiva.] Informamos que a maçaneta da porta está com defeito, e a porta não abre após ser fechada.
+[Impacto (o que acontece se não for resolvido):] Se fechar, ficará trancada e não poderá ser aberta
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Substituir maçaneta da porta. 
+Status/Ação Final: OS Resolvida
+========================================

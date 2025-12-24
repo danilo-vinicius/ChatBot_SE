@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 179887
+CLIENTE: CGP - GREEN PARK ASA NORTE
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV.
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

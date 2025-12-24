@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 180319
+CLIENTE: 4º andar
+EQUIPAMENTO: HEXA GERAL 4° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Limpeza periódica de placa solar
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Os placas solares estão muito sujas 
+
+Status/Ação Final: Limpeza periódica de placa solares 
+========================================

@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 175163
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA ELÉTRICA AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1º subsolo
+[Descreva o problema de forma clara e objetiva.] O sensor responsável por acionar as luzes no primeiro subsolo, na descida para o segundo subsolo, não está funcionando corretamente. As luzes não estão sendo acionadas automaticamente quando há movimentação no local, o que pode comprometer a iluminação e a segurança da área.
+
+
+[Impacto (o que acontece se não for resolvido):] Risco de falta de iluminação adequada para colaboradores e visitantes, podendo causar acidentes.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar sensor de presença.
+Status/Ação Final: Em Andamento
+========================================

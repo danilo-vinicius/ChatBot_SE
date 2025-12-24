@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 158543
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Manutenção Semanal - Geral - Geral
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção semanal.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

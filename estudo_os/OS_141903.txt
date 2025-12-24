@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 141903
+CLIENTE: IBAMA - SEDE
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação e revisão de todo o sistema de CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Já foi informado que no local a 20 câmeras sem funcionar.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 132158
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

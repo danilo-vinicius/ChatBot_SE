@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 147383
+CLIENTE: EPB - Residência QI 05.
+EQUIPAMENTO: Central de alarme - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de Central de alarme .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

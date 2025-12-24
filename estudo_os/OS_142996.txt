@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 142996
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Antena - v1
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de antena, bloco E apartamento 907.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

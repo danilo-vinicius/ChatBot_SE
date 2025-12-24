@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 173953
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação dos transmissores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

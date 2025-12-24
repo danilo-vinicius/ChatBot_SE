@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 174568
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de Controle de Acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

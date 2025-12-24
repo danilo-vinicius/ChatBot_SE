@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168675
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA CARPINTARIA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Portal da porta da copa caiu
+[Andar/Sala/Unidade] Copa
+[Descrição Detalhada do Problema] O portal da copa que segura o imã e o alarme caiu impossibilitando o fechamento da porta
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar portal da entrada da copa do subsolo.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 166897
+CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+EQUIPAMENTO: HEXA GERAL QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Pia e sifão necessitando de reparos 
+[Andar/Sala/Unidade] No térreo na parede dos fundos, pia dos banheiros dos colaboradores 
+[Descrição Detalhada do Problema] Pias quebradas faltando a Cuba e o sifão, necessitando de reparos 
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar no vestiário da quadra 1, que fica na parte de trás, as pias e o que mais precisa no lavatório. 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 175284
+CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Atila Gabriel Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

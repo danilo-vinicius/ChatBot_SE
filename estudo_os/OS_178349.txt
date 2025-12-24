@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 178349
+CLIENTE: 2º andar
+EQUIPAMENTO: HEXA GERAL 2° ANDAR - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Fixa cortina
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A cortina do departamento pessoal está soltando 
+Status/Ação Final: OS Resolvida
+========================================

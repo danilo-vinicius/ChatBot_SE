@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 160100
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: HEXA HIDRÁULICA BL PENÍNSULA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Ralo entupido
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Colaboradoras da loja relatam que o ralo está entupido.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Desobstruir o ralo para a loja não alagar com a água
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Desentupimento de ralo
+Status/Ação Final: OS Resolvida
+========================================

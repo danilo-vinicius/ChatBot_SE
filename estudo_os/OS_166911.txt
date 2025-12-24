@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 166911
+CLIENTE: EPB - Chancelaria
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Início da mudança dos equipamentos da CPD da Chancelaria.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 128699
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: Cabo de rede UTP CAT 6 - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de Cabos para pontos de rede e CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Passagem de Cabos para pontos de rede e CFTV.
+Status/Ação Final: OS Resolvida
+========================================

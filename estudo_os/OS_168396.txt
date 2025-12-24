@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168396
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA HIDRÁULICA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] VAZAMENTO NA SALA DA LIMPEZA
+[Andar/Sala/Unidade] Unidade de Taguatinga
+[Descrição Detalhada do Problema] Venho por meio desse chamado solicitar a manutenção da torneira presete na sala de limpeza, tendo em vista que a ultima manutenção corrigiu por porco tem o vazamento.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: verificar vazamento de torneira
+Status/Ação Final: OS Resolvida
+========================================

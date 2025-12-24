@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 160154
+CLIENTE: EPB - Residência QI 28
+EQUIPAMENTO: Central de Alarme - AMT 8000 Pró
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação dos sensores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

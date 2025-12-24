@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 157869
+CLIENTE: 4º andar
+EQUIPAMENTO: HEXA ELÉTRICA 4° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Limpeza de caixa de gordura
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A caixa de gordura está cheia e inalando mau cheiro.
+Status/Ação Final: OS Resolvida
+========================================

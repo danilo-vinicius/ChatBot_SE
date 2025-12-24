@@ -1,0 +1,20 @@
+
+========================================
+ORDEM DE SERVIÇO: 179128
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA GERAL BL 307S - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Solicito, por gentileza, a verificação da pressão da água na loja, pois o filtro utilizado pelos colaboradores está liberando pouca quantidade de água e foi relatado que a água apresenta sabor forte.
+[Impacto (o que acontece se não for resolvido):] Essa situação pode impactar diretamente o bem-estar e a hidratação dos colaboradores, por isso pedimos prioridade na verificação e correção do problema.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos. Atribuição em massa.
+========================================

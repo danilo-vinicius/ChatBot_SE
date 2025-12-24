@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 178970
+CLIENTE: NVL NOVELIS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar local para instalação de uma nova câmera.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

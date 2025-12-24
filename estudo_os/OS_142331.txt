@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 142331
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: Central de alarme - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação central de alarme e CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Verificação para instalação dos novos equipamentos, para a instalação das câmeras existem várias complicações na questão da realização da infraestrutura, precisa ser analisado como poderá ser feito.
+========================================

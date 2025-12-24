@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 157878
+CLIENTE: Verificação Remota CFTV
+EQUIPAMENTO: Câmeras Monitoramento - Visualização
+TÉCNICO: Vicente De Paulo Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Monitoramento e Revisão de câmeras .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

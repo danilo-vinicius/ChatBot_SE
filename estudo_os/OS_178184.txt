@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 178184
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabeamento do servidor para sala financeiro e crimpagem dos cabos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

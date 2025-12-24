@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 153225
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de câmeras e do switch
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

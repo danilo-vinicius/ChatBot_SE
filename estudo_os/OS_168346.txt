@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 168346
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Manutenção Semanal - Geral - Geral
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Semanal.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Quely Souza Ferreira
+========================================

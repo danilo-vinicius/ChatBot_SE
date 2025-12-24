@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 160157
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar os pontos para instalação CFTV, dia 10/04/2025
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

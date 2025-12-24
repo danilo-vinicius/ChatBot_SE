@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 140139
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Geral - Genérico
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Cadastrar biometria de morador.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

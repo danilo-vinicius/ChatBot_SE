@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 154935
+CLIENTE: BL - TERRAÇO SHOPPING
+EQUIPAMENTO: HEXA HIDRÁULICA BL TERRAÇO SHOPPING - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Terraço Shopping
+[Descrição Detalhada do Problema] Caixa de gordura transbordando.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Caixa está derramando impossibilitando o uso das torneiras na loja.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Limpar caixa de gordura 
+Status/Ação Final: OS Resolvida
+========================================

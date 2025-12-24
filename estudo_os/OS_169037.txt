@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169037
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: Controle de Acesso Geral - Genérico
+TÉCNICO: Elvis Bruno Pereira Aguiar
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ligar o sensor da porta da copa.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

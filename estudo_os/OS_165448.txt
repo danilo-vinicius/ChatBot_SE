@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165448
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Geral - Geral
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do funcionamento da máquina de cartão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

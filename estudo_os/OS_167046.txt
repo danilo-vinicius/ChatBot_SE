@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 167046
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ligação dos eletroímãs das portas de serviço.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

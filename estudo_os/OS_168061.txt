@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 168061
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA CARPINTARIA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] MANUTENÇÃO DE GAVETA
+[Descrição Detalhada do Problema] GAVETA DE UM DOS NOSSOS ARMARIOS NÃO PARA FECHADA
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar gaveta da secretaria.
+Status/Ação Final: OS Resolvida
+========================================

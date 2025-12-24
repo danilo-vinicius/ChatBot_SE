@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165160
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Semáforo - Semáforo
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos 2° subsolo semáforo, elevador
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

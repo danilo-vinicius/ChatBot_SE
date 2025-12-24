@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 135311
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Manutenção Semanal - Geral - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+manutenção interfone bloco g apto 215
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

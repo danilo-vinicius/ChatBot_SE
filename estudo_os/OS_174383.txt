@@ -1,0 +1,29 @@
+
+========================================
+ORDEM DE SERVIÇO: 174383
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] Edivania Almeida 
+[Telefone (celular):] (61) 98592-6414
+[Endereço de E-mail:] edivania.almeida@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Portaria principal 
+[Descreva o problema de forma clara e objetiva.] Prezados, bom dia 
+
+Venho por meio deste solicitar o concerto das fechaduras dos armários números 2 e 3, localizados na entrada da portaria principal. Este reparo é necessário para garantir a segurança e o bom funcionamento dos armários.
+
+Agradeço pela atenção e aguardo um retorno sobre a programação do serviço.
+
+Atenciosamente,  
+
+[Impacto (o que acontece se não for resolvido):] Não terá como guardar os pertences 
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] Horário de 08:00 às 18:00 Hs
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar fechadura de armário da entrada principal.
+Status/Ação Final: OS Resolvida
+========================================

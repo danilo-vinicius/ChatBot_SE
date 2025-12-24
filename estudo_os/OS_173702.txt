@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 173702
+CLIENTE: BL - TERRAÇO SHOPPING
+EQUIPAMENTO: Instalação - Instalação
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de Access point.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 169252
+CLIENTE: 4º andar
+EQUIPAMENTO: HEXA HIDRÁULICA 4° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Troca de reparo em torneira
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Torneira vazando 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 170535
+CLIENTE: NVL NOVELIS
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

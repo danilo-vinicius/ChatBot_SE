@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 175726
+CLIENTE: BRASFORT - QI 09
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV GERAL e Manutenção de Alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

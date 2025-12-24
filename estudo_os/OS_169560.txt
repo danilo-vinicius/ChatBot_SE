@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169560
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar comunicação da rede.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

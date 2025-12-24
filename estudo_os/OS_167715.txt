@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 167715
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do controle de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

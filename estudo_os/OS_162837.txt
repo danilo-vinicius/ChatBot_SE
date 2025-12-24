@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 162837
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Central PABX Telefonica - CP 352
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação para passagem de cabos Bloco B.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

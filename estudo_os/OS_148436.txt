@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148436
+CLIENTE: BL - NOROESTE
+EQUIPAMENTO: Central de Alarme - AMT 2018 E SMART
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar o disparo de alarme todas as manhas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar o disparo de alarme todas as manhas.
+Status/Ação Final: OS Resolvida
+========================================

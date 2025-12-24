@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 178070
+CLIENTE: BRASFORT - QI 09
+EQUIPAMENTO: Portão - Portão
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção nos motores do Portão (Configurar um controle).
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 174380
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar CFTV . E verificar o suítes.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

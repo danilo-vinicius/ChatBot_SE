@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 173440
+CLIENTE: PARQUE DAS ACÁCIAS - NOROESTE
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação das Faciais.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Foram levados 3 faciais para o Parque das Acácias.
+Status/Ação Final: OS Resolvida
+========================================

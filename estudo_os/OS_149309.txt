@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 149309
+CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ajustar duas câmeras que estavam fora
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 153036
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Motor Portão - 800 Fast
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de novos cabos para o motor de portão, teste dos sensores e comunicação entre motor e cancelas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

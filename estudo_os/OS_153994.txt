@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 153994
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA ELÉTRICA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Edifício/Condomínio] Academia Luger Unidade de Taguatinga Qne 06 
+[Endereço] Qne 06 lote 16
+[Andar/Sala/Unidade] Do lado de fora da academia 
+[Descrição Detalhada do Problema] Prezados, 
+as luzes que ficam do lado de fora estão com mau contato e estão piscando o tempo todo. Gostaríamos de um reparo, por gentileza. Ficaremos no aguardo de um retorno e tenham um ótimo trabalho!
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar luminárias da marquise.
+Status/Ação Final: OS Resolvida
+========================================

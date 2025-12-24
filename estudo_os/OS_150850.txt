@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 150850
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Motor Portão - 800 Fast
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Reparo do sensor motor portao de saida .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

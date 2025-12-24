@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 151962
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Geral - Genérico
+TÉCNICO: Wesley Soares Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Devolução de tag de morador Marcos  José unidade 603
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

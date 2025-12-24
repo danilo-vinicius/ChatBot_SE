@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 129414
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: Botoeira NF simples - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar o motivo da porta interna não estar travando com o eletroímã.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Segundo informações a botoeira interna estaria com defeito.
+Status/Ação Final: Mudança da ligação do sistema da porta interna, ela não estava travando com o eletroímã porque a botoeira interna da recepção está com defeito, agora a ligação não passa pela botoeira interna da recepção. A porta só pode ser aberta via controle remoto ou na própria botoeira da porta.
+========================================

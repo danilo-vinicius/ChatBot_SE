@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 167126
+CLIENTE: PARQUE DAS ACÁCIAS - NOROESTE
+EQUIPAMENTO: Portão - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção portão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 177227
+CLIENTE: CGP - GREEN PARK ASA NORTE
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

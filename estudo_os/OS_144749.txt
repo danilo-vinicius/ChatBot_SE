@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 144749
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: Motor porta de enrolar - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção do Motor da porta de enrolar.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

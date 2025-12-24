@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 153164
+CLIENTE: LS - LAKE SIDE APART HOTEL
+EQUIPAMENTO: Cancela automática - Jetflex
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação do motor da cancela de entrada que tinha sido levado para a manutenção.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Passar cabos para novo sensor da cancela de moradores.
+Status/Ação Final: OS Resolvida
+========================================

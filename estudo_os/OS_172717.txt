@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 172717
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos para os sensores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

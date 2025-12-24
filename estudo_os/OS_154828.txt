@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 154828
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Filtro de Água
+[Nome do Solicitante] André Luis Santana de Barros
+[Telefone] (61) 99605-0605
+[E-mail ] andre.barros@brasfort.com.br
+[Empresa] Brasfort
+[Edifício/Condomínio] Quadra 3
+[Endereço] SAAN qd 3 1240
+[Andar/Sala/Unidade] Térreo
+[Descrição Detalhada do Problema] Gostaria de solicitar, por meio deste e-mail, o reparo do botão de saída de água gelada do filtro localizado no térreo próximo aos banheiros, pois está quebrado conforme imagem anexada.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] A roda fica caindo, dificultando a utilização do filtro de água
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] André Barros
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Reparo no comando de água gelada do filtro do térreo na frente da sala do RH 
+Status/Ação Final: OS Resolvida
+========================================

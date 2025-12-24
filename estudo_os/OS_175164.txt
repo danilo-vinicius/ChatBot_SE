@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 175164
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA CARPINTARIA AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1 andar 
+[Descreva o problema de forma clara e objetiva.] Foram identificadas 9 cadeiras quebradas nas dependências da unidade. Algumas apresentam encosto solto e outras com problemas na estrutura, oferecendo risco de acidente ao serem utilizadas.
+[Impacto (o que acontece se não for resolvido):] Risco de acidentes e desconforto para alunos, comprometendo a segurança e a utilização adequada do espaço.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar possibilidade de consertar as cadeiras quebradas
+Status/Ação Final: OS Resolvida
+========================================

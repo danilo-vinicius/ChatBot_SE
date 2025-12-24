@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 180336
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação do controle de acesso.
+Detalhe do Defeito: Outros
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Apartamento da Glenda Negreiros
+Status/Ação Final: OS Resolvida
+========================================

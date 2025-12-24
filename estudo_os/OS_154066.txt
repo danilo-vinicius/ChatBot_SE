@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154066
+CLIENTE: Verificação Remota CFTV
+EQUIPAMENTO: Câmeras Monitoramento - Visualização
+TÉCNICO: Vicente De Paulo Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Arquivos de todas as câmeras dos sistemas da sin Next e Sigma Image.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

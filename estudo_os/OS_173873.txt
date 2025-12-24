@@ -1,0 +1,27 @@
+
+========================================
+ORDEM DE SERVIÇO: 173873
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA ELÉTRICA AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 2º subsolo
+[Descreva o problema de forma clara e objetiva.] Prezados, boa tarde.
+
+Algumas tomadas do 2º sub solo não estão funcionando e as luzes do banheiro feminino pararam de acender. Já verificamos o quadro geral e todos os disjuntores estão ligados.
+
+Solicitamos, por gentileza, que a manutenção verifique o problema.
+
+Atenciosamente,
+[Impacto (o que acontece se não for resolvido):] Essa situação impacta diretamente nas aulas, pois os instrutores utilizam as tomadas para ligar notebooks e projetores, além de afetar o uso de equipamentos como geladeira e microondas
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar instalações elétricas e necessidade de troca de lâmpadas.
+Status/Ação Final: OS Resolvida
+========================================

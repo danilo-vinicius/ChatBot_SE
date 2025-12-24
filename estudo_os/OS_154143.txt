@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154143
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: Geral - Res. Jacy Burmann - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Controle de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 168804
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Atila Gabriel Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

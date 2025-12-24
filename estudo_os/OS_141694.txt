@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 141694
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Motor Porta de Enrolar - Genérico
+TÉCNICO: Vicente De Paulo Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Colaboradora da lavanderia não conseguiu fechar a porta utilizando o controle.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Problema para fechar a porta, o controle remoto não está funcionando. 
+Status/Ação Final: Mudança de Área Responsável efetuada por: Quely Souza Ferreira
+========================================

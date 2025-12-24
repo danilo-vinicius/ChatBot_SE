@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 160437
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA ELÉTRICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Troca de lâmpadas
+[Descrição Detalhada do Problema] Troca de lâmpadas na loja 307 Sul
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Troca das lâmpadas
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Trocar lâmpadas de bulbo
+Status/Ação Final: OS Resolvida
+========================================

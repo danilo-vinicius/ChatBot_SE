@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 153076
+CLIENTE: BL - NOROESTE
+EQUIPAMENTO: Central de Alarme - AMT 2018 E SMART
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Configurar controle remoto da central de alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 149672
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA HIDRÁULICA SUDOESTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vazamento de água 
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99945-8650
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Sudoeste
+[Edifício/Condomínio] Condominio Sant Tropez
+[Endereço] QMSW 5 LOJA 7,10 BL A
+[Andar/Sala/Unidade] Térreo
+[Descrição Detalhada do Problema] Vazamento de água que escorre pela parede provavelmente cano que passa por dentro da parede.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Sem o reparo pode ocasionar possivel queda dos colaboradores podendo os mesmos escorregarem na água no chão fora o risco de choque elétrico.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Vazamento de água na instalação da loja
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 181563
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: CFTV - Geral
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: manutenção preventiva , cadastro do Xac 4000 na receptora 3060 
+Status/Ação Final: OS Resolvida
+========================================

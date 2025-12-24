@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168291
+CLIENTE: HEXA - CENTRO DE TREINAMENTO
+EQUIPAMENTO: HEXA ELÉTRICA CT - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Quadro de energia
+[Andar/Sala/Unidade] CT BRIGADA
+[Descrição Detalhada do Problema] Mal contato nos botões
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar quadro de bomba do CT. Refazer aperto dos bornes. 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 180037
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção preventiva do sistema de CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

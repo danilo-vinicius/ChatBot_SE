@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168552
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: HEXA HIDRÁULICA BL PENÍNSULA - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vazamento de água
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Está ocorrendo um vazamento de água em uma parede abaixo de uma pia favor peço urgência no atendimento devido a água está se espalhando por todo o chão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazamento próximo a tomada de energia.
+Status/Ação Final: OS Resolvida
+========================================

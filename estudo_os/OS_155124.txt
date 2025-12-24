@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 155124
+CLIENTE: EPB - Residência SHIS QL 32
+EQUIPAMENTO: Central de Alarme - AMT 8000 Pró
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação da Central de alarme na QL 32 Chancelaria.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

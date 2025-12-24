@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 170545
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Devolver a chave da Braslav Península na Braslav QD 1.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

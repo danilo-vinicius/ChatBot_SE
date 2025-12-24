@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 171989
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Informo que foi realizado o serviço de troca de cabeamento para o DVR com suíte. No dia 23/08/2025 , serviço realizado por Mateus e Atila.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

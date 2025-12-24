@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 135821
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Orientar a equipe de colaboradores do condômino quanto ao uso do sistema Brasfort Smart.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

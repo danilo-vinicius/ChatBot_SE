@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 171168
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vaso entupido 
+[Nome do Solicitante] Quely Ferreira
+[Andar/Sala/Unidade] Banheiro feminino 1° subsolo, Sede Brasfort
+[Descrição Detalhada do Problema] Vaso entupido, equipe da limpeza interditou para que não houvesse uso. 
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Vaso entupido
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vaso entupido no banheiro feminino do 1º subsolo
+Status/Ação Final: OS Resolvida
+========================================

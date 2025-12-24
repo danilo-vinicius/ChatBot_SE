@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 174381
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA ELÉTRICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Solicito a verificação da parte elétrica da loja, no subsolo pois a tomada não está acendendo as luzes. 
+[Impacto (o que acontece se não for resolvido):] Prejuízo na iluminação do ambiente, dificultando a realização das atividades no local.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar instalação elétrica .
+Status/Ação Final: OS Resolvida
+========================================

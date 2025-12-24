@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 153385
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA GERAL BL 307S - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Buraco no teto da loja
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav 307 Sul
+[Edifício/Condomínio] Loja Braslav
+[Endereço] SCLS 307 BL D LOJA 03
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Fechar buraco no teto da loja onde provavelmente os gatos estão usando para entrar.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Para evitar dos gatos entrarem na loja
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fechar forro com gesso na área ilustrada na foto
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 153064
+CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+EQUIPAMENTO: HEXA GERAL QD 1 - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Reparo de equipamentos de brigada 
+[Nome do Solicitante] MARCOS LUCIANO OLIVEIRA
+[Telefone] (61) 99294-5791
+[E-mail ] marcos.oliveira@brasfort.com.br
+[Empresa] BRASFORT EMPRESA DE SEGURANÇA   LTDA.
+[Edifício/Condomínio] SEDE
+[Endereço] SAAN Quadra 1, 635
+[Andar/Sala/Unidade] 205
+[Descrição Detalhada do Problema] Reparo de equipamentos de brigada , PARA REVITALIZAÇÃO 05 MACAS E 04 PE DE CABRA 
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Reparo de equipamentos de brigada , PARA REVITALIZAÇÃO 05 MACAS E 04 PE DE CABRA , REDUÇÃO DE CUSTO 
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Marcos Luciano Oliveira
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Pintura de ferramenta e máquina
+Status/Ação Final: OS Resolvida
+========================================

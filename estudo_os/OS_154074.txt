@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 154074
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Configuração de novos controles para a porta de enrolar, testar o funcionamento do motor e testar os novos controles.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Retirar o controle antigo e deixar os dois novos controles.
+Status/Ação Final: OS Resolvida
+========================================

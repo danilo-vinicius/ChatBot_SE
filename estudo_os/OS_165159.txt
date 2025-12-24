@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165159
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Montar e instalar Rack. Serviço realizado dia 07/06/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

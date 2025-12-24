@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 135605
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Motor Porta de Enrolar - Genérico
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do funcionamento de porta automática da lavanderia.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Porta apresenta falha ao receber comando de abertura.
+Status/Ação Final: OS Resolvida
+========================================

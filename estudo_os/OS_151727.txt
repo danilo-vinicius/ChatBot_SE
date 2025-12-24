@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 151727
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: Portal Detector de Metais - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Configuração/Manutenção
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Verificação e teste no portal detector de metais da eclusa, o portal apresenta falhas em áreas de detecção, o indicativo de led não indica a área correta onde o objeto detectado está localizado, em alguns momentos a detecção não é realizada. 
+========================================

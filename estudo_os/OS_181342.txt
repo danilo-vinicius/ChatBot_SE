@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 181342
+CLIENTE: BB PREVIDÊNCIA - SETOR BANCÁRIO SUL
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar se os DVR´s estavam gravando
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

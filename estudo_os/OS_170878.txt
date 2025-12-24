@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 170878
+CLIENTE: BB PREVIDÊNCIA - SETOR BANCÁRIO SUL
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Início das instalações CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Responsável: João Paulo Frutuoso 
+Veículo: MOBI
+
+Descrição	                                Quantidade
+Câmera IP Dome VIP 1230 5G	       16
+Caixa de sobrepor 1100 E	               16
+RJ 45 Macho	                                        1
+Cabo de rede CAT 5E	                        4
+HD 4TB	                                                1
+Protetor Energia  EPS 301 1T	        2
+ MHDX 1116                                            1   
+Switch                                                      1
+Status/Ação Final: OS Resolvida
+========================================

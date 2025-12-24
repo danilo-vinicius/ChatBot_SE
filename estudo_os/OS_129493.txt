@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 129493
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Antena - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de antena, bloco B apartamento 16.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Já possui cabo até o apartamento e está sem conexão da TV aberta, bloco B apartamento 16.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 149341
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone dia 06/01, bloco D 905.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção interfone dia 06/01, bloco D 905.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 136650
+CLIENTE: CASA DE MÁQUINAS
+EQUIPAMENTO: Biometria - Bio Inox Plus SS 311 E
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Configuração de biometria
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

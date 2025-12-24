@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 138026
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Manutenção Semanal - Geral - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Fazer backup das centrais de interfones.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

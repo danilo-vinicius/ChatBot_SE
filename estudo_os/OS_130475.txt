@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 130475
+CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+EQUIPAMENTO: Gravador digital - MHDX 1016
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do estado do HD e gravações das câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar a quantidade de dias de gravação, tamanho do HD e estado das câmeras.
+Status/Ação Final: OS Resolvida
+========================================

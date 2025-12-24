@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 179610
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Testar nobreak, fazer verificação de reposicionamento de eletroímã.
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

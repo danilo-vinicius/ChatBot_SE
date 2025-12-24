@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 164864
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção da central interfone dos blocos I, J e A.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169603
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ligar os IVA.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Quely Souza Ferreira
+========================================

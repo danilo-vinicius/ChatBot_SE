@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 153722
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Cancela automática - Jetflex
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar o funcionamento da cancela de moradores e portão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Foi relatado defeito na cancela de moradores, com isso impedindo o funcionamento do portão de moradores no periodo noturno, a cancela esta aberta e não consegue fechar.
+Status/Ação Final: OS Resolvida
+========================================

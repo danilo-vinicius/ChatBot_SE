@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 171269
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA GERAL BL SUDOESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Instalação do Filtro - Braslav Sudoeste
+[Nome do Solicitante] Gabriela
+[Andar/Sala/Unidade] QMSW 5 LOTE BLOCO A LOJA 10; 14; 16 e 20
+[Descrição Detalhada do Problema] Solicitamos a instalação de um filtro na loja.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Solicitamos que o serviço seja feito, para instalação de um novo filtro.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalar o filtro na loja do sudoeste.
+Status/Ação Final: OS Resolvida
+========================================

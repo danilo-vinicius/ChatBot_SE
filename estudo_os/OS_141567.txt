@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 141567
+CLIENTE: SISTEMA DE BOMBAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Finalização da instalção das faciais e repetidores de sinal do sistema de controle de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

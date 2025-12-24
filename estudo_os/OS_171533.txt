@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 171533
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Acompanhamento de serviço da CLARO , para verificar as faciais que não estão funcionando,  a rede claro com problemas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

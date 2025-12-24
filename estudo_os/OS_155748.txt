@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 155748
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Torneira
+[Empresa] Brasfort Administração
+[Edifício/Condomínio] Sede
+[Endereço] SAAN Qd.03
+[Andar/Sala/Unidade] Banheiro Masculino - 1°SS
+[Descrição Detalhada do Problema] Ao higienizar o banheiro masculino do 1°SS a torneira desprendeu
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Trata-se de local bom bastante rotatividade de funcionários
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Rafael Rocha
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar o acionamento da torneira do banheiro masculino 1ºSS
+Status/Ação Final: OS Resolvida
+========================================

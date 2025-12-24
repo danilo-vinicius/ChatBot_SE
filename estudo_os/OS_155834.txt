@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 155834
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: HEXA ELÉTRICA BL PENÍNSULA - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Troca de lampada
+[Empresa] Braslav Peninsula
+[Descrição Detalhada do Problema] Troca de lâmpada do banheiro
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Trocar luminária Braslav Península
+Status/Ação Final: OS Resolvida
+========================================

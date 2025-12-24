@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 130111
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, bloco G apartamento 111.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Interfone não está funcionando
+Status/Ação Final: OS Resolvida
+========================================

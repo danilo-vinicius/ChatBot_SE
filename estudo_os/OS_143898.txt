@@ -1,0 +1,29 @@
+
+========================================
+ORDEM DE SERVIÇO: 143898
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA ELÉTRICA AL NORTE - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Tipo de Serviço Solicitado]  <span style='color:red'>Outros</span>
+[Outros, Especificar:] Fiação atravessada do teto para janela
+[Nome do Solicitante] Ana Micaela Ferreira (a pedido da gestora Isabelle)
+[Telefone] (61) 99605-1240
+[E-mail ] ana.ferreira@braslav.com.br
+[Empresa] Braslav Lavanderia
+[Edifício/Condomínio] N/consta
+[Endereço] Q SHC/SUL 307 BLOCO F S/N
+[Andar/Sala/Unidade] Loja 03
+[Descrição Detalhada do Problema] Fiação pendurada do teto, passando pela janela impedindo seu travamento. 
+A loja enfrenta problemas com a entrada de gatos causando diversos danos e prejuízos. A colaboradora informou nova entrada dos animais tendo como único acesso disponível essa janela.
+Solicitamos o ajuste necessário da fiação para que a janela fique livre para seu trancamento.
+
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Solicitamos o ajuste necessário da fiação para que a janela fique livre para seu trancamento, afim de impedir a entrada dos animais e causar mais danos e prejuízos à empresa.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Ana Micaela Ferreira
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar a possibilidade de mudança da fiação para que a janela seja fechada completamente.
+Status/Ação Final: Ordem de Serviço gerada a partir do evento 93/2024
+========================================

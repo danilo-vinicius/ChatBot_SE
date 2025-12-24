@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165451
+CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de 2 câmeras e Switch.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

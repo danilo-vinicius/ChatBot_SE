@@ -1,0 +1,77 @@
+
+========================================
+ORDEM DE SERVIÇO: 170254
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Geral - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Retirada dos equipamentos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Remoção de Equipamentos – Lavanderia Braslav Península
+
+Foi realizada a remoção dos seguintes equipamentos na unidade Braslav Península:
+
+Central de alarme
+
+Bateria de backup
+
+3 réguas de energia (filtros de linha)
+
+Patch panel
+
+Access point
+
+Gateway de comunicação
+
+DVR de segurança
+
+4 máquinas de cartão de crédito/débito
+
+Modem/Roteador Wi-Fi
+
+Dispositivo Echo Dot
+
+2 aparelhos telefônicos
+
+Mouse óptico
+
+Teclado padrão
+
+CPU (computador desktop)
+
+Fonte de alimentação
+
+Sirene de alarme
+
+Módulo de alarme XAR 4000 Smart
+
+Teclado de alarme XAT 2000 LCD
+
+2 sensores infravermelhos passivos (IVP 2000 SF)
+
+2 controladores de máquina de cartão
+
+2 impressoras térmicas
+
+Monitor LCD
+
+6 câmeras de CFTV
+
+1 TV
+
+Equipamentos ainda não removidos (pendente por falta de ferramentas adequadas):
+
+Totem
+
+1 câmera de CFTV
+
+1 TV
+
+Rack de equipamentos (hack)
+
+1 máquina de cartão
+
+A retirada total dos equipamentos será finalizada assim que as ferramentas necessárias estiverem disponíveis.
+========================================

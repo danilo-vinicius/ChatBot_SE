@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 180034
+CLIENTE: BL - NOROESTE
+EQUIPAMENTO: HEXA HIDRÁULICA BL NOROESTE - ENGENHARIA
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Q SHCNW CLNW 2/3 BLOCO F S/N LOJA 106 - CENTRO NOROESTE
+[Descreva o problema de forma clara e objetiva.] Gostaria de solicitar, por gentileza, a verificação da pia da copa da loja, pois ela se encontra entupida.
+[Impacto (o que acontece se não for resolvido):] o que pode impactar a higiene, o uso do espaço e as atividades dos colaboradores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Desentupir pia da copa.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 133382
+CLIENTE: EPB - Residência QL 12
+EQUIPAMENTO: Central de Alarme - AMT 2018 E SMART
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

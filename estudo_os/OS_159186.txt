@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 159186
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA ELÉTRICA BL QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Ventiladores e tomada sem funcionar
+[Andar/Sala/Unidade] Área operacional
+[Descrição Detalhada do Problema] 2 ventiladores de parede e 1 tomada não pararam de funcionar.
+[Justificativa para a Solicitação Os ventiladores pararam de funcionar são essenciais para amenizar o calor na Lavanderia e a tomada seria para ligar um computador da Expedição.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Tomada sem energia e ventilador sem funcionar
+Status/Ação Final: Em Andamento
+========================================

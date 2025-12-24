@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 167049
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalar facial e realocação da biometria.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 180412
+CLIENTE: BRASFORT - GOIANIA
+EQUIPAMENTO: Manutenção Geral - Geral
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

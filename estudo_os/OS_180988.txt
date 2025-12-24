@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 180988
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Controle de acesso GERAL - Genérico
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar cabo do interfone.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: No condomínio Top Life foi realizada a emenda do cabo de interfonia entre uma guarita e outra. No entanto, a conexão não foi retomada. Após análise do cenário, constatou-se que será necessária a passagem de um cabo adequado, que ainda será cotado
+Status/Ação Final: OS Resolvida
+========================================

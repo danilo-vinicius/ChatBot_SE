@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165327
+CLIENTE: EPB - Residência SHIS QL 32
+EQUIPAMENTO: CFTV GERAL - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

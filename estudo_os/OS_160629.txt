@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 160629
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalar o switch e câmeras, dia 14/04/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

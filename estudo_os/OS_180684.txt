@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 180684
+CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

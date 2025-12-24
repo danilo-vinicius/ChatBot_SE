@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 141569
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Antena - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de antena, bloco A apartamento 110.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

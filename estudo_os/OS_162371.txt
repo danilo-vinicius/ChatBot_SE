@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 162371
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Demonstração sistema de controle de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

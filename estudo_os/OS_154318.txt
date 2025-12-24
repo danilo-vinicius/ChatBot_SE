@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154318
+CLIENTE: EPB - Residência QI 05
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção dos interfones dos elevadores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: A manutenção dos interfones dos elevadores dos blocos D, E e F foi realizada. Nos blocos D e F, os problemas foram corrigidos, e ambos os interfones, tanto o social quanto o de serviço, estão funcionando normalmente (Bloco D: ramal 81; Bloco F: ramal 83).No bloco E, não foi encontrado o cabeamento do elevador social, sendo necessário o apoio do técnico responsável pelos elevadores para uma nova manutenção. Da mesma forma, o interfone do elevador de serviço também está fora de linha devido ao mesmo problema no cabeamento. Olhando também no primeiro andar e no gourmet, não conseguimos identificar esses cabos. A identificação dos cabos foi feita com o ratinho, encontrando do elevador e saindo diretamente na central.
+========================================

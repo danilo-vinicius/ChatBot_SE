@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 147097
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Antena - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção antena Apto H216 24/12/2024
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

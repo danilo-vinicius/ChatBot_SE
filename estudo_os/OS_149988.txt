@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 149988
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

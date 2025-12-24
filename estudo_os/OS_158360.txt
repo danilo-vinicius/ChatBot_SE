@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 158360
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Troca da botoeira.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Quely Souza Ferreira
+========================================

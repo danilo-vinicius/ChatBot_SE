@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 148661
+CLIENTE: REP9C32
+EQUIPAMENTO: Verificação veicular - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Ordem de serviço de manutenção planejada liberada para atendimento.
+========================================

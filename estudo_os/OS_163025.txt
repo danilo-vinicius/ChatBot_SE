@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 163025
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passar cabo e localizar os pontos de energia.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Relatório de Passagem de Cabos – SQS 206 No dia 25/05, foi realizada a passagem de cabos de rede no prédio da SQS 206, com o objetivo de interligar a sala administrativa à portaria. A atividade teve início na sala administrativa, onde o cabo de rede foi direcionado para cima, passando pela laje do edifício até alcançar o compex instalado na parte externa do prédio. A partir desse ponto, o cabo seguiu o trajeto sobre a laje até atingir o corredor localizado atrás da portaria. Para possibilitar esse percurso, foram realizados dois furos com o uso de martelete: O primeiro furo, feito no teto da sala administrativa, permitiu que o cabo subisse até a laje; O segundo furo, feito no teto do corredor atrás da portaria, possibilitou a descida do cabo até o nível da portaria. Após passar pelo segundo furo, o cabo foi conduzido externamente por meio de um conduíte já existente, o qual já continha outros cabos instalados. O percurso foi finalizado com a execução de um terceiro furo, também com martelete, localizado acima do blindex da portaria, permitindo a entrada do cabo no ambiente da portaria de forma segura e organizada. Este procedimento assegura a conexão adequada entre os dois pontos, mantendo a infraestrutura protegida e funcional.
+========================================

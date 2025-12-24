@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169344
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar controle de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

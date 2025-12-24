@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 140279
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: Facial - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Cadastrar colaboradores da academia Luger Taguatinga.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

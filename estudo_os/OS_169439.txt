@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169439
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Cadastrar facial de colaborador.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Luciano Nascimento
+========================================

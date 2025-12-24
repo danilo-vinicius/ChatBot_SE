@@ -1,0 +1,24 @@
+
+========================================
+ORDEM DE SERVIÇO: 152137
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA GERAL BL 307S - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Tomadas em curto
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99945-8650
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Peninsula
+[Edifício/Condomínio] Condominio Peninsula
+[Endereço] Av. Araucarias LT 4530/4790
+[Andar/Sala/Unidade] Loja 16
+[Descrição Detalhada do Problema] Devido a infiltração na parede as tomadas estão entrando em curto conforme mostra nas fotos.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] As tomadas continuarão em curto gerando transtorno nos processos da loja.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

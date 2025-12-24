@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 158443
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA HIDRÁULICA TÉRREO - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Piso tático
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O piso tático próximo ao elevador está soltando 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 160632
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA GERAL TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Limpeza da máquina e higienização periódica
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A máquina está muito suja e precisando de limpeza.
+Status/Ação Final: OS Resolvida
+========================================

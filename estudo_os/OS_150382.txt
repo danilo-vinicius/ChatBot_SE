@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 150382
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Antena - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Arrumar antena Bloco F apartamento 118
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

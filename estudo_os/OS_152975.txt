@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 152975
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA GERAL BL QD 1 - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Solda e reparo da grade e evitar a entrada de animais
+[Descrição Detalhada do Problema] Solda e reparo da grade para evitar a entrada de animais.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Par evitar a entrada de animais na Sede e consequentemente evitar sujarem os enxovais dos clientes.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Levar máquina de solda para soldar abertura em portão
+Status/Ação Final: OS Resolvida
+========================================

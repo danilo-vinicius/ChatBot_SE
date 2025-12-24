@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 152965
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: BrasfortSmart - Geral
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+O morador Tiago Andrade Silva, do apartamento 201, está com dificuldades para realizar a abertura da porta pelo aplicativo BrasfortSmart.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

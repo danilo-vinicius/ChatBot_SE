@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 177853
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: Central de Alarme - AMT 8000 Pró
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção na Central de Alarme e CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

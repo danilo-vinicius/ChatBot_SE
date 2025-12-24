@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 177480
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de Interfone apartamento 110 boloco A, as 10:00 horas.
+Detalhe do Defeito: Interfone mudo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

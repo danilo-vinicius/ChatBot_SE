@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148261
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, bloco F apartamento 1206.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção de interfone, bloco F apartamento 1206.
+Status/Ação Final: OS Resolvida
+========================================

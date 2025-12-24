@@ -1,0 +1,31 @@
+
+========================================
+ORDEM DE SERVIÇO: 167310
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção motor do portão, atendimento realizado dia 26/06/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Descrição do Serviço:
+Foi realizada uma vistoria e tentativa de reparo no motor do portão principal da residência Pontifícias, que apresenta falha no processo de fechamento. Durante o fechamento, o motor interrompe o funcionamento de forma inesperada, indicando uma falha interna de funcionamento.
+
+Ações Realizadas:
+Foram testadas diferentes alternativas para solucionar o problema, incluindo:
+
+Verificação dos sensores de fim de curso;
+
+Teste e substituição temporária da fiação elétrica;
+
+Lubrificação e ajuste das engrenagens internas.
+
+Apesar dos esforços, as tentativas não foram eficazes para resolver o problema de forma definitiva.
+
+Situação Atual:
+O motor continua apresentando falhas no fechamento. Neste momento, aguarda-se decisão do responsável para prosseguir com a substituição do equipamento ou aquisição de um novo motor.
+
+Observações:
+Recomenda-se a substituição completa do motor, tendo em vista o desgaste interno e a ineficácia dos reparos realizados.
+========================================

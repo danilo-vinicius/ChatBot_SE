@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 162291
+CLIENTE: NVL NOVELIS
+EQUIPAMENTO: Central de alarme - AMT 8000 Pró
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar o funcionamento do alarme, está apresentando erro no arme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Não está sendo possível o acesso remoto para verificação da situação da central.
+Status/Ação Final: OS Resolvida
+========================================

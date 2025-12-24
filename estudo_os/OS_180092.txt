@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 180092
+CLIENTE: 1º andar
+EQUIPAMENTO: HEXA ELÉTRICA 1° ANDAR - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Substituição de painel de led
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Foram feitas a substituição de e painel de led 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 177168
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV e Rack - Bloco F
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: (Dia 21/10/2025)
+Status/Ação Final: OS Resolvida
+========================================

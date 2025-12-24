@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 182618
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Geral - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Revisão Geral.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: A instalação do aplicativo CPU-Z foi realizada no sistema do condomínio Acácias com o objetivo de realizar a manutenção e otimização dos componentes de hardware. O software foi empregado para realizar o diagnóstico detalhado das especificações da CPU, memória RAM, placa-mãe, e outros periféricos críticos, visando garantir o correto funcionamento e configurar adequadamente os recursos do sistema. Este procedimento contribui para a verificação da integridade dos componentes e para ajustes necessários no desempenho do equipamento, caso necessário. 
+foi feita a verificação das facias ta,bem, mais estavam todas funcionando no padrão, o problema era nas portas por conta do pico de enrgia.
+========================================

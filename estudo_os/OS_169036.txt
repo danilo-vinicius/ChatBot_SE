@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169036
+CLIENTE: BB PREVIDÊNCIA - SETOR BANCÁRIO SUL
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Revisão CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

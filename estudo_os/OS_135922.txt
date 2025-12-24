@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 135922
+CLIENTE: CASA DE MÁQUINAS
+EQUIPAMENTO: Biometria - Bio Inox Plus SS 311 E
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Finalizar infraestrutura e ligação de biometrias.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

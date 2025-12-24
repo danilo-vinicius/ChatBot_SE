@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 154679
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA GERAL BL QD 1 - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Fixação de TV com suporte na parede
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Sede
+[Edifício/Condomínio] Sede Saan
+[Endereço] Quadra 01 lote 835 Saan
+[Andar/Sala/Unidade] Sala de descanso
+[Descrição Detalhada do Problema] Tirar o suporte de TV do refeitório e fixar na sala de descanso para instalação da TV.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Para uso da TV pela Gerência da Braslav quando ocorrer treinamentos 
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fixação de suporte de TV
+Status/Ação Final: OS Resolvida
+========================================

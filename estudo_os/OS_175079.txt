@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 175079
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA CARPINTARIA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Moisés Filipe Melo Souza
+[Telefone (celular):] (61) 99120-1998
+[Endereço de E-mail:] moises.souza@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Porta da copa/sala dos professores
+[Descreva o problema de forma clara e objetiva.] Parte superior do portal, parte que segura os sensores, caiu e está pendurado.
+[Impacto (o que acontece se não for resolvido):] Mal funcionamento da porta que permite acesso para a copa e para o cofre.
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] Estamos aqui das 07:00hrs às 18:00hrs. A sala possui facial, portanto, estaremos por perto para abrir
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Reparo em portal.
+Status/Ação Final: OS Resolvida
+========================================

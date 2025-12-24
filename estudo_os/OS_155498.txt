@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 155498
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Descarga do banheiro masculino
+[Edifício/Condomínio] Sede nova
+[Endereço] SAAN Quadra 03
+[Andar/Sala/Unidade] Banheiro - 2° andar
+[Descrição Detalhada do Problema] Solicitamos a manutenção do mictório localizado no banheiro masculino do 2° andar.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Trata-se de local com grande público
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Vazamento em mictório 2º pavimento
+Status/Ação Final: OS Resolvida
+========================================

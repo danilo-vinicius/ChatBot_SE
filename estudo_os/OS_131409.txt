@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 131409
+CLIENTE: LS - LAKE SIDE APART HOTEL
+EQUIPAMENTO: Cancela automática - Jetflex
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar e corrigir defeito na cancela de entrada de moradores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Cancela de moradores apresenta defeito na função de fechamento automático, sendo necessário o acionamento da botoeira.
+Status/Ação Final: OS Resolvida
+========================================

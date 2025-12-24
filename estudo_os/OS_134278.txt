@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 134278
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: Câmera IP - VIP 3230 D
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalar duas câmeras IP VIP 3230 D.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

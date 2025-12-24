@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 173741
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA HIDRÁULICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Solicito que veja feito um instalação de um ponto de água, para a instalação dos tosadores de produtos como mostra na foto anexa.
+[Impacto (o que acontece se não for resolvido):] Será necessário a instalação para o funcionando dos maquinários
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalação de ponto hidráulico.
+Status/Ação Final: OS Resolvida
+========================================

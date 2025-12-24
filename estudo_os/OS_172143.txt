@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 172143
+CLIENTE: CIPLAN SOBRADINHO
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Infraestrutura.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: (MOBI-OPERACIONAL SYTOE19)
+Status/Ação Final: OS Resolvida
+========================================

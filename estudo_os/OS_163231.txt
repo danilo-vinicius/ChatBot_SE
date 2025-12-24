@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 163231
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Fechadura  
+[Andar/Sala/Unidade] Primeiro subsolo 
+[Descrição Detalhada do Problema] Fechadura com dificuldade de abrir
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar a porta no 1 subsolo. procurar o Marllon para saber qual porta é.
+Status/Ação Final: OS Resolvida
+========================================

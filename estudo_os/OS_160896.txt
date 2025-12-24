@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 160896
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Revisão do sistema de CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

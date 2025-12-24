@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 155119
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Central PABX Telefonica - CP 352
+TÉCNICO: Quely Souza Ferreira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Retirada da central 112.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foi retirado a Central CP 112 c/ placa ramal desbalanceada no dia 21/01/2025, e foi encaminhado para manutenção, está em anexo o orçamento.
+========================================

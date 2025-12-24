@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165497
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: Geral - Geral
+TÉCNICO: Kayke Rodrigues Alves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Acompanhar o técnico, que foi verificar o problema na máquina Braslav Green Park.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

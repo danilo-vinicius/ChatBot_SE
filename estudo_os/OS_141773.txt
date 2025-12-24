@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 141773
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: HEXA GERAL AL NORTE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Tipo de Serviço Solicitado] <span style='color:red'>Manutenção de Equipamentos</span>
+[Outros, Especificar:] compressor
+[Nome do Solicitante] Isabelle
+[Telefone] (61) 99327-2610
+[E-mail ] isabelle.laureano@braslav.com.br
+[Empresa] Braslav Peninsula
+[Edifício/Condomínio] Condominio Peninsula
+[Endereço] Av. Araucarias LT 4530/4790
+[Andar/Sala/Unidade] Loja 16
+[Descrição Detalhada do Problema] Verificar o compressor que precisa ser trocado o óleo.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] O óleo precisa ser trocado caso contrário o compressor para e ele é usado junto com as máquinas de passadoria da loja.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Isabelle
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

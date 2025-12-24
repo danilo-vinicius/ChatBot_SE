@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169519
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passar cabo de energia e ligar as fontes.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

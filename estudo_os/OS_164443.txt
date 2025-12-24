@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 164443
+CLIENTE: 3º andar
+EQUIPAMENTO: HEXA HIDRO SANITÁRIO 3° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Conter vazamento no mictório
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Vazamento no mictório masculino 
+Status/Ação Final: OS Resolvida
+========================================

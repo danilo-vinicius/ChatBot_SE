@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 179588
+CLIENTE: RMC RESIDENCIA MARIA DO CARMO
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Controle de Acesso
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

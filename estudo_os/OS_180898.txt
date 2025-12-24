@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 180898
+CLIENTE: LONGEVITÀ - SUDOESTE
+EQUIPAMENTO: Controle de acesso - IDFace
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passar os cabos para as faciais do portão de PCD, instalar eletroímã e fixar a fonte.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Testar as botoeiras das catracas.
+Status/Ação Final: OS Resolvida
+========================================

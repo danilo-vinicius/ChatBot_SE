@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 178424
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Finalizar instalação.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 159715
+CLIENTE: 1º andar
+EQUIPAMENTO: HEXA CARPINTARIA 1° ANDAR - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Reparo no puxador
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O puxador da porta da copa está soltando 
+Status/Ação Final: OS Resolvida
+========================================

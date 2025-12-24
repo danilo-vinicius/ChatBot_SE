@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 156398
+CLIENTE: BL - ASA NORTE
+EQUIPAMENTO: HEXA ELÉTRICA BL ASA NORTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Criação de 1 ponto de elétrica para uso de uma balança
+[Empresa] Braslav Asa Norte (Green Park)
+[Edifício/Condomínio] GREEN PARK
+[Endereço] SGAN 911 BLOCO F
+[Andar/Sala/Unidade] Lavanderia Braslav
+[Descrição Detalhada do Problema] Criação de um ponto de elétrica para uso de uma balança onde os moradores irão pesar as roupas antes de colocarem nas máquinas lavar e seca. O local onde o ponto deve ficar é na parede de frente com a porta de entrada.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalar tomada
+Status/Ação Final: OS Resolvida
+========================================

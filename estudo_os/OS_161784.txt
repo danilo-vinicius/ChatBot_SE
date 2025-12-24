@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 161784
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: SISTEMA DE CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV da guarita, verificação dos cabos dos computadores, serviço realizado dia 05/05/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

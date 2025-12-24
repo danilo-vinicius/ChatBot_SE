@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 165720
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA HIDRÁULICA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] VAZAMENTO NO ESTANDE
+[Andar/Sala/Unidade] Unidade de Taguatinga
+[Descrição Detalhada do Problema] Venho por meio desse chamado solicitar a verificação e manutenção do vazamento presente no estande A, tendo em vista que a agua está derramando e chegou na metade no estande.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

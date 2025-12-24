@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148681
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Computador - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Configurar computador.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Configurar computador.
+Status/Ação Final: OS Resolvida
+========================================

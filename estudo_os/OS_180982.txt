@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 180982
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA HIDRÁULICA AL ASA NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1º andar 
+[Descreva o problema de forma clara e objetiva.] Prezados, boa tarde.
+
+Gostaria de solicitar atendimento para o conserto da descarga do banheiro masculino do 1º andar. A bomba da descarga está apresentando problema e não está funcionando corretamente.
+[Impacto (o que acontece se não for resolvido):] devido à necessidade de interditar o banheiro até que o reparo seja realizado, temos um grande fluxo de alunos utilizando o espaço, o que pode gerar filas, transtornos e sobrecarga nos demais sanitários.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar descarga.
+Status/Ação Final: OS Resolvida
+========================================

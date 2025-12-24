@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 161087
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA ELÉTRICA BL QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Troca de lâmpadas
+[Andar/Sala/Unidade] Área administrativa
+[Descrição Detalhada do Problema] Troca de lâmpada da área administrativa (1 no banheiro da sala da Gerência) e (2 no almoxarifado e 2 no corredor a frente da escada).
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] A lâmpada do banheiro da Gerência queimou dando um curto e acabou derrubando o disjuntor (já foi religado).
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: troca de lâmpadas
+Status/Ação Final: OS Resolvida
+========================================

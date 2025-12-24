@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 175861
+CLIENTE: CIPLAN SOBRADINHO
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

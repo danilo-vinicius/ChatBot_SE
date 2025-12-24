@@ -1,0 +1,31 @@
+
+========================================
+ORDEM DE SERVIÇO: 153334
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: Central de alarme - AMT 2018 E/EG
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Tipo de Serviço Necessário]  <span style='color:red'>Controle de Acesso (portôes, portas, catracas</span>
+[Outros, Especificar:] 
+[Empresa ou Departamento] Luger Asa norte
+[Responsável pela solicitação] Aline
+[Telefone do solicitante para contato] (61) 99199-6606
+[E-mail do solicitante para contato] aline.silva@luger-academia.com.br
+[Empresa] Luger Asa norte
+[Edifício/Condomínio] 
+[Endereço] 
+[Andar/Sala/Unidade] 
+[Descrição Detalhada do Problema] Prezados,
+
+Gostaria de informar que a porta de acesso ao estande, especificamente a que possui o leitor de digital, não está funcionando corretamente. A porta não está fechando, apresentando interferências e mau contato.
+
+Fico no aguardo de uma solução.
+
+Atenciosamente,
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Aline Ferreira da Silva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Ordem de Serviço gerada a partir do evento 52/2025
+========================================

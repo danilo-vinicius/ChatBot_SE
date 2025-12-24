@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 158573
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA ELÉTRICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Fixar luminária
+[Descrição Detalhada do Problema] Luminária se soltou precisando fixar no lugar
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fixação de luminária
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 155210
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+As câmeras na guarita estão fora e o controle de acesso da portaria também se encontra fora.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 172987
+CLIENTE: Rancho Verde (Usina Rancho Verde)
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+FALHA DE COMUNICAÇÃO COM AS CÂMERAS NA USINA RANCHO VERDE.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21371643,"beginDate":"2025-09-03T09:41:11.840+0000","endDate":null,"status":5,"sequentialId":337,"accountId":1473869,"accountCode":"0090","accountOffset":-3,"personOpenId":128758,"personOpen":"Adriel Rego","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":1,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":18744471,"text":"FALHA DE COMUNICA\u00c7\u00c3O COM AS C\u00c2MERAS NA USINA RANCHO VERDE.","date":"2025-09-03T09:41:12.000+0000","personId":128758,"person":"Adriel Rego","lastEditionDate":null}],"account":"Rancho Verde (Usina Rancho Verde)","executingActivities":false}
+Status/Ação Final: Ordem de Serviço solicitada
+========================================

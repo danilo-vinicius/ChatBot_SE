@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 182462
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: Geral - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção preventiva e troca de chip da central.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foi realizada manutenção preventiva no sistema de segurança da unidade Braslav Sudoeste, localizada no Condomínio Saint Tropez.
+
+Durante a manutenção preventiva, foram executados os seguintes procedimentos técnicos: inspeção visual e funcional dos equipamentos instalados; verificação do estado físico das câmeras, cabeamento, conectores e pontos de alimentação; checagem do funcionamento do DVR/NVR; testes de comunicação e gravação; e validação geral do desempenho do sistema.
+
+No decorrer da análise técnica, constatou-se que duas câmeras encontram-se sem sinal de imagem, apresentando falha de comunicação. A causa mais provável está relacionada a problema no conector, podendo envolver mau contato, oxidação ou desgaste do componente. As demais câmeras foram testadas individualmente e estão operando normalmente, com imagem estável e dentro dos parâmetros esperados.
+
+Adicionalmente, foi realizada a substituição do chip (SIM card) da central de alarme, procedimento necessário para restabelecer e garantir a comunicação adequada do sistema com a central de monitoramento. Após a troca, foram efetuados testes de envio e recebimento de sinal, confirmando o funcionamento correto da comunicação.
+
+O sistema permanece operacional, ficando pendente apenas a correção dos conectores das duas câmeras identificadas com falha para o pleno funcionamento do circuito de CFTV
+========================================

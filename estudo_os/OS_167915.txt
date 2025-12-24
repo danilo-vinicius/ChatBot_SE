@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 167915
+CLIENTE: 1º subsolo
+EQUIPAMENTO: HEXA GERAL SUBSOLO 1 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Colar placas de venilico  na sala
+Operacional
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: As placas de venilico está soltando.
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos. Atribuição em massa.
+========================================

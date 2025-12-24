@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 173302
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone mudo Apartamento 201 bloco H.
+Detalhe do Defeito: Interfone mudo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

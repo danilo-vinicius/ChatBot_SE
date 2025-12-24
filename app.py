@@ -1,0 +1,74 @@
+import streamlit as st
+from utils.cerebro_ia import carregar_conhecimento
+import google.generativeai as genai
+
+st.set_page_config(page_title="Mentor Técnico Brasfort", page_icon="🛡️")
+
+st.title("🛡️ Mentor Técnico Brasfort")
+st.caption("Base de conhecimento alimentada via API PerformanceLab.")
+
+# --- BARRA LATERAL ---
+with st.sidebar:
+    st.header("⚙️ Sincronização")
+    if st.button("🔄 Atualizar Base de Dados"):
+        with st.spinner("Baixando novas OSs da API..."):
+            # Importa e roda o script de sincronização na hora
+            from utils.sincronizar_api import baixar_e_salvar_os
+            baixar_e_salvar_os()
+            st.cache_resource.clear() # Limpa a memória da IA para ler os novos arquivos
+            st.success("Base atualizada com sucesso!")
+    
+    st.info("Clique acima para baixar as últimas OSs do sistema.")
+
+# --- CARREGA MEMÓRIA ---
+@st.cache_resource
+def get_memoria():
+    return carregar_conhecimento()
+
+conhecimento = get_memoria()
+
+# --- CHAT ---
+if "mensagens" not in st.session_state:
+    st.session_state.mensagens = [{"role": "assistant", "content": "Olá! Pode descrever o problema ou colar seu rascunho. Vou consultar nosso histórico."}]
+
+for msg in st.session_state.mensagens:
+    with st.chat_message(msg["role"]):
+        st.markdown(msg["content"])
+
+if prompt := st.chat_input("Escreva aqui..."):
+    st.session_state.mensagens.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+
+    with st.chat_message("assistant"):
+        with st.spinner("Analisando histórico técnico..."):
+            # Prompt de Mentor
+            instrucao = f"""
+            Você é o Supervisor Técnico Sênior da Brasfort.
+            Sua base de conhecimento é HÍBRIDA: contém histórico de OSs reais (campo) e Manuais Técnicos oficiais.
+            
+            BASE DE CONHECIMENTO (Contexto):
+            {conhecimento[:30000]}  <-- Aumentamos o limite de leitura, o Flash aguenta!
+            
+            SUA TAREFA:
+            1. Se a pergunta for sobre "como resolver", consulte as OSs para ver o que já funcionou.
+            2. Se a pergunta for técnica (ex: "como resetar", "qual a voltagem"), consulte os Manuais.
+            3. Se for um relato informal, reescreva formalmente.
+            
+            MENSAGEM DO USUÁRIO:
+            "{prompt}"
+            """
+            
+            try:
+                if "GOOGLE_API_KEY" in st.secrets:
+                    genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
+                    model = genai.GenerativeModel("gemini-flash-latest")
+                    resp = model.generate_content(instrucao)
+                    texto = resp.text
+                else:
+                    texto = "Erro: Chave de API não configurada."
+                
+                st.markdown(texto)
+                st.session_state.mensagens.append({"role": "assistant", "content": texto})
+            except Exception as e:
+                st.error(f"Erro: {e}")

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182543
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de rack e bandeja.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Chegando no local, inicamos verificando como estavam os cabos, se possuíam sobra suficiente para levar ate o novo rack que iremos instalar, observamos que não tem sobra suficiente, será necessário a abertura de uma nova passagem para mudar a posição dos cabos, montamos o rack e vimos onde ficaria melhor para a fixação.
+========================================

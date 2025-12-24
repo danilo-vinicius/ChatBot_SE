@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 127852
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Câmeras - Vip 1230
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de câmeras IP
+Detalhe do Defeito: Falha de gravação Câmeras IP
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

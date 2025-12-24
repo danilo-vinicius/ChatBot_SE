@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 150837
+CLIENTE: Verificação Remota CFTV
+EQUIPAMENTO: Câmeras Monitoramento - Visualização
+TÉCNICO: Adriel Rodrigues
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ronda virtual.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

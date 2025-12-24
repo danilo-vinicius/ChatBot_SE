@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 129492
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, apartamento 16 bloco B.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Interfone mudo.
+Status/Ação Final: OS Resolvida
+========================================

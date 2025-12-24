@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 155211
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Servidor LPR - Genérico
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Correção de posicionamento devido a forte chuva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

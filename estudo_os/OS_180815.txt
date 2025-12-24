@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 180815
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA GERAL AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] DANIELA SILVA BATISTA
+[Telefone (celular):] (61) 99948-1892
+[Endereço de E-mail:] daniela.batista@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Unidade de Taguatinga, Estande 
+[Descreva o problema de forma clara e objetiva.] Reparo/troca de Mola Aérea Para Fechamento De Porta de entrada do ESTANDE.
+[Impacto (o que acontece se não for resolvido):] Pode causar o mal fechamento da porta.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar se a mola da porta tem conserto ou se é necessário a aquisição de uma nova.
+Status/Ação Final: OS Resolvida
+========================================

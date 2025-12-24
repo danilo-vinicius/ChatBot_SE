@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 137121
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Central de Alarme - AMT 2018 E/EG
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Troca da central de alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Troca da central de alarme intelbras.
+========================================

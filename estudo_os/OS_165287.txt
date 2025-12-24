@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 165287
+CLIENTE: HEXA - CENTRO DE TREINAMENTO
+EQUIPAMENTO: HEXA HIDRÁULICA CT - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Falta de água
+[Nome do Solicitante] Rafael Rocha
+[Descrição Detalhada do Problema] Foi identificado a falta de agua tanto nas torneiras, quanto na caixa d'agua.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar falta de água no CT.
+Status/Ação Final: OS Resolvida
+========================================

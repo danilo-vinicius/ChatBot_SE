@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 172462
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA ELÉTRICA AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] 
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Welisson da Silva Cunha
+[Telefone (celular):] (61) 93878-3487
+[Endereço de E-mail:] contato@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] subsolo/stand/Asa norte
+[Descreva o problema de forma clara e objetiva.] Solicito a manutenção elétrica do exaustor do stand com urgência na segunda-feira na parte da manhã
+[Impacto (o que acontece se não for resolvido):] Sofreremos punições do órgão competente   
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] é preciso da muntenção as 8:00 da manha da segunda feira(01/09/2025)
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: verificar a situação do exaustor do estande de tiro da loja da asa norte.
+Status/Ação Final: OS Resolvida
+========================================

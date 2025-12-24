@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 168731
+CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+EQUIPAMENTO: HEXA ELÉTRICA QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Lâmpadas queimadas 
+[Andar/Sala/Unidade] Térreo 
+[Descrição Detalhada do Problema] Prezados,
+Venho por meio deste solicitar a substituição das lâmpadas queimadas do corredor do térreo. A manutenção adequada da iluminação é fundamental para garantir a segurança e o conforto dos usuários que transitam por essa área. A falta de iluminação apropriada pode resultar em acidentes, além de comprometer a visibilidade e a estética do ambiente.
+Portanto, peço que essa demanda seja atendida com a maior brevidade possível, a fim de restabelecer as condições ideais de iluminação no corredor.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar troca de lâmpada.
+Status/Ação Final: OS Resolvida
+========================================

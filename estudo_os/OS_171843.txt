@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 171843
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA HIDRÁULICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] 
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Solicitamos a instalação hidráulica - 2 pontos de rede de esgoto para máquinas de lavar no subsolo
+[Impacto (o que acontece se não for resolvido):] Será necessário a instalação para o funcionando da máquina de lavar 
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):]
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalar 2 pontos de esgoto para as máquinas de lavar.
+Status/Ação Final: OS Resolvida
+========================================

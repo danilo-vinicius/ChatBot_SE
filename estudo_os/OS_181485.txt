@@ -1,0 +1,30 @@
+
+========================================
+ORDEM DE SERVIÇO: 181485
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA GERAL AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] Reparo no Forro
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1 andar 
+[Descreva o problema de forma clara e objetiva.] Prezados,
+
+Boa tarde.
+
+Solicito a abertura de chamado para realizar o reparo da abertura no forro, conforme fotos em anexo. A abertura precisou ser feita para possibilitar a manutenção do ar-condicionado, que apresentou falha e exigiu uma nova ligação dos fios.
+
+Agora que o serviço foi concluído, é necessário refazer o acabamento do forro, garantindo a vedação adequada e a estética do ambiente.
+
+
+[Impacto (o que acontece se não for resolvido):] Agora que o serviço foi concluído, é necessário refazer o acabamento do forro, garantindo a vedação adequada e a estética do ambiente.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fechar buraco no gesso.
+Status/Ação Final: OS Resolvida
+========================================

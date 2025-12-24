@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 179841
+CLIENTE: RMC RESIDENCIA MARIA DO CARMO
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Trocar fontes dos Twibi
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

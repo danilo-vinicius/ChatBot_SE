@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 140172
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Limpeza e manutenção do CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: limpeza de câmeras e manutenção preventiva de CFTV.
+Status/Ação Final: OS Resolvida
+========================================

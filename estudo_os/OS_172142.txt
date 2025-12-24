@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 172142
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de Portão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: (MOBI-OPERACIONAL - SYTOE23)
+Status/Ação Final: OS Resolvida
+========================================

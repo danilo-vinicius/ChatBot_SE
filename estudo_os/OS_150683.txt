@@ -1,0 +1,26 @@
+
+========================================
+ORDEM DE SERVIÇO: 150683
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA HIDRÁULICA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Pias dos banheiros entupidas 
+[Nome do Solicitante] Amanda Andrade 
+[Telefone] (61) 99132-0661
+[E-mail ] amanda.costa@luger-academia.com.br
+[Empresa] Academia Luger Unidade de Taguatinga 
+[Edifício/Condomínio] Academia Luger Unidade de Taguatinga Qne 06 
+[Endereço] Qne 06 lote 16
+[Andar/Sala/Unidade] Banheiros Feminino e Masculino 
+[Descrição Detalhada do Problema] Prezados, 
+As pias de todos os banheiros da academia estão demorando muito para descer a água, tanto do feminino, quanto do masculino. O único que não apresenta problemas é o do PNE. Desde já agradecemos e ficaremos no aguardo de um retorno com a solução.  
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Pode ocasionar um alagamento ou um possível vazamento e é insalubre.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] Estamos aqui das 07:00hrs às 18:00hrs. A sala possui facial, portanto, estaremos por perto para abrir 
+[Nome do Solicitante (Assine no campo abaixo)] Amanda Andrade da Costa
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Serviço desentupimento de pias.
+Status/Ação Final: OS Resolvida
+========================================

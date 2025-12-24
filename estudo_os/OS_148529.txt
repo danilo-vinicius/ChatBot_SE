@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148529
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, bloco D apartamento 1302.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção de interfone, bloco D apartamento 1302.
+Status/Ação Final: OS Resolvida
+========================================

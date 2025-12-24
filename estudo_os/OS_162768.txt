@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 162768
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vazamento 
+[Nome do Solicitante] Edivania Almeida 
+[Andar/Sala/Unidade] Térreo sala Adm 
+[Descrição Detalhada do Problema] Vazamento atrás do vaso sanitário bo banheiro femenino do segundo andar
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

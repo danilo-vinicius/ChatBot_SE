@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 159215
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA PINTURA TÉRREO - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção elevador
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção periódica 
+Status/Ação Final: OS Resolvida
+========================================

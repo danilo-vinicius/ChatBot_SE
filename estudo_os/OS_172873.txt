@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 172873
+CLIENTE: 3º andar
+EQUIPAMENTO: HEXA GERAL 3° ANDAR - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Filtro da cozinha do 3° andar está sem vazão
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Filtro da cozinha do 3° andar está sem vazão 
+Status/Ação Final: OS Resolvida
+========================================

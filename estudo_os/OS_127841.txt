@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 127841
+CLIENTE: Luger
+EQUIPAMENTO: Facial - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Crimpagem de cabos UTP CAT6, relacionados ao sistema de CFTV e rede da academia.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Crimpagem de cabos UTP CAT6, relacionados ao sistema de CFTV e rede da academia.
+Status/Ação Final: OS Resolvida
+========================================

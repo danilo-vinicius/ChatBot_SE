@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 154392
+CLIENTE: BL - NOROESTE
+EQUIPAMENTO: HEXA GERAL BL NOROESTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Porta da lateral não está abrindo
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Noroeste
+[Edifício/Condomínio] Loja Braslav
+[Endereço] CLNW 02/03BL F LJ 106
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Colaboradoras conseguem rodar a chave mas a porta da lateral não abre.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] É o acesso onde as colaboradoras tem para entrar e sair da loja
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar a fechadura da porta lateral da lavanderia.
+Status/Ação Final: OS Resolvida
+========================================

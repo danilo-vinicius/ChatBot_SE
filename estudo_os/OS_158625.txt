@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 158625
+CLIENTE: 2º andar
+EQUIPAMENTO: HEXA GERAL 2° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção periódica
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Limpeza e  higienização do ar-condicionado 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 167700
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA ELÉTRICA BL QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Tomada da balança
+[Andar/Sala/Unidade] térreo
+[Descrição Detalhada do Problema] A balança da sede não está funcionando corretamente. Fomos orientados a realizar um teste na tomada para verificar se há falha no fornecimento de energia, o que pode estar causando o mau funcionamento do equipamento.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar tomada da balança.
+Status/Ação Final: OS Resolvida
+========================================

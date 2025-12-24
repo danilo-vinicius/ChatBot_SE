@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182513
+CLIENTE: BRASFORT - QI 09
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Chegando no local, iniciamos verificando as câmeras pelo monitor que já estava instalado, observamos que somente duas câmeras das 15 estavam aparecendo, verificamos a energia da fonte 12v que estava normal, porém ao analisar o cabos que alimenta as câmeras encontramos a emenda oxidada e rompida, retiramos as emendas que foram feitas com fita isolante e colocamos conectores wago de 5 vias para evitar a oxidação que poderia ocorrer utilizando fita isolante. Após a troca das emendas verificamos que 3 câmeras não retornaram, sendo uma da garagem, área de serviço e varanda superior, partindo para a verificação da câmera da garagem, vimos que ela estava ligada porém sem passar imagem, retiramos a câmera e testamos, ela esta funcionando normalmente, testando o cabo com a escala de continuidade, vimos que não estava tendo continuidade, sendo necessário a substituição do cabeamento, as outras duas câmeras,  foram instaladas sem conectores apropriados, os cabos estavam soldados para que a comunicação funcionasse, será necessário a troca das câmeras e do cabeamento das câmeras da área de serviço e varanda superior. Passando para o servidor, inicamos a organização dos cabos para a instalação do novo rack, etiquetamos todos os cabos da linha telefônica e conseguimos fechar o rack antigo, melhorando um pouco o espaço, medimos e verificamos onde iremos instalar o novo rack, não conseguimos fixar o rack por questões de horário, em uma próxima visita conseguiremos prosseguir com a fixação e organização dos equipamentos.
+========================================

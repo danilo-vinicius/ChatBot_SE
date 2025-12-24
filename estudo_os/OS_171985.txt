@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 171985
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA GERAL TÉRREO - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Limpeza de ralo do estacionamento
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O ralo do estacionamento está muito sujas 
+Status/Ação Final: Ordem de Serviço solicitada
+========================================

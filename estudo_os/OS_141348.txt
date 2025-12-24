@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 141348
+CLIENTE: COND. TOP LIFE SAINT TROPEZ
+EQUIPAMENTO: Central PABX - CP 352
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação da central de interfone.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

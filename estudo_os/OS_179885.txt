@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 179885
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone no apartamento 217 Bloco C as 11:00 horas.
+Detalhe do Defeito: Interfone mudo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

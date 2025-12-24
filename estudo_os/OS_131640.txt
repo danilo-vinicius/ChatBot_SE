@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 131640
+CLIENTE: RJG RESIDENCIA JOSÉ GOMES
+EQUIPAMENTO: Sistema My Security - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar o motivo das câmeras do cliente 0069 terem sido trocadas com as câmeras do cliente 0064.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

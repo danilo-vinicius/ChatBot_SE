@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 169402
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Kayke Rodrigues Alves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone, bloco D apartamento 17. Interfone disparo, não para de tocar.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Serviço Realizado:
+Foi realizada uma vistoria técnica no sistema de interfone do bloco C do Condomínio Green Park. Durante a inspeção, foi verificada toda a estrutura do sistema, incluindo fiação, pontos de conexão e aparelhos de interfone.
+
+Diagnóstico:
+O problema identificado estava na central do sistema de interfonia. Foi detectado que a central apresentava um curto-circuito, comprometendo o funcionamento adequado do sistema no bloco C.
+
+Ação Tomada:
+A central defeituosa foi retirada para substituição. No momento, aguarda-se a chegada da nova central para finalização do reparo e restabelecimento completo do sistema.
+
+Situação Atual:
+Sistema de interfone do bloco C temporariamente inoperante até a instalação da nova central.
+========================================

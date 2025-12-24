@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169316
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA ELÉTRICA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Ordem de serviço de manutenção planejada liberada para atendimento.
+========================================

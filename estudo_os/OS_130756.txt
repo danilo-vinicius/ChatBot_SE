@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 130756
+CLIENTE: CGP - GREEN PARK ASA NORTE
+EQUIPAMENTO: Câmera BL - Green Park - IMX C
+TÉCNICO: Wesley Soares Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Analisar filmagem da câmera do setor dia 09/10 das 8:00 as 14h.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

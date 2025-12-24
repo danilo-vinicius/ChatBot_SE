@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 130481
+CLIENTE: BL - NOBILE
+EQUIPAMENTO: Gravador digital - HDCVI 1016
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar o funcionamento do DVR e câmera.
+Detalhe do Defeito: Câmera IP não está aparecendo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: .
+========================================

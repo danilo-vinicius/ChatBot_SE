@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 166668
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação da infraestrutura para instalação do controle de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

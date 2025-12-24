@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169795
+CLIENTE: EPB - Residência QI 07
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção da central de alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Luciano Nascimento
+========================================

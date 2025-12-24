@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 170470
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Antena - Genérico
+TÉCNICO: Atila Gabriel Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção antena coletiva.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

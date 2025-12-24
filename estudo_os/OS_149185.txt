@@ -1,0 +1,24 @@
+
+========================================
+ORDEM DE SERVIÇO: 149185
+CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+EQUIPAMENTO: HEXA GERAL QD 1 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Guarita porteiro Quadra 01
+[Nome do Solicitante] Edson
+[Telefone] (61) 99529-4533
+[E-mail ] edson.cruz@brasfort.com.br
+[Empresa] Brasfort
+[Edifício/Condomínio] Sede Quadra 01
+[Endereço] SAAN Quadra 01 lote 635
+[Andar/Sala/Unidade] Guarita da portaria
+[Descrição Detalhada do Problema] Todas as tomadas da guarita estão sem energia, no momento está sendo utilizada uma extensão para ligar os equipamentos.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Ponto estratégico referente a segurança do local
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Edson Cruz
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

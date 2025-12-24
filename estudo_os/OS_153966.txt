@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 153966
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Servidor LPR - Genérico
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+O LPR está sem funcionar desde as 7h. É necessário realizar uma análise no sistema para identificar o problema.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

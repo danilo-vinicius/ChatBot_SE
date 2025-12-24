@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 173397
+CLIENTE: BL - TERRAÇO SHOPPING
+EQUIPAMENTO: HEXA ELÉTRICA BL TERRAÇO SHOPPING - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] 
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] ST SHC/AOS EA 02/08 LOTE 5 SUBSOLO B-SS3 E B-SS4 (TERRAÇO SHOPPING)
+[Descreva o problema de forma clara e objetiva.] Solicito que seja feita a troca das lâmpadas da loja. 1 unidades de cada modelos anexada 
+[Impacto (o que acontece se não for resolvido):] A falta de iluminação adequada pode comprometer tanto a segurança quanto o bom andamento das atividades.
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):]
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Trocar 1 lâmpada de bulbo e 1 lâmpada tubular ambas de LED.
+Status/Ação Final: OS Resolvida
+========================================

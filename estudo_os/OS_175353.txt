@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 175353
+CLIENTE: PARQUE DAS ACÁCIAS - NOROESTE
+EQUIPAMENTO: Rede Geral - Genérico
+TÉCNICO: Luciano Nascimento
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabo para instalação do WIFI - Access Point.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

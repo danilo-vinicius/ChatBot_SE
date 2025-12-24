@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 174310
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar a comunicação.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

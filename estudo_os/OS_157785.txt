@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 157785
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: Telefone IP - IP
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de 3 aparelhos de telefone IP.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

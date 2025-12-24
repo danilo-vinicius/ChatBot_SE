@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 150569
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Computador - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Colocar e configurar computador e instalar o simplay
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

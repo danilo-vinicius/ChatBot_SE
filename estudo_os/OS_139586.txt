@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 139586
+CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Reinstalação e substituição de câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 180878
+CLIENTE: 3º Andar - Sala De Diretoria De Novos Projetos
+EQUIPAMENTO: HEXA CARPINTARIA 3° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção em alizar
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção 
+Status/Ação Final: OS Resolvida
+========================================

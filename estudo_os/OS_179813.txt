@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 179813
+CLIENTE: EPB - Residência QI 05
+EQUIPAMENTO: Instalação - Instalação
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação do TWIBI.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Foi retirado do armário da sala : 
+1 Par de Twibi
+Status/Ação Final: OS Resolvida
+========================================

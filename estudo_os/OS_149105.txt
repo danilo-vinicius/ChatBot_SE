@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 149105
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Central PABX Telefonica - CP 352
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Backup de todas as centrais telefônicas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

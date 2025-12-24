@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 170922
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Antena - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de Antena.
+,Bloco F - Apartamento 07. Responsáveis pelo serviço: Kaike, Mateus e Átila.
+Detalhe do Defeito: Antena sem sinal; Interfone mudo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

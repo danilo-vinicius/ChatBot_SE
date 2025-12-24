@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 179803
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA GERAL TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Trocar lâmpada  queimada no paceio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Tem alguma lâmpada queimada no paceio térreo 
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos
+========================================

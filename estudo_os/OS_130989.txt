@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 130989
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, bloco B apartamento 105, serviço realizado dia 10/10/24.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Interfone que está com um problema de linha cruzada. Quando ligam na minha unidade, cai em outra. 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 173986
+CLIENTE: EPB - Residência QL 12
+EQUIPAMENTO: Central de Alarme - AMT 2018 E SMART
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Entregar o serviço para o cliente.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

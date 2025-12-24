@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 164833
+CLIENTE: HEXA - CENTRO DE TREINAMENTO
+EQUIPAMENTO: HEXA HIDRÁULICA CT - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Caixa d' Agua
+[Andar/Sala/Unidade] Operacional ADM
+[Descrição Detalhada do Problema] Vazamento na caixa d'agua do CT.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: verificar vazamento na caixa d`água.
+Status/Ação Final: OS Resolvida
+========================================

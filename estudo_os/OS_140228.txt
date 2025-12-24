@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 140228
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: Facial - Não informado
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção preventiva nas faciais internas e externas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: manutenção preventiva, conferindo funcionamento e nivel das faciais.
+Status/Ação Final: OS Resolvida
+========================================

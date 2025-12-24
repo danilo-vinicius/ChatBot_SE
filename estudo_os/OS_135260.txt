@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 135260
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: Câmera IP - VIP 3230 D
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Reparo CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Conflito na configuração do Gateway 
+Status/Ação Final: OS Resolvida
+========================================

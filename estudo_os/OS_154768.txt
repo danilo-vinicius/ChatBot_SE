@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154768
+CLIENTE: Verificação Remota CFTV
+EQUIPAMENTO: Câmeras Monitoramento - Visualização
+TÉCNICO: Vicente De Paulo Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Monitoramento e Revisão de todas as câmeras dos sistemas do Sin Next e Sigma Imag.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

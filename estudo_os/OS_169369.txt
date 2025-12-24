@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 169369
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA HIDRÁULICA AL ASA NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Mictório com Defeito (Banheiro Masculino – 1º Andar)
+[Andar/Sala/Unidade] 1 andar 
+[Descrição Detalhada do Problema] Prezados, bom dia.
+Venho solicitar a verificação e manutenção do mictório localizado no banheiro masculino do 1º andar, que se encontra com defeito.
+Solicito que a equipe responsável verifique o problema e realize os reparos necessários com a maior brevidade possível, a fim de garantir o pleno funcionamento do sanitário.
+Desde já, agradeço a atenção e aguardo retorno.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar mictório
+Status/Ação Final: OS Resolvida
+========================================

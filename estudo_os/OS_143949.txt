@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 143949
+CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV e instalação de uma câmera VIP 1230 B.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

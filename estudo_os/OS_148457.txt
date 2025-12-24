@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148457
+CLIENTE: Verificação Remota CFTV
+EQUIPAMENTO: Câmeras Monitoramento - Visualização
+TÉCNICO: Adriel Rodrigues
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ronda virtual.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Ronda virtual.
+Status/Ação Final: OS Resolvida
+========================================

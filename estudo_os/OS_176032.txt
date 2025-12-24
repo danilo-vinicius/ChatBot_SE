@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 176032
+CLIENTE: PAS 01
+EQUIPAMENTO: Gravador digital - NVD 1404
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV.
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

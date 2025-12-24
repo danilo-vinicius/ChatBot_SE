@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168807
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: HEXA HIDRÁULICA BL PENÍNSULA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Falta de água
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] As colaboradoras relatam que foram instruídas a fechar o registro de água dentro da loja ao encerrar as atividades no entanto quando chegaram hoje de manhã relataram que não havia água na loja mesmo com todos do registros abertos favor verificar.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar falta de água no loja.
+Status/Ação Final: OS Resolvida
+========================================

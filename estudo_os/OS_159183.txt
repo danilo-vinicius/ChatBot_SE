@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 159183
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: Motor de Portão - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção do portão que travou.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

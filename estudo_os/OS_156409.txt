@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 156409
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA GERAL BL 307S - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Fechamento de buraco no chão da loja
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Fechamento de buraco no chão da loja
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Fechar o buraco para que o gato que está dentro da loja não tenha onde se esconder
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fechar buraco de acesso no piso da loja.
+Status/Ação Final: OS Resolvida
+========================================

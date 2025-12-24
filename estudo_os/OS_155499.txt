@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 155499
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA CARPINTARIA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Empresa] Brasfort Administração
+[Edifício/Condomínio] Sede
+[Endereço] SAAN Quadra 03
+[Andar/Sala/Unidade] Térreo/Operacional ADM
+[Descrição Detalhada do Problema] O prendedor da porta está solto. Precisa de manutenção.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Conserto da dobradiça do armário
+Status/Ação Final: OS Resolvida
+========================================

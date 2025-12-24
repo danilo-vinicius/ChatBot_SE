@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 162292
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Automatizador de Portão - BC 500 FAST
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Regulagem da altura de abertura do portão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Morador relatou que a altura do portão não é suficiente para a entrada do veículo.
+Status/Ação Final: OS Resolvida
+========================================

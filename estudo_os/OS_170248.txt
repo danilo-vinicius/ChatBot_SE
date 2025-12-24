@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 170248
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Kayke Rodrigues Alves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos dos IVA.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

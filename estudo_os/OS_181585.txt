@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 181585
+CLIENTE: HF HARUS FOOD
+EQUIPAMENTO: AMT 2018 E/EG - AMT 2018 E/EG
+TÉCNICO: Atila Gabriel Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Levar o controle remoto, configurar e troca do chip da central.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

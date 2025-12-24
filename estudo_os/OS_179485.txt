@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 179485
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA HIDRÁULICA AL ASA NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1º subsolo
+[Descreva o problema de forma clara e objetiva.] Foi identificado um vazamento em um dos mictórios no vestiário masculino.
+Solicito a verificação e o reparo necessário para evitar desperdício de água e possíveis transtornos no local.
+
+[Impacto (o que acontece se não for resolvido):] O vazamento pode causar acúmulo de água no piso, risco de escorregamento e aumento no consumo de água.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar descarga do mictório.
+Status/Ação Final: OS Resolvida
+========================================

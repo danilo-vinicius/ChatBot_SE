@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 159469
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA HIDRÁULICA TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Cantoneira soltando
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A cantoneira de copa térreo
+Está soltando 
+Status/Ação Final: OS Resolvida
+========================================

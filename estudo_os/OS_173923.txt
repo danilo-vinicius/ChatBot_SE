@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 173923
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA ELÉTRICA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção preventiva nas maçanetas e dobradiças 
+Status/Ação Final: Manutenção preventiva nas maçanetas e dobradiças 
+========================================

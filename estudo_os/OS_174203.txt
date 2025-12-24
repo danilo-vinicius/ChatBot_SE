@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 174203
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA ELÉTRICA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] ANDERSON OLIVEIRA FERREIRA
+[Telefone (celular):] (61) 99503-3625
+[Endereço de E-mail:] anderson.ferreira@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1° Subsolo
+[Descreva o problema de forma clara e objetiva.] Lâmpadas do banheiro masculino com iluminação queimada.
+[Impacto (o que acontece se não for resolvido):] Principalmente no período noturno ficaremos sem iluminação no local. E o funcionamento da mesa de operações é 24 horas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Trocar luminária do banheiro masculino do 1º subsolo
+Status/Ação Final: OS Resolvida
+========================================

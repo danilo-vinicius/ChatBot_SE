@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 135815
+CLIENTE: T - Sala de Almoxarifado
+EQUIPAMENTO: Servidor Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de novos pontos de rede, telefone, câmera e impressora para a nova sala do almoxarifado.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Cabos passados anteriormente ficando pendente a crimpagem dos pontos no servidor.
+Status/Ação Final: OS Resolvida
+========================================

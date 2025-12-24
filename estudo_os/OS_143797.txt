@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 143797
+CLIENTE: CENTRAL ARCOND/GERADOR/OXIGENIO
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos e instalação de câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

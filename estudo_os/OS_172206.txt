@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 172206
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Atila Gabriel Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de Sensores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: (MOBI OPERACIONAL - SYT0E 23)
+Status/Ação Final: OS Resolvida
+========================================

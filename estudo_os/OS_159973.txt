@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 159973
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Biometria - Orquideas - Bio Inox Plus SS 311 E
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação da infraestrutura da Biometria
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

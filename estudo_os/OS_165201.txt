@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165201
+CLIENTE: PARQUE DAS ACÁCIAS - NOROESTE
+EQUIPAMENTO: Portão - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do CFTV, Wifi e Revisão do portão, dia 04/06/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Edição da OS executada por : Silvano Rodrigues De Souza - Alterado: [de 09/06/2025 15:13:33 para 09/06/2025 15:13]
+========================================

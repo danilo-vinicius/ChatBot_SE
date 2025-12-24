@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 147096
+CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Restabelecimento das câmeras que estão sem funcionar
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

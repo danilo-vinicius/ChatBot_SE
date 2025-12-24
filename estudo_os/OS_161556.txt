@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 161556
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Fazer infraestrutura para instalar a nova câmera.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: "A infraestrutura para passagem do cabeamento foi executada desde a sala do CPD até o local destinado à instalação do poste com a câmera. Foi instalado eletroduto corrugado até o ponto do poste, e o cabeamento já está passado do poste até o CPD. Resta apenas a fixação do poste para concluir a instalação da câmera voltada para o portão."
+========================================

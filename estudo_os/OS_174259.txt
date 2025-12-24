@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 174259
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA ELÉTRICA BL SUDOESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Q QMSW 5 LOTE 7 BLOCO A LOJA 10;14;16 e 20
+[Descreva o problema de forma clara e objetiva.] Solicito a verificação do quadro de energia, pois mão está suportando a novo maquinário instalado na loja.
+[Impacto (o que acontece se não for resolvido):] Quedas de energia na loja, prejudicando o funcionamento dos equipamentos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Trocar disjuntor existente de 20A por 32A
+Status/Ação Final: OS Resolvida
+========================================

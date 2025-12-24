@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 162154
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Semáforo - Semáforo
+TÉCNICO: Integração Situator
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalar infraestrutura para o novo local do semáforo.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: .
+========================================

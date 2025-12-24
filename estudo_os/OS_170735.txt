@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 170735
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV GERAL e manutenção do interfone da academia.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

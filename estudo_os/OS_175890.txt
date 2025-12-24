@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 175890
+CLIENTE: Usina Rancho Verde
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Falha de comunicação das câmeras da Usina Rancho Verde ocorrida logo após a chegada da equipe da WL ao local para realização de serviços. No momento, o monitoramento permanece com quatro câmeras fora do ar.
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21876781,"beginDate":"2025-10-08T13:46:18.739+0000","endDate":null,"status":5,"sequentialId":350,"accountId":1549219,"accountCode":"0021","accountOffset":-3,"personOpenId":132619,"personOpen":"Luiz Tavares","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":1,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":19203891,"text":"Falha de comunica\u00e7\u00e3o das c\u00e2meras da Usina Rancho Verde ocorrida logo ap\u00f3s a chegada da equipe da WL ao local para realiza\u00e7\u00e3o de servi\u00e7os. No momento, o monitoramento permanece com quatro c\u00e2meras fora do ar.","date":"2025-10-08T13:46:19.000+0000","personId":132619,"person":"Luiz Tavares","lastEditionDate":null}],"executingActivities":false,"account":"Usina Rancho Verde (Usina Rancho Verde - Vetti)"}
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 179815
+CLIENTE: CGP - GREEN PARK ASA NORTE
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Será catalogado a informação das câmeras e DVR's (Todos os Blocos) e Organização do rack no bloco J.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 154941
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA HIDRÁULICA SUDOESTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vazamento em bebedouro
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[Empresa] Braslav Sudoeste
+[Endereço] QMSW 5 LOJA 7,10 BL A
+[Andar/Sala/Unidade] Térreo
+[Descrição Detalhada do Problema] Bebedouro está com vazamento de água favor averiguar e avaliar se vale a pena reparar o mesmo ou partir para a aquisição de um filtro de parede.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Sanar o vazamento e também evitar que alguém acabe escorregando na água no chão e se machuque.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazamento em bebedouro
+Status/Ação Final: OS Resolvida
+========================================

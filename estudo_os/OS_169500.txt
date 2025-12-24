@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169500
+CLIENTE: EPB - Residência QI 15
+EQUIPAMENTO: Gravador digital - NVD 1404 P
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Retirada de todos os equipamentos da residência.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

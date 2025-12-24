@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 158624
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA PINTURA TÉRREO - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Portão com problema
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O portão está com o motor empenado 
+Status/Ação Final: OS Resolvida
+========================================

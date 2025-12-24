@@ -1,0 +1,24 @@
+
+========================================
+ORDEM DE SERVIÇO: 173445
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA ELÉTRICA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:]  Baixa Prioridade
+[Nome completo:] RAFAEL DE OLIVEIRA ROCHA
+[Telefone (celular):] (61) 99127-0010
+[Endereço de E-mail:] rafael.rocha@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Banheiro feminino - térreo
+[Descreva o problema de forma clara e objetiva.] Lampada queimada.
+
+Favor desconsiderar o evento: 5644 / 2025 devido a falta de informações úteis para o processo.
+[Impacto (o que acontece se não for resolvido):] Circulação de pessoas. risco de acidente
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] qualquer horário
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Trocar luminaria do banheiro feminino no térreo.
+Status/Ação Final: OS Resolvida
+========================================

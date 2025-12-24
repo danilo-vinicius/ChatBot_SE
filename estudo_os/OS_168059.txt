@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168059
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA HIDRÁULICA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] VAZAMENTO NO ESTANDE B
+[Andar/Sala/Unidade] Unidade de Taguatinga
+[Descrição Detalhada do Problema] Venho por meio desse chamado solicitar a manutenção de um vazamento no estande
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazamento no estande de tiro.
+Status/Ação Final: OS Resolvida
+========================================

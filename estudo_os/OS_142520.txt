@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 142520
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

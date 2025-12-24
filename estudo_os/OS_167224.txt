@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 167224
+CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+EQUIPAMENTO: HEXA HIDRÁULICA SCIA QD 8 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vaso vazando água e sem tampa 
+[Andar/Sala/Unidade] Banheiro masculino de primeiro andar 
+[Descrição Detalhada do Problema] O vaso do banheiro masculino está vazando água e está sem a tampa, necessitando de reparos
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazamento e peças quebradas.
+Status/Ação Final: OS Resolvida
+========================================

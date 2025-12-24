@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 177228
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA GERAL AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1 andar 
+[Descreva o problema de forma clara e objetiva.] ASSUNTO: Solicitação de Conserto de Grade
+
+Solicito manutenção urgente na grade localizada na entrada principal (conforme foto anexa). A estrutura metálica está danificada e parcialmente solta, oferecendo risco de acidentes a quem passa pelo local.
+[Impacto (o que acontece se não for resolvido):] Risco de tropeço e queda. Solicito prioridade na execução do reparo.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar grande e tela de entrada da Luger.
+Status/Ação Final: OS Resolvida
+========================================

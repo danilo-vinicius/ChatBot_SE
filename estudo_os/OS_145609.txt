@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 145609
+CLIENTE: 1º Andar - Hall
+EQUIPAMENTO: Ponto de Acesso - Genérico
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de ponto de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

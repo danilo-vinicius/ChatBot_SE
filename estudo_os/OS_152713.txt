@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 152713
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: SISTEMA DE CFTV GERAL - Geral
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar o DVR que estava desligado da churrasqueira.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Realizar limpeza e teste de todos os canais.
+Status/Ação Final: OS Resolvida
+========================================

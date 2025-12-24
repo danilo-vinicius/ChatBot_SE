@@ -1,0 +1,24 @@
+
+========================================
+ORDEM DE SERVIÇO: 150685
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA GERAL BL 307S - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Instalação de tomada para secadora
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99945-8650
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Terraço Shopping
+[Edifício/Condomínio] Terraço Shopping
+[Endereço] Terraço Shopping
+[Andar/Sala/Unidade] Subsolo
+[Descrição Detalhada do Problema] Instalação de tomada elétrica para secadora de roupas. Segue a foto em anexo da tomada da secadora.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Instalação de tomada elétrica para secadora de roupas
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 173877
+CLIENTE: 1º andar
+EQUIPAMENTO: HEXA CARPINTARIA 1° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Substituição de fórmica de porta da copa
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A formiga da porta da copa está danificada.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 166971
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ligar as botoeiras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foi realizada a passagem dos cabos através da canaleta, provenientes do chicote da controladora facial e da fonte de alimentação. A interligação foi efetuada utilizando cabo manga, com a devida conexão dos condutores ao chicote da controladora facial, incluindo os cabos provenientes da fonte e do eletroímã.
+
+O serviço, contudo, não foi finalizado, uma vez que a chapa do eletroímã não efetuou o travamento adequado com o núcleo magnético. Ressalta-se que os cabos destinados à alimentação do eletroímã já estão devidamente preparados para a energização. A finalização do serviço depende apenas da regulagem da chapa de acionamento do eletroímã.
+========================================

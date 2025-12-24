@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 145404
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: Central de Alarme - AMT 2018 E/EG
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Análise e revisão de disparos falsos de alarmes provocados por gatos no local. Serviço realizado dia 18/12/2024.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

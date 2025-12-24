@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 176307
+CLIENTE: 1º subsolo
+EQUIPAMENTO: HEXA GERAL SUBSOLO 1 - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Subestação de papeleira
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A papeleira do banheiro masculino está quebrada 
+Status/Ação Final: OS Resolvida
+========================================

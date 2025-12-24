@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 179492
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA GERAL BL SUDOESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Q QMSW 5 LOTE 7 BLOCO A LOJA 10;14;16 e 20
+[Descreva o problema de forma clara e objetiva.] Solicitamos a verificação da fechadura da porta da Loja Sudoeste, pois ela não está trancando corretamente.
+[Impacto (o que acontece se não for resolvido):] O problema compromete a segurança da loja, especialmente fora do horário de funcionamento.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Realizar troca da fechadura
+Status/Ação Final: OS Resolvida
+========================================

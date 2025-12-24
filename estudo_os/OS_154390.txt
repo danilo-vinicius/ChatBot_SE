@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 154390
+CLIENTE: BL - ASA NORTE
+EQUIPAMENTO: HEXA HIDRÁULICA BL ASA NORTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] desobstrução de esgoto
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Green Park (Asa Norte)
+[Edifício/Condomínio] Condomínio Green Park
+[Endereço] SGAN 911 BLOCO F
+[Andar/Sala/Unidade] TERREO
+[Descrição Detalhada do Problema] Desobstrução do esgoto que recebe o descarte da aguá das máquinas da Lavanderia. O Condomínio alega não ser da responsabilidade deles forçando a Braslav a solicitar o serviço.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Desobstruir o esgoto devido a Lavanderia não alagar com a água
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Encontrar com o pessoal no lugar às 9hs para juntos verificarem a situação
+Status/Ação Final: OS Resolvida
+========================================

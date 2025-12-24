@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 153172
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Renomear as câmeras do bloco J e fazer inventario de todos os equipamentos de CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

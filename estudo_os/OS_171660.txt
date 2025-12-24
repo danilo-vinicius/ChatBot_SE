@@ -1,0 +1,31 @@
+
+========================================
+ORDEM DE SERVIÇO: 171660
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA HIDRÁULICA SUDOESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] 
+<b><span style="color:#263868; font-size:18px; font-weight:bold;">Nível de Prioridade</span> </b>
+[Classifique de acordo com a urgência do problema:]  Baixa Prioridade
+<b><span style="color:#263868; font-size:18px; font-weight:bold;">Dados do Solicitante</span> </b>
+[Nome completo:] Adriano
+[Telefone (celular):] (61) 99605-0486
+[Endereço de E-mail:] adriano.mattos@hexaengenharia.com
+<b><span style="color:#263868; font-size:18px; font-weight:bold;">Local do Serviço</span> </b>
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Loja 10 do sudoeste
+<b><span style="color:#263868; font-size:18px; font-weight:bold;">Detalhes da Solicitação</span> </b>
+[Descreva o problema de forma clara e objetiva.] Verificar instalação hidráulica da loja
+[Impacto (o que acontece se não for resolvido):] Normas da empresa
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] 
+<b><span style="color:#263868; font-size:18px; font-weight:bold;">Anexos</span> </b>
+<b><span style="color:#263868; font-size:15px; font-weight:bold;">Finalize sua solicitação assinando no campo abaixo:</span>
+
+ </b>
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fazer interligação da rede hidráulica da loja.
+Status/Ação Final: OS Resolvida
+========================================

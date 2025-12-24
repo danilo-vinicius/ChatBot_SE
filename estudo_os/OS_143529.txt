@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 143529
+CLIENTE: SISTEMA DE BOMBAS
+EQUIPAMENTO: Geral - Genérico
+TÉCNICO: Wesley Soares Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar o computador que está dando problema.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Em Deslocamento
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154906
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

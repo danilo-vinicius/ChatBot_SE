@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 171537
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Kayke Rodrigues Alves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar IP .
+Detalhe do Defeito: Câmera IP não está aparecendo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 168116
+CLIENTE: EPB - Residência SHIS QL 32
+EQUIPAMENTO: CFTV GERAL - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Avaliar a necessidade de mais um Twibi.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Quely Souza Ferreira
+========================================

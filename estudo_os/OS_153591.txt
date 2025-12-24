@@ -1,0 +1,27 @@
+
+========================================
+ORDEM DE SERVIÇO: 153591
+CLIENTE: Luger
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção biometria do estande, a porta não está travando.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Biometria
+ * A porta do estande foi encontrada travada, conforme o esperado.
+ * Foi relatada a ocorrência de picos de energia no local.
+ * Os LEDs indicadores da fonte de energia da biometria apresentavam um erro de bateria.
+ * A bateria provavelmente está inoperante e, quando a energia caiu, a porta destravou.
+ * Recomendação: Substituir a bateria da fonte de energia da biometria.
+Sistema Facial
+ * O sistema de reconhecimento facial da porta principal apresentou falhas, reiniciando-se sozinho.
+ * Recomendação: Verificar todas as ligações do sistema facial e testá-lo isoladamente para identificar a causa do problema.
+Observações
+ * Os picos de energia podem ter contribuído para a falha da bateria e do sistema facial.
+ * É importante verificar a fiação e as conexões do sistema facial para garantir que não haja mau contato ou outros problemas.
+Próximos Passos
+ * Substituir a bateria da fonte de energia da biometria.
+ * Verificar e testar o sistema facial isoladamente.
+========================================

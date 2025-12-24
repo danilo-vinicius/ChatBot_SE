@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 175303
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: Geral - Geral
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV.
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 180708
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Configuração do inversor
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

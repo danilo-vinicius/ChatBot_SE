@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 173872
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Informamos que o colaborador Danilo, do setor de suporte, juntamente com o técnico de Segurança Eletrônica Silvano, realizaram a entrega do serviço de instalação da Central de Alarme na Usina São Pedro, sendo o serviço entregue ao responsável Henrique.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

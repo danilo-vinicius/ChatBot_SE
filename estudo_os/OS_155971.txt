@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 155971
+CLIENTE: HEXA - CREA
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Finalizar instalação das câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

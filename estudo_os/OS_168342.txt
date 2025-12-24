@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168342
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA ELÉTRICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Quadro da bomba 
+[Andar/Sala/Unidade] Subsolo
+[Descrição Detalhada do Problema] O quadro da bomba está apresentando está sinalização e quando as máquinas escoam a água está saindo para fora do foço.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar alarme do quadro de bomba.
+Status/Ação Final: OS Resolvida
+========================================

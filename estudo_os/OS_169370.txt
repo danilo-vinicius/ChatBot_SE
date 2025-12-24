@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 169370
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA CARPINTARIA AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Maçaneta Quebrada (Sala 1)
+[Andar/Sala/Unidade] 1 andar 
+[Descrição Detalhada do Problema] Prezados, bom dia.
+Solicito a manutenção da maçaneta da porta da Sala 1, que se encontra quebrada e está dificultando o uso adequado da porta.
+Fico no aguardo de retorno.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar maçaneta da porta.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 160486
+CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+EQUIPAMENTO: HEXA ELÉTRICA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Alguns refletores não estão ligando, verificar se está queimado para fazer a troca ou com mal contato .
+[Descrição Detalhada do Problema] Trocar os refletores queimados, haviam 4 queimados foram trocados 2.
+Falta trocar mais 2 refletores .
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Prejudica a segurança da Usina
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Troca de refletores queimados
+Status/Ação Final: OS Resolvida
+========================================

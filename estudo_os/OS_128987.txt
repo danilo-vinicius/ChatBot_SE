@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 128987
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, interfone mudo, apartamento 603.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção de interfone, interfone mudo, apartamento 603.
+Status/Ação Final: OS Resolvida
+========================================

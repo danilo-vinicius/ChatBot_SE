@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 181989
+CLIENTE: 1SS - Almoxarifado
+EQUIPAMENTO: HEXA GERAL SUBSOLO 1 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção corretiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O ar-condicionado está fazendo barulho 
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos. Atribuição em massa.
+========================================

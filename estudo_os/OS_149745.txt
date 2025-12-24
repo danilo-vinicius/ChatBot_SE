@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 149745
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Antena - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de antena, bloco H apartamento 216.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção de antena, bloco H apartamento 216.
+Status/Ação Final: OS Resolvida
+========================================

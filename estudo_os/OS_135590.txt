@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 135590
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Automatizador de Portão - Jetflet
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Troca da placa do motor do portão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

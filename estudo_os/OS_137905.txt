@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 137905
+CLIENTE: CASA DE MÁQUINAS
+EQUIPAMENTO: Biometria - Bio Inox Plus SS 311 E
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar todo sistema de Cftv e biometria .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

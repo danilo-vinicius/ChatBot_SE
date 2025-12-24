@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 149845
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Central PABX Telefonica - CP 352
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção da central do bloco A, dia 08/01/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção da central do bloco A, dia 08/01/2025.
+Status/Ação Final: Necessário orçamento para troca da Central CP 112 e a placa.
+========================================

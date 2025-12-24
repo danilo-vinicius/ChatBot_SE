@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 179676
+CLIENTE: 2º andar
+EQUIPAMENTO: HEXA ELÉTRICA 2° ANDAR - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Organizar fios na mesa
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fio solto na mesa financeiro 
+Status/Ação Final: OS Resolvida
+========================================

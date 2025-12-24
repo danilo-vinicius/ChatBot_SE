@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 162746
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA ELÉTRICA AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Problema com Interruptor – Luz Não Acende
+[Nome do Solicitante] Aline Ferreira da Silva
+[Descrição Detalhada do Problema] O interruptor da sala da secretaria onde estou trabalhando está com problema. Ao tentar acioná-lo, a luz não acende, acredito que o defeito esteja no próprio interruptor ou na fiação. Devido a isso, estou tendo que trabalhar no escuro, o que dificulta bastante a realização das minhas atividades.
+Solicito verificação e reparo o mais breve possível.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

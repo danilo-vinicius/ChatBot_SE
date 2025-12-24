@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 129337
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Nobreak - Cerejeiras - ATTIV 700 VA BI
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Substituição de Nobreak.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Nobreak que estava instalado queimou parte da pcb após um curto na rede elétrica do condomínio.
+Status/Ação Final: OS Resolvida
+========================================

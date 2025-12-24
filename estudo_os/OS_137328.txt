@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 137328
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Motor Porta de Enrolar - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação modulo do portão de enrolar .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

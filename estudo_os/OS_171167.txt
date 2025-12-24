@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 171167
+CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+EQUIPAMENTO: HEXA HIDRÁULICA QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Forte odor na sala de reuniões.
+[Nome do Solicitante] Paulo Paulino
+[Andar/Sala/Unidade] 1° andar
+[Descrição Detalhada do Problema] Observado um forte odor de esgoto.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Devido a insalubridade do local
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar mal cheiro e possível vazamento
+Status/Ação Final: Em Andamento
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 177779
+CLIENTE: LONGEVITÀ - SUDOESTE
+EQUIPAMENTO: Controle de acesso - IDFace
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção controle de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

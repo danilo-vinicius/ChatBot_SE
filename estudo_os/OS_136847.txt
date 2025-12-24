@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 136847
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Servidor LPR - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Por volta de umas 22h do dia 11/11/2024 o sistema de LPR não estava conseguindo abrir o portão da garagem.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Todos os equiamentos ligados e permitindo acesso remoto.
+Status/Ação Final: OS Resolvida
+========================================

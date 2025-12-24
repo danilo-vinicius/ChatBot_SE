@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 163663
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA HIDRÁULICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vazamento de água
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Vazamento de água
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazamento
+Status/Ação Final: OS Resolvida
+========================================

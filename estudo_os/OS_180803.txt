@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 180803
+CLIENTE: 2º andar
+EQUIPAMENTO: HEXA GERAL 2° ANDAR - ENGENHARIA
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Subestação de placa
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Substituição de placa 
+Status/Ação Final: OS Resolvida
+========================================

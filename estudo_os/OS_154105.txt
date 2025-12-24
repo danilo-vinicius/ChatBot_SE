@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154105
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: BrasfortSmart - Geral
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Erro na coleta de biometrias.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Ordem de Serviço solicitada
+========================================

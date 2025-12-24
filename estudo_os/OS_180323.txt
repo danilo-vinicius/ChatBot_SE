@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 180323
+CLIENTE: EPB - Chancelaria
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

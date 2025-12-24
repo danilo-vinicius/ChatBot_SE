@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154319
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Central CP 352 - CP 352
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Devolução das duas placas das centrais, que está com defeito.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 174152
+CLIENTE: 2º andar
+EQUIPAMENTO: HEXA HIDRÁULICA 2° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Substituição de vela
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A vela do filtro da copa está sujas 
+Status/Ação Final: OS Resolvida
+========================================

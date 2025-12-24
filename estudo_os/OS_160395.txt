@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 160395
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção dos apartamentos 213-I e 119-D
+Detalhe do Defeito: Interfone mudo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

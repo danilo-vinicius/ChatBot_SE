@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 141893
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Motor Porta de Enrolar - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Configuração do Controle portão deslizante
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182077
+CLIENTE: CIPLAN SOBRADINHO
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Caua Carvalho de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

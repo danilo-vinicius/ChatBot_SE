@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 179319
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: Atila Gabriel Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de Botoeira
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

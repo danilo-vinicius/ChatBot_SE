@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 174262
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

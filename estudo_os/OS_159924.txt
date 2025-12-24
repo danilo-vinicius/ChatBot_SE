@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 159924
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Mictório - térreo
+Andar/Sala/Unidade] Banheiro Térreo
+[Descrição Detalhada do Problema] Vaza agua quando ocorre a descarga.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Vazamento mictório do térreo
+Status/Ação Final: OS Resolvida
+========================================

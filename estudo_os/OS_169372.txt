@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 169372
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA GERAL AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:]  Cadeiras Quebradas
+[Andar/Sala/Unidade] 1 andar 
+[Descrição Detalhada do Problema] Prezados, bom dia.
+Solicito a verificação e manutenção de 3 cadeiras quebradas.
+As cadeiras apresentam problemas estruturais, podendo comprometer a segurança de quem as utiliza.
+Agradeço desde já pela atenção e aguardo retorno.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar cadeiras quebradas.
+Status/Ação Final: OS Resolvida
+========================================

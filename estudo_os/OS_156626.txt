@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 156626
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Manutenção cadeira 
+[Andar/Sala/Unidade] 1 subsolo 
+[Descrição Detalhada do Problema] Braço da cadeira caiu 
+[Nome do Solicitante (Assine no campo abaixo)] MARLON JOSE HONESKO
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fixar o apoio de braço esquerdo da cadeira do Marlon
+Status/Ação Final: OS Resolvida
+========================================

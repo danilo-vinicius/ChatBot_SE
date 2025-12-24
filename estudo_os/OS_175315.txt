@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 175315
+CLIENTE: Brasfort SCIA
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Luciano Nascimento
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+FALHA - BATERIA CARGA BAIXA
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21836390,"beginDate":"2025-10-01T18:47:33.467+0000","endDate":null,"status":5,"sequentialId":349,"accountId":515903,"accountCode":"0007","accountOffset":-3,"personOpenId":128758,"personOpen":"Adriel Rego","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":1,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":19157572,"text":"FALHA - BATERIA CARGA BAIXA","date":"2025-10-01T18:47:33.000+0000","personId":128758,"person":"Adriel Rego","lastEditionDate":null}],"account":"Brasfort SCIA (Brasfort Empresa de Seguran\u00e7a LTDA)","executingActivities":false}
+Array
+Status/Ação Final: OS Resolvida
+========================================

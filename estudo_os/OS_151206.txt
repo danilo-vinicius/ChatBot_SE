@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 151206
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Tipo de Serviço Necessário]  <span style='color:red'>Monitoramento e Manutenção de Câmeras CFTV</span>
+[Outros, Especificar:] A PF pediu para que seja retirada uma câmera que está na frente do duto de ventilação 
+[Empresa ou Departamento] Academia Luger Unidade de Taguatinga 
+[Responsável pela solicitação] Robson Romano 
+[Telefone do solicitante para contato] (61) 99132-0661
+[E-mail do solicitante para contato] amanda.costa@luger-academia.com.br
+[Empresa] Academia Luger Unidade de Taguatinga 
+[Edifício/Condomínio] Qne 06 lote 16
+[Endereço] Qne 06 lote 16
+[Andar/Sala/Unidade] Stand de Tiro 
+[Descrição Detalhada do Problema] A Polícia Federal compareceu na nossa unidade para a vistoria, e os mesmos pediram que uma câmera que se encontra na frente do duto de ventilação seja retirada. Dito isso, venho por meio desse chamado, solicitar a remoção da câmera para outro ponto mais estratégico.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] Estamos na unidade das 08:00hrs às 18:00hrs. 
+[Nome do Solicitante (Assine no campo abaixo)] Amanda Andrade
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

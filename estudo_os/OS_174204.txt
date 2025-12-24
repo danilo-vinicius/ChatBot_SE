@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 174204
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] ANDERSON OLIVEIRA FERREIRA
+[Telefone (celular):] (61) 99503-3625
+[Endereço de E-mail:] anderson.ferreira@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1° Subsolo
+[Descreva o problema de forma clara e objetiva.] Dispenser de papel toalha quebrado.
+[Impacto (o que acontece se não for resolvido):] Nao é possivel a utilização de papel toalha no banheiro masculino.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar dispenser no 1º subsolo
+Status/Ação Final: Edição da OS executada por : Adriano Mattos e Pinto - Alterado: [de 18/09/2025 17:44:35 para 18/09/2025 17:44]
+========================================

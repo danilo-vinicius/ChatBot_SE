@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 151086
+CLIENTE: LS - LAKE SIDE APART HOTEL
+EQUIPAMENTO: Cancela automática - Jetflex
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção da cancela.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foi feito a verificação da cancela de visitante, o motor apresentou defeito. Foi levado os dois motores reservas para manutenção e aguardando finalização da manutenção para instalação do motor. 
+========================================

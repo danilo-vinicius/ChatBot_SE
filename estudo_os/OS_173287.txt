@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 173287
+CLIENTE: Braslav (Braslav Administração e Serviços LTDA)
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+FALHA DE BATERIA FRACA.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21423600,"beginDate":"2025-09-06T04:21:14.775+0000","endDate":null,"status":5,"sequentialId":340,"accountId":515734,"accountCode":"0001","accountOffset":-3,"personOpenId":119396,"personOpen":"David Alves Silva","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":1,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":18797920,"text":"FALHA DE BATERIA FRACA.","date":"2025-09-06T04:21:15.000+0000","personId":119396,"person":"David Alves Silva","lastEditionDate":null}],"account":"Braslav (Braslav Administra\u00e7\u00e3o e Servi\u00e7os LTDA)","executingActivities":false}
+Status/Ação Final: Mudança de Área Responsável efetuada por: Luciano Nascimento
+========================================

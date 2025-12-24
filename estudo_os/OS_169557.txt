@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 169557
+CLIENTE: CIPLAN SOBRADINHO
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Ordem de serviço de manutenção planejada liberada para atendimento.
+========================================

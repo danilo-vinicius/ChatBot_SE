@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 177225
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] Adrya Luzia Gomes Alves
+[Telefone (celular):] (61) 98474-4101
+[Endereço de E-mail:] relacionamento@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 3• e 2• andar
+[Descreva o problema de forma clara e objetiva.] Solicito por gentileza manutenção nas paredes do 2 e 3 andar.
+[Impacto (o que acontece se não for resolvido):] Fica feio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: verificar área de pintura na no 2º e 3º andar.
+Status/Ação Final: OS Resolvida
+========================================

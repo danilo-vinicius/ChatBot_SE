@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 154907
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA PINTURA BL 307S - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Pintura da fachada da loja
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99945-8650
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Terraço Shopping
+[Edifício/Condomínio] Terraço Shopping
+[Endereço] Terraço Shopping
+[Andar/Sala/Unidade] Subsolo
+[Descrição Detalhada do Problema] Solicito a pintura da fachada da loja pois o Condomínio do Shopping podem notificar a Braslav devido ao estado da fachada. Quando for atender a solicitação procurar as funcionárias da loja da Braslav.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] O Condomínio do Shopping pediu para limpar o roda pé da fachada foi feito a limpeza pelas funcionárias da Loja da Braslav mas não foi o suficiente então o Shopping pediu par efetuar a pintura.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: pintura fachada branco neve. A textura não é para dar pintura.
+Status/Ação Final: OS Resolvida
+========================================

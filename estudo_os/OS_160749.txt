@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 160749
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Automatizador de Portão - BC 500 FAST
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Falha no portão do condomínio.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Após análise técnica, foi identificado um problema no funcionamento do motor do portão. A equipe constatou que a falha está na placa do motor, sendo necessário o envio da mesma para uma assistência técnica especializada. Como a placa ainda está dentro do período de garantia, a substituição ou reparo será feito conforme os termos da assistência autorizada. A troca da peça está agendada para a próxima terça-feira, dia 22/03/2025.
+========================================

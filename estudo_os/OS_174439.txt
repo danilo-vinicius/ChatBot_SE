@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 174439
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Às 03h11 da manhã, foi verificado que as câmeras estavam sem comunicação com o sistema. Em seguida, constatou-se que o sistema de alarme também estava sem comunicação. O Sr. Marcelo foi acionado via WhatsApp e se dirigiu ao local, onde realizou uma ronda e verificou o sistema de segurança, que aparentemente estava normal. No entanto, não foi realizado um teste na rede Wi-Fi."
+
+Ação necessária:  Falta de comunicação no local manutenção de CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Ação necessária:  Falta de comunicação no local manutenção de CFTV 
+Status/Ação Final: OS Resolvida
+========================================

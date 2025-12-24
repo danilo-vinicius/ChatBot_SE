@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 129085
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passar um cabo para abertura do portão por uma botoeira na guarita.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Já possui passagem por meio de eletrocalhas e tubulações localizadas próximas a sala de segurança.
+Status/Ação Final: OS Resolvida
+========================================

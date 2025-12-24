@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 168808
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: SISTEMA DE CFTV GERAL - Geral
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar câmeras da piscina de raio e campo.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 167328
+CLIENTE: EPB - Residência SHIS QL 32
+EQUIPAMENTO: CFTV GERAL - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Mudança de local Access Point.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

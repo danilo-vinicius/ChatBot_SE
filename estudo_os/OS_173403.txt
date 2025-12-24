@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 173403
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA CARPINTARIA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] 
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] RAFAEL DE OLIVEIRA ROCHA
+[Telefone (celular):] (61) 99127-0010
+[Endereço de E-mail:] rafael.rocha@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Copa | 1° andar
+[Descreva o problema de forma clara e objetiva.] Folha de madeirite da porta está descolando.
+[Impacto (o que acontece se não for resolvido):] Haverá um evento no 1° andar onde a apresentação do ambiente será avaliada
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] Qualquer horário
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar a fórmica da porta da copa do 1º andar.
+Status/Ação Final: OS Resolvida
+========================================

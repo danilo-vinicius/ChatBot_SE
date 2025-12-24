@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 154073
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Controle de acesso GERAL - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Acompanhamento dos técnicos da empresa DEDICADO na verificação do problema relacionado ao sistema de TAGs .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Relatório relativo aos dois dias de acompanhamento.
+Status/Ação Final: OS Resolvida
+========================================

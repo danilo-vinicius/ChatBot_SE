@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 181006
+CLIENTE: 2º Andar - Corredor
+EQUIPAMENTO: HEXA ELÉTRICA 2° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Substituição de painel de led
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Os painéis de led corredor estão com pouca iluminação 
+Status/Ação Final: OS Resolvida
+========================================

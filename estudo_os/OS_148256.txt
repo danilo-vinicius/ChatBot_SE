@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148256
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, bloco D apartamento 1101.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção de interfone, bloco D apartamento 1101.
+Status/Ação Final: OS Resolvida
+========================================

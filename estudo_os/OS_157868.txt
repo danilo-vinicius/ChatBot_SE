@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 157868
+CLIENTE: Luger
+EQUIPAMENTO: Rack - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de rack e switch na recepção.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

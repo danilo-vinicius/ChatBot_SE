@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 173396
+CLIENTE: LONGEVITÀ - SUDOESTE
+EQUIPAMENTO: Controle de acesso - IDFace
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Tirar medida para catraca.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

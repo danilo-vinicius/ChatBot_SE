@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 168884
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA ELÉTRICA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Estação de trabalho sem energia
+[Andar/Sala/Unidade] Apoio Operacional - Térreo
+[Descrição Detalhada do Problema] Identificado que uma estação de trabalho completa está sem energia elétrica e parte encontra-se somente nas segundas telas.
+ Rafael Rocha
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar energia em ponto de trabalho na sal do operacional
+Status/Ação Final: OS Resolvida
+========================================

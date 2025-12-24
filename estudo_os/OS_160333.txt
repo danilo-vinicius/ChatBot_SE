@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 160333
+CLIENTE: 1º subsolo
+EQUIPAMENTO: HEXA GERAL SUBSOLO 1 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Tampar a visão
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalação de tapa visão no banheiro masculino 
+Status/Ação Final: teste
+========================================

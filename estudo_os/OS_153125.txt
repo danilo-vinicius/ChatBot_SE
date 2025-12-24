@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 153125
+CLIENTE: Verificação Remota CFTV
+EQUIPAMENTO: Câmeras Monitoramento - Visualização
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação da funcionalidade das câmeras nos locais monitorados.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Ordem de Serviço solicitada
+========================================

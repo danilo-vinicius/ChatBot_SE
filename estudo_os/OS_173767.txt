@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 173767
+CLIENTE: SQN 305 Bloco H - Asa Norte (Embaixada do Reino dos Países Baixos)
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+FALHA - QUEDA DE ENERGIA
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21453873,"beginDate":"2025-09-11T15:06:26.015+0000","endDate":null,"status":5,"sequentialId":342,"accountId":1300480,"accountCode":"0083","accountOffset":-3,"personOpenId":136181,"personOpen":"Fabricio Forte","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":1,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":18832538,"text":"FALHA - QUEDA DE ENERGIA","date":"2025-09-11T15:06:26.000+0000","personId":136181,"person":"Fabricio Forte","lastEditionDate":null}],"account":"SQN 305 Bloco H - Asa Norte (Embaixada do Reino dos Pa\u00edses Baixos)","executingActivities":false}
+Status/Ação Final: Mudança de Área Responsável efetuada por: Luciano Nascimento
+========================================

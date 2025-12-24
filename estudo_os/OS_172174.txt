@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 172174
+CLIENTE: LS - LAKE SIDE APART HOTEL
+EQUIPAMENTO: Cancela automática - Jetflex
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Cancela abrindo e fechando sozinha sem o acionamento da TAG . Foi direcionado o técnico Silvano.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

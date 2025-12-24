@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 127869
+CLIENTE: Não informado
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone D 1204
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção interfone D 1204
+Status/Ação Final: OS Resolvida
+========================================

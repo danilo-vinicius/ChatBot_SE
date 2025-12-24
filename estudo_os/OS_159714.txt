@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 159714
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA CARPINTARIA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Carteira | Sala de treinamento
+[Andar/Sala/Unidade] Térreo
+[Descrição Detalhada do Problema] Carteira da Sala de treinamento precisa de manutenção
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Conserto de cadeira
+Status/Ação Final: OS Resolvida
+========================================

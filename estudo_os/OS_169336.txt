@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 169336
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA HIDRÁULICA AL ASA NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Torneira com Defeito (Banheiro Feminino)
+[Nome do Solicitante] Aline Ferreira da Silva
+Solicito a gentileza de providenciar a manutenção da torneira do banheiro feminino, que está apresentando defeito. A torneira não está fechando completamente e permanece pingando constantemente, o que pode gerar desperdício de água.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazamento na torneira.
+Status/Ação Final: OS Resolvida
+========================================

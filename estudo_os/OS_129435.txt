@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 129435
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Biometria - Orquideas - Bio Inox Plus SS 311 E
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação das leitoras biométricas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalação das leitoras biométricas que foram desativadas na implementação da faciais. São 6 faciais para serem instaladas cada uma no DG, sala da segurança, sala da NeoEnergia, Almoxarifado, Copa dos funcionários e Guarita.
+Status/Ação Final: Necessário a compra do suporte de eletroímã para porta de vidro. 
+Necessário agendar com responsável que realizou o serviço das chapas de alumínio, para realização do mesmo acabamento para a porta da guarita. 
+========================================

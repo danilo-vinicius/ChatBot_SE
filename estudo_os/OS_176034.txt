@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 176034
+CLIENTE: Chancelaria
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+FALHA - QUEDA DE ENERGIA
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21884512,"beginDate":"2025-10-09T16:16:19.867+0000","endDate":null,"status":5,"sequentialId":353,"accountId":516359,"accountCode":"0051","accountOffset":-3,"personOpenId":128758,"personOpen":"Adriel Rego","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":1,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":19212832,"text":"FALHA - QUEDA DE ENERGIA","date":"2025-10-09T16:16:20.000+0000","personId":128758,"person":"Adriel Rego","lastEditionDate":null}],"executingActivities":false,"account":"Chancelaria (Embaixada do Reino dos Pa\u00edses Baixos)"}
+Array
+Status/Ação Final: OS Resolvida
+========================================

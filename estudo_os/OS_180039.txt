@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 180039
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: CFTV - Geral
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação dos Nobreaks
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

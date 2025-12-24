@@ -1,0 +1,26 @@
+
+========================================
+ORDEM DE SERVIÇO: 171684
+CLIENTE: EPB - Chancelaria
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Kayke Rodrigues Alves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV. (MOBI-OPERACIONAL placa- SYTOE24)
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Descrição do serviço:
+Foi realizada manutenção corretiva no sistema de CFTV da Embaixada dos Países Baixos. Durante a inspeção, constatou-se que algumas câmeras estavam fora do ar. As seguintes ações foram realizadas:
+
+Identificação e restauração da maioria das câmeras que apresentavam falha.
+
+Reconfiguração de dispositivos e verificação de conectividade.
+
+Pendências:
+Uma câmera permanece fora do ar. A localização exata do equipamento exige acesso com o acompanhamento do responsável pelo setor, que não se encontrava presente no momento da visita. A finalização da manutenção dependerá do agendamento de nova data com a presença do encarregado para acesso e configuração manual da câmera.
+
+Observações:
+O sistema está operando parcialmente, com exceção da câmera pendente. 
+
+Recomendamos agendar uma nova visita técnica para conclusão total do serviço.
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 134134
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Manutenção Semanal - Geral - Geral
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção semanal - Verificar DVR, as câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção semanal - Verificar DVR, as câmeras.
+Status/Ação Final: OS Resolvida
+========================================

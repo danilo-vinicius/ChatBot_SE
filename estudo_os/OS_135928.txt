@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 135928
+CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+EQUIPAMENTO: Starlink - Starlink
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalção da antena da Starlink para utilização da nova rede de internet na usina.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

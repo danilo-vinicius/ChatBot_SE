@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 151850
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: Portão - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

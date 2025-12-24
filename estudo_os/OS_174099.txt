@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 174099
+CLIENTE: 4º andar
+EQUIPAMENTO: HEXA GERAL 4° ANDAR - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção periódica
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção preventiva 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 180296
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA HIDRÁULICA SUDOESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Q QMSW 5 LOTE 7 BLOCO A LOJA 10;14;16 e 20
+[Descreva o problema de forma clara e objetiva.] Solicito, por gentileza, a verificação urgente do cano da máquina de lavar da loja, pois apresenta problemas e necessita de atenção imediata.
+[Impacto (o que acontece se não for resolvido):] Interrupção do uso da máquina de lavar, afetando diretamente a rotina e o fluxo de trabalho da loja.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar alimentação de instalação hidráulica de uma máquina.
+Status/Ação Final: OS Resolvida
+========================================

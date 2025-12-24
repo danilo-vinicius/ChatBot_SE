@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 182525
+CLIENTE: 3º andar
+EQUIPAMENTO: HEXA CARPINTARIA 3° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Acompanhar a instalação das novas mesas.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Mesas novas para o 3andar.
+Status/Ação Final: Atribuição automática de técnico
+========================================

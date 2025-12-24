@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 136241
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Biometria - Orquideas - Bio Inox Plus SS 311 E
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ativação da Biometria
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

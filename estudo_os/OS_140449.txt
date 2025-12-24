@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 140449
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar câmera do estande de tiro que fica do lado direito e instalar as caixa de sobrepor.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

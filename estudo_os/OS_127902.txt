@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 127902
+CLIENTE: Luger
+EQUIPAMENTO: Cabo de rede UTP CAT 6 - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passar cabeamento para utilização dos equipamentos que necessitam de rede.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Passagem de cabeamentos para sistemas de CFTV e rede.
+Status/Ação Final: OS Resolvida
+========================================

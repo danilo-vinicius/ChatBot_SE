@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 161894
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: Controle de Acesso Geral - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção botoeira da biometria do cofre.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

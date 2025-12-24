@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 168062
+CLIENTE: BL - ASA NORTE
+EQUIPAMENTO: HEXA ELÉTRICA BL ASA NORTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar motor de abertura da porta de aço da entrada da loja.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

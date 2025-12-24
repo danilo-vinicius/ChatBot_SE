@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 178798
+CLIENTE: EPB - Residência QI 05
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção do Interfone IP.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: foi feito os teste do vídeo porteiro sendo encontrado falha de conexão com a internet sendo necessário colocar um repetidor de sinal wifi.
+foi informado para o cliente sobre o que deve ser feito  e que será encaminhado o orçamento de um repetidor de sinal 
+========================================

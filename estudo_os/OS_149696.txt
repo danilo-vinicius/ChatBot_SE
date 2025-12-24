@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 149696
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone dia 07/01, bloco D 304.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção interfone dia 07/01, bloco D 304.
+Status/Ação Final: OS Resolvida
+========================================

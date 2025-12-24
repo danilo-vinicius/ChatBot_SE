@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 182602
+CLIENTE: PARQUE DAS ACÁCIAS - NOROESTE
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção das Faciais.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: No condomínio Cerejeiras, foi realizada uma análise técnica do sistema e constatou-se que o nobreak está apresentando falhas operacionais devido a um superaquecimento interno. Esse problema tem causado o reinício intermitente do computador da portaria, além de um tempo de inatividade considerável até o restabelecimento do funcionamento normal. O superaquecimento compromete a estabilidade do nobreak, afetando sua capacidade de fornecer energia estável e contínua para o equipamento. A situação exige a revisão do sistema de ventilação do nobreak ou até mesmo a substituição de componentes críticos para evitar danos maiores e garantir a operação ininterrupta do sistema de segurança e gestão da portaria.
+Além disso, foi identificado que o computador da portaria também necessita de uma limpeza interna nos componentes. O acúmulo de poeira nas ventoinhas, dissipadores de calor e outros componentes críticos pode contribuir para o aumento da temperatura interna, prejudicando o desempenho geral do sistema e potencializando o risco de superaquecimento. A limpeza adequada dos componentes internos, como a CPU, memória RAM, placa-mãe e fontes de alimentação, é essencial para garantir uma circulação de ar eficiente, prevenindo falhas relacionadas ao aquecimento excessivo e melhorando a longevidade do equipamento.
+========================================

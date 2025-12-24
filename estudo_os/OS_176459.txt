@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 176459
+CLIENTE: BL - NOROESTE
+EQUIPAMENTO: HEXA GERAL BL NOROESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] Corrimão da escada da loja
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Q SHCNW CLNW 2/3 BLOCO F S/N LOJA 106 - CENTRO NOROESTE
+[Descreva o problema de forma clara e objetiva.] Solicito a verificação da escada da loja, pois o corrimão encontra-se solto, aparentemente para ser a solta que se soltou. 
+[Impacto (o que acontece se não for resolvido):] O que pode representar risco de acidentes para os colaboradores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Soldar corrimão da escada.
+Status/Ação Final: Foi refeito uma solda no pé do corrimão e foi feito um reforço na parte superior 
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 130146
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção e revisão do CFTV.
+Detalhe do Defeito: Câmera IP não está aparecendo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

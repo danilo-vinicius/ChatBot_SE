@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168155
+CLIENTE: BL - TERRAÇO SHOPPING
+EQUIPAMENTO: HEXA HIDRÁULICA BL TERRAÇO SHOPPING - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] desobstrução de esgoto
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Desobstrução de esgoto
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar entupimento de tubulação 
+Status/Ação Final: OS Resolvida
+========================================

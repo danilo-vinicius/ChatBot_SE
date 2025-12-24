@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 130002
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Câmeras - Vip 1230
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação de todo sistema de CFTV, organização das câmeras ip, situação das gravações e tempo de duração de cada HD.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Necessário registro em fotos de toda verificação.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 136359
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: EQUIP Teste - VIP 1230
+TÉCNICO: Quely Souza Ferreira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Não informado
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

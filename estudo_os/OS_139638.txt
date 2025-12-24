@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 139638
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção na câmera  do  elevador  de  serviço  da  torre  A, no dia 23/11/24 perdeu a comunicação.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

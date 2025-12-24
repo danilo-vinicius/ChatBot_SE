@@ -1,0 +1,24 @@
+
+========================================
+ORDEM DE SERVIÇO: 171841
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA ELÉTRICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] 
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Solicitamos a instalação hidráulica - 3 pontos de instalação de abastecimento de água para máquina de lavar no térreo  na parte do fundo da loja
+
+[Impacto (o que acontece se não for resolvido):] Será necessário a instalação para o funcionando da máquina de lavar 
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):]
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar se a capacidade para aumento de carga no quadro da loja. Caso seja possível fazer a o acréscimo com fiação e tomada adequada para a carga exigida.
+Status/Ação Final: OS Resolvida
+========================================

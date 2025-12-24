@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148282
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone da portaria.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção interfone da portaria.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 164158
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA CARPINTARIA TÉRREO - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de papeleria
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A papelaria está soltando 
+Status/Ação Final: OS Resolvida
+========================================

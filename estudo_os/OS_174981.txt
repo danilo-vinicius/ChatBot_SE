@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 174981
+CLIENTE: Braslav (Braslav Administração e Serviços LTDA)
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Danilo Vinícius Bastos Torres
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+FALHA - BATERIA CARGA BAIXA
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21820588,"beginDate":"2025-09-29T15:48:12.543+0000","endDate":null,"status":5,"sequentialId":347,"accountId":515734,"accountCode":"0001","accountOffset":-3,"personOpenId":128758,"personOpen":"Adriel Rego","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":1,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":19139241,"text":"FALHA - BATERIA CARGA BAIXA","date":"2025-09-29T15:48:13.000+0000","personId":128758,"person":"Adriel Rego","lastEditionDate":null}],"account":"Braslav (Braslav Administra\u00e7\u00e3o e Servi\u00e7os LTDA)","executingActivities":false}
+Array
+Status/Ação Final: OS Resolvida
+========================================

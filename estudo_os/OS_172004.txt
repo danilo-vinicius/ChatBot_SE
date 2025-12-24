@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 172004
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Kayke Rodrigues Alves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Serviço: Instalação/Verificação de Interfone
+Local: Apartamento 104 – Bloco A
+Data/Horário: 23/08/2025 às 11:00
+Detalhe do Defeito: Interfone mudo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

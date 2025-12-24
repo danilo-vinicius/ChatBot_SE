@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 136993
+CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+EQUIPAMENTO: Biometria - Orquideas - Bio Inox Plus SS 311 E
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de Cabo de Rede ate o DG.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foram passadas, pela calha de infraestrutura de cabos da garagem do condomínio Parque das Orquídeas, cabos de dados que ligarão o Switch que ficará na sala DG, as salas  Ceb B, Sala de Segurança e copa. Ficando faltando faltando apenas o Depósito. 
+========================================

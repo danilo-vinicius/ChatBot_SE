@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 156853
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Fixação dos dispensers nos banheiros 
+[Descrição Detalhada do Problema] Prezada equipe de manutenção,
+Gostaria de solicitar a reparação dos dispenses que estão caindo nos banheiros masculinos é femininos.
+Obs: fiz uma ronda e verifiquei em quase todos os banheiros de todos os andares. 
+Agradeço pela atenção e aguardo uma atualização sobre a resolução deste problema.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Dispenser ajuda a manter os produtos de higiene Percebi que os dispenser estão todos se soltando, porém é necessário a manutenção nos banheiros femininos e masculinos, no horário comercial
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar fixação dos dispenser de cheiro de todos os banheiros da sede. 
+Status/Ação Final: OS Resolvida
+========================================

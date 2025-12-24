@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 174828
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA GERAL AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Daniela Silva Batista
+[Telefone (celular):] (61) 99948-1892
+[Endereço de E-mail:] daniela.batista@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Luger Unidade de Taguatinga
+[Descreva o problema de forma clara e objetiva.] Venho por meio desse chamado solicitar a manutenção/reparo dos bancos (assentos) na área externa de nossa Academia.
+[Impacto (o que acontece se não for resolvido):] As cadeiras apresentam problemas estruturais, podendo comprometer a segurança de quem as utiliza.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar cadeiras com assento solto.
+Status/Ação Final: OS Resolvida
+========================================

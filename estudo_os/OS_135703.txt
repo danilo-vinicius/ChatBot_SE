@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 135703
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Servidor LPR - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Atualização da maquina que fica hospedado o servidor de LPR.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Necessário a clonagem do sistema para a nova maquina.
+Status/Ação Final: OS Resolvida
+========================================

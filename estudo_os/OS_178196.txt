@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 178196
+CLIENTE: GB - GENERAL BURMANN NOROESTE
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Geral.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

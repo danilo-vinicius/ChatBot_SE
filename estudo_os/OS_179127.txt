@@ -1,0 +1,24 @@
+
+========================================
+ORDEM DE SERVIÇO: 179127
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA GERAL AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1 andar 
+[Descreva o problema de forma clara e objetiva.] Identificamos que algumas cadeiras estão quebradas e precisam de reparo.
+Quantidade: 3
+Localização: 2 cadeiras na sala 01 
+1 cadeira na sala 02
+[Impacto (o que acontece se não for resolvido):] As cadeiras danificadas estão comprometendo o uso do espaço e podem representar risco de acidente aos alunos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Consertar cadeiras da luger asa norte
+Status/Ação Final: OS Resolvida
+========================================

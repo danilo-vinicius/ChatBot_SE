@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 140592
+CLIENTE: EPB - Residência QI 05
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone, bloco D 1306. Linha cruzada.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Realizamos vários teste de ramal , teste no cabeamento para ver se não estavam em curto, trocamos a porta na central , e concluímos que a central de telefonia está com problemas após a ocorrência de um raio que veio a danificar vários aparelhos no condomínio. 
+========================================

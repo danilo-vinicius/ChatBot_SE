@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 166144
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação da infra do controle de acesso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Mudança de Área Responsável efetuada por: Luciano Nascimento
+========================================

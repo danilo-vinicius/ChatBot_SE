@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 176026
+CLIENTE: Residência do Embaixador
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+FALHA - SISTEMA C/ PROBLEMA
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21884362,"beginDate":"2025-10-09T15:39:11.643+0000","endDate":null,"status":5,"sequentialId":352,"accountId":516377,"accountCode":"0054","accountOffset":-3,"personOpenId":128758,"personOpen":"Adriel Rego","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":1,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":19212655,"text":"FALHA - SISTEMA C\/ PROBLEMA","date":"2025-10-09T15:39:12.000+0000","personId":128758,"person":"Adriel Rego","lastEditionDate":null}],"executingActivities":false,"account":"Resid\u00eancia do Embaixador (Embaixada do Reino dos Pa\u00edses Baixos)"}
+Status/Ação Final: Ordem de Serviço solicitada
+========================================

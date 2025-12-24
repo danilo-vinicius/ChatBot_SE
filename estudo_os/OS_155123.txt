@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 155123
+CLIENTE: EPB - Residência QI 28
+EQUIPAMENTO: Central de Alarme - AMT 8000 Pró
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar por que o morador não consegue ativar o alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

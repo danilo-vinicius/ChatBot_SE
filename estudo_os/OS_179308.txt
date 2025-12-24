@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 179308
+CLIENTE: CGP - GREEN PARK ASA NORTE
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Relatório e organização dos rack.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 173128
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção preventiva CFTV no dia 03/09/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

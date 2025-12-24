@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 172068
+CLIENTE: 1º subsolo
+EQUIPAMENTO: HEXA GERAL SUBSOLO 1 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção periódica no elevador,
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção periódica
+Para proteger o equipamento 
+Status/Ação Final: OS Resolvida
+========================================

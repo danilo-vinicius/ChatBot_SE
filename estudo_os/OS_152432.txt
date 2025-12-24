@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 152432
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: CPD - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção do Rack.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Verificação do funcionamento do nobreak do servidor principal do condomínio, localizado na torre F. Chegando ao local para verificar já tínhamos recebido um vídeo mostrando qual o problema do nobreak, ele não estava conseguindo ficar ligado e alimentar os equipamentos, já tinha desligado ele e ligado a régua direto na energia do condomínio, retiramos o Peck de baterias que estava com a temperatura bem elevada, abrindo o Peck verificamos que as baterias estão estufadas e algumas já vazaram o líquido interno, realizamos o teste de ligar o nobreak sem as baterias defeituosas e o mesmo ligou sem nenhum problema e persistiu ligado normalmente, precisamos de baterias novas para instalar e realizar mais alguns testes.
+========================================

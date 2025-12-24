@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 172868
+CLIENTE: BB PREVIDÊNCIA - SETOR BANCÁRIO SUL
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de Alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: MOBI do operacional - VTR SYTOE24
+Status/Ação Final: OS Resolvida
+========================================

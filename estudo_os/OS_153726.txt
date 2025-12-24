@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 153726
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+instalação de cãmera.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

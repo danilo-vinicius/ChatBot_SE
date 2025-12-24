@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 158199
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

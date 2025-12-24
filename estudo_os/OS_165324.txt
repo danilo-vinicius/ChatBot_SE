@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 165324
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA CARPINTARIA TÉRREO - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Colar cantoneira no  portal eclusa
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A cantoneira do portal soldou 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165018
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Terminar a instalação das caixas nos postes e fixar as câmeras e instalar os Racks.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

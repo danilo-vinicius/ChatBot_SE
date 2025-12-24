@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 176363
+CLIENTE: EPB - Chancelaria
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Quely Souza Ferreira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+A equipe que trabalhou no dia 08/10/2025 retirou uma câmera que apresentava defeito.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: O auxiliar técnico Lucas retirou, no dia 08/10/2025, uma câmera que apresentava defeito. O equipamento foi encaminhado para a autorizada para realização de testes e reset.
+Será cobrado o valor de R$ 80,00 pelos testes e reset. Caso seja necessária a substituição de alguma peça, o valor correspondente será cobrado juntamente com o serviço de reset.
+Se for constatado que a câmera apresenta defeito sem possibilidade de reparo, não será cobrado nenhum valor.
+========================================

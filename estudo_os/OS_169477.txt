@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 169477
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vaso entupido 
+[Nome do Solicitante] Quely Ferreira
+[Telefone] (61) 98563-1537
+[E-mail ] quely.ferreira@brasfort.com.br
+[Andar/Sala/Unidade] Banheiro feminino 1° subsolo, Sede Brasfort
+[Descrição Detalhada do Problema] Vaso entupido.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Vaso entupido
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] O serviço pode ser realizado durante o dia.
+[Nome do Solicitante (Assine no campo abaixo)] Quely Souza Ferreira
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vaso sanitário banheiro feminino do 1º subsolo
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 127873
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Quely Souza Ferreira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Teste - Manutenção
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Teste - Manutenção 
+Status/Ação Final: OS Resolvida
+========================================

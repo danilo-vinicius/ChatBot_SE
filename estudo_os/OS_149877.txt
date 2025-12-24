@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 149877
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: Rede Geral - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalar ACCESS POINT e passar cabo de rede.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalar ACCESS POINT e passar cabo de rede.
+Status/Ação Final: OS Resolvida
+========================================

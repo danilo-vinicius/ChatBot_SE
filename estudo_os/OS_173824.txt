@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 173824
+CLIENTE: RVB7G00
+EQUIPAMENTO: Verificação veicular - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Em Andamento
+========================================

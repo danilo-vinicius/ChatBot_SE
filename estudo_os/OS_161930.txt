@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 161930
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: SISTEMA DE CFTV GERAL - Geral
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Configuração DVR churrasqueira e clube.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

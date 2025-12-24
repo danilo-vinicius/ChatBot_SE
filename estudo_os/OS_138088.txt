@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 138088
+CLIENTE: LS - LAKE SIDE APART HOTEL
+EQUIPAMENTO: Cancela automática - Jetflex
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção das Cancelas
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Chegando ao local para realização da manutenção preventiva, foi mostrado à equipe que uma cancela não estava funcionando corretamente, sendo que quando foi realizada a abertura ela não fechou mais. Iniciando as verificações e testes, adicionamos uma fonte externa para alimentação dos sensores, porém a cancela ainda não retornou ao funcionamento normal, testamos sensor por sensor, chegando ao sensor responsável pelo retorno do feixe infravermelho detectamos que o mesma estava queimado, solicitamos um novo kit de sensores no condomínio, porém o que eles tinham já tinha sido utilizado e estava faltando exatamente o sensor que necessitamos, solicitamos a compra de um novo sensor que e realizada pelo próprio condomínio, deixamos a cancela operante totalmente pela botoeira interna da guarita. Continuando a manutenção preventiva nas outras cancelas e portão, estavam operantes normalmente, foi observado a entrada e saída dos moradores e prestadores de serviço, sendo finalizado a manutenção preventiva.
+========================================

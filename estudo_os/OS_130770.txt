@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 130770
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Automatizador de Portão - BC 500 FAST
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de placa auxiliar CA 1000 da Intelbras para o funcionamento da sinalização de garagem.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Cabos da sinalização de garagem já estão passados.
+Status/Ação Final: OS Resolvida
+========================================

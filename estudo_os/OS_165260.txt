@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165260
+CLIENTE: COND. TOP LIFE SAINT TROPEZ
+EQUIPAMENTO: Antena - v1
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de antena, bloco F apartamento 1302.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

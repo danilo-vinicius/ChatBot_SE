@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 169476
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA GERAL BL QD 1 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Verificar o compressor de ar
+[Andar/Sala/Unidade] Área operacional
+[Descrição Detalhada do Problema] Verificar compressor reserva ele está sem a correia mas precisa de uma verificação mais aprofundada até pelo fato de caso o compressor principal ter algum problema mais grave termos o outro para entrar no lugar.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar o compressor.
+Status/Ação Final: OS Resolvida
+========================================

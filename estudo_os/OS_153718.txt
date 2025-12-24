@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 153718
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA PINTURA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Salas 2 e 3 precisando de uma pintura 
+[Edifício/Condomínio] Academia Luger Unidade de Taguatinga Qne 06 
+[Endereço] Qne 06 lote 16
+[Andar/Sala/Unidade] Sala 2 e 3
+[Descrição Detalhada do Problema] Prezados, 
+Com o vazamento que tivemos nas salas por causa das calhas, a pintura do teto das salas manchou. E em uma das salas teve uma infiltração o que ocasionou o descolamento da tinta. Gostaríamos de um reparo na pintura das salas! Desde de já agradecemos e tenham um ótimo trabalho!
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Pintura de teto das salas de aula
+Status/Ação Final: OS Resolvida
+========================================

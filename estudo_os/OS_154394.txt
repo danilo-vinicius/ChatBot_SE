@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154394
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: Central de Alarme - AMT 2018 E/EG
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Troca de bateria e instalação da sirene.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

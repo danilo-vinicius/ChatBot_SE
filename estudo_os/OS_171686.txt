@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 171686
+CLIENTE: SQS 206 Bloco D
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de controle de acesso. (MOBI-OPERACIONAL SYTOE23)
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

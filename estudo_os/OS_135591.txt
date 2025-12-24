@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 135591
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: Facial - Não informado
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+ligação controle de acesso porta do nobreak .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

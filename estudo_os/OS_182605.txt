@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182605
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: Controle de Acesso - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de Cabo do jurídico 2°andar.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Atribuição efetuada na criação da OS
+========================================

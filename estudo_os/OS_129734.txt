@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 129734
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Central de Alarme - AMT 2018 E/EG
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação das funcionalidades da central de alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Aguardando material 
+========================================

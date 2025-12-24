@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 154681
+CLIENTE: BL - QD 1 SAAN
+EQUIPAMENTO: HEXA HIDRÁULICA BL QD 1 - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Reparos em ralos de banheiros
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Sede
+[Edifício/Condomínio] Sede Saan
+[Endereço] Quadra 01 lote 835 Saan
+[Andar/Sala/Unidade] Banheiros vestiários masculinos
+[Descrição Detalhada do Problema] 1 ralo tem que fixar a tampa e o outro precisa colocar pois falta tampa todos os 2 são no vestiário masculino.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar o tamanho e o tipo de ralo necessário para colocar no vestiário masculino.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148561
+CLIENTE: CASA DE MÁQUINAS
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar CFTV e portão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar CFTV e portão.
+Status/Ação Final: OS Resolvida
+========================================

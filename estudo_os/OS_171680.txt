@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 171680
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA HIDRÁULICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] 
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 307 Asa sul
+[Descreva o problema de forma clara e objetiva.] Solicitamos as instalações de dois pontos de instalação hidráulica para maquina de lavar.
+[Impacto (o que acontece se não for resolvido):] Para o funcionamento dos maquinários que a loja recebeu 
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):]
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalara postos hidráulicos para atender para novos equipamentos da loja.
+Status/Ação Final: OS Resolvida
+========================================

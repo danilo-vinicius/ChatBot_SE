@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182156
+CLIENTE: EPB - Residência QL 12
+EQUIPAMENTO: Central de Alarme - AMT 2018 E SMART
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção na Central de Alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

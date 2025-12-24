@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 128646
+CLIENTE: Luger
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

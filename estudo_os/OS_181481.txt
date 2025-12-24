@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 181481
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA GERAL BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Gostaria de solicitar a verificação da bomba da loja, responsável por drenar a água do buraco que costuma encher. A bomba não está realizando a evacuação da água.
+[Impacto (o que acontece se não for resolvido):] A falta de funcionamento da bomba pode causar acúmulo de água, risco de alagamento, danos à estrutura da loja
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar bomba de recalque do esgoto.
+
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 165205
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção da MIBO que está com de lei muito alto e verificar a comunicação VMPAY.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

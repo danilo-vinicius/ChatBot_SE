@@ -1,0 +1,20 @@
+
+========================================
+ORDEM DE SERVIÇO: 160825
+CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+EQUIPAMENTO: HEXA ELÉTRICA SCIA QD 8 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Cerca Concertina
+[Nome do Solicitante] Rafael Rocha
+[Andar/Sala/Unidade] SCIA - Prédio Pequeno
+[Descrição Detalhada do Problema] luminárias com lâmpadas queimadas e Cerca Concertina defeituosa.
+[Justificativa para a Solicitação] Trata-se de posto onde localidade tem alto indicie criminal. Importante ressaltar que o mais urgente é o concerto da Concertina.
+[Observações Adicionais] Procurar o porteiro de pantão.
+[Nome do Solicitante (Assine no campo abaixo)] Rafael Rocha
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Troca de luminárias
+Status/Ação Final: OS Resolvida
+========================================

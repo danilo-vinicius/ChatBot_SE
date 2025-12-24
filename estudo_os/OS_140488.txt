@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 140488
+CLIENTE: BL - TERRAÇO SHOPPING
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de câmeras e rack.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Instalação de rack para organização dos equipamentos de CFTV, instalado próxima a tomadas para facilitar a ligação da rede elétrica, não foram instalados os outros equipamentos pela questão de não ter tempo suficiente.
+========================================

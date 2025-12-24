@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 138845
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Reparo de Interfone Bloco B Apto 201 10:30 23/11/2024
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

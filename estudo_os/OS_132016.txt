@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 132016
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Avyner Lima Portugal da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção interfone, bloco D apartamento 1305.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Interfone mudo.
+Status/Ação Final: OS Resolvida
+========================================

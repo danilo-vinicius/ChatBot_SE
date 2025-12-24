@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 157955
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Lucas Da Silva Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos bloco A.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foi feita toda a passagem de cabos , feita a fixação de câmeras em todos os andares , os cabeamentos já estão no térreo no teto de frente a sala da administração onde vai ser feita toda a ligação das câmeras nos DVRs .
+========================================

@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168259
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA CARPINTARIA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Porta de correr Sala 03
+[Andar/Sala/Unidade] Unidade de Taguatinga
+[Descrição Detalhada do Problema] Porta de correr, apresenta dificuldade para o fechamento e abertura da mesma, necessitando de manutenção.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar por de correr com problema
+Status/Ação Final: OS Resolvida
+========================================

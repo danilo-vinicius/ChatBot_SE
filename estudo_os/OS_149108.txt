@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 149108
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, bloco F apartamento 118.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção de interfone dia 4/01, bloco F apartamento 118.
+Status/Ação Final: OS Resolvida
+========================================

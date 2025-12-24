@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 180086
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação dos IVA's
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Foi levado as ferramentas da CIPLAN.
+Status/Ação Final: OS Resolvida
+========================================

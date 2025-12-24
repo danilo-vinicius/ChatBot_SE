@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148674
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, bloco E apartamento 1202.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção de interfone, bloco E apartamento 1202.
+Status/Ação Final: OS Resolvida
+========================================

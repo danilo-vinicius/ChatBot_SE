@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 180048
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: Câmeras - Vip 1230
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação de passagem de cabo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

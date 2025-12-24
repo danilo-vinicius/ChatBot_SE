@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 158575
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA GERAL BL SUDOESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Reparo e pintura em parede
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Reparo e pintura de parede
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Reparar a parede
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Reparo de pintura
+Status/Ação Final: OS Resolvida
+========================================

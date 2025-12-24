@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 159200
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA GERAL TÉRREO - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de cantoria
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A cantoneira está soltando  nas colunas da copa 
+Status/Ação Final: Ordem de Serviço solicitada
+========================================

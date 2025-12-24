@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 181111
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] Tampa da caixa d'agua
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] RAFAEL DE OLIVEIRA ROCHA
+[Telefone (celular):] (61) 99127-0010
+[Endereço de E-mail:] rafael.rocha@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Telhado da Sede
+[Descreva o problema de forma clara e objetiva.] Informamos que hoje, às 11:00 recebemos a equipe de GDF vigilancia sanitaria onde nos informaram que através de imagens de Drone que nossa caixa d'agua econtra-se descoberta.
+
+O mesmos informaram que desde setembro (época das filmagens) a caixa está nesta situação. Foi dado um período para a regulaizaração sob pena de multar a Brasfort por descumprimento.
+[Impacto (o que acontece se não for resolvido):] Multa
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] Qualquer horário
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar a tampa da caixa d"água da sede.
+Status/Ação Final: Edição da OS executada por : Adriano Mattos e Pinto - Alterado: [de 05/12/2025 07:17:17 para 05/12/2025 7:17]
+========================================

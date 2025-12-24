@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 162270
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabo para câmera, continuação da instalação do alarme e sirenes, ativação da ultima câmera.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

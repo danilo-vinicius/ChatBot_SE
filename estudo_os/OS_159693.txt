@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 159693
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Banheiro subsolo
+[Telefone] (61) 98176-0129
+[E-mail ] grazielahonesko@gmail.com
+[Andar/Sala/Unidade] Primeiro subsolo/ banheiro 
+[Descrição Detalhada do Problema] Pia entupida
+Dispensa do papel quebrado
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Desentupir pia e verificar dispenser de papel toalha.
+Status/Ação Final: OS Resolvida
+========================================

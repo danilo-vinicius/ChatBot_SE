@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 169356
+CLIENTE: 4º andar
+EQUIPAMENTO: HEXA GERAL 4° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação dos ar-condicionado
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: As condensadoras do quarto 
+estão com problema. 
+Status/Ação Final: Verificação das condensadoras do quarto 
+========================================

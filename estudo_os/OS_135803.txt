@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 135803
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: SISTEMA DE CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do sistema de CFTV que já esta instalado no local, planejamento de organização dos rack e atualização do sistema.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

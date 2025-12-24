@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148684
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+verificação das câmeras e interfone dos elevadores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: verificação das câmeras e interfone dos elevadores.
+Status/Ação Final: OS Resolvida
+========================================

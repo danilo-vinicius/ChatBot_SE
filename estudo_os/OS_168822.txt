@@ -1,0 +1,15 @@
+
+========================================
+ORDEM DE SERVIÇO: 168822
+CLIENTE: RV USINA RANCHO VERDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabos.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foi realizada a passagem de cabos de rede por meio de eletroduto subterrâneo, com o objetivo de estabelecer a interligação entre os sensores instalados na área externa da usina.
+
+
+========================================

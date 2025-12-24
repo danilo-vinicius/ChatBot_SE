@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 159674
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA GERAL BL SUDOESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Molas da porta principal
+[Nome do Solicitante] Júlio
+[Telefone] (61) 99605-0465
+[E-mail ] julio.santos@braslav.com.br
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Avaliação da porta principal de entrada da loja do Sudoeste pois a porta quando aberta ela retorna com muita força com risco de quebrar.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Para evitar de bater e o risco de quebrar o vidro
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Júlio
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Troca da mola da porta
+Status/Ação Final: OS Resolvida
+========================================

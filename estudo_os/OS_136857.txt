@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 136857
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Servidor LPR - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Por volta de umas 22h do dia 11/11/2024 o portão da garagem travou aberto faltando para chegar no fim de curso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O portão parecia estar sendo segurado pelos sensores.
+Status/Ação Final: OS Resolvida
+========================================

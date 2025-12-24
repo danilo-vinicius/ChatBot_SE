@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 179491
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA GERAL BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Bom dia,
+Solicito, por gentileza, a verificação do filtro de água da loja, pois o fluxo de água está reduzido.
+[Impacto (o que acontece se não for resolvido):] É importante que o problema seja solucionado com urgência, uma vez que os colaboradores estão sendo prejudicados pela falta de hidratação.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar filtro.
+Status/Ação Final: Edição da OS executada por : Adriano Mattos e Pinto - Alterado: [de 17/11/2025 10:04:34 para 17/11/2025 10:04]
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 174052
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA GERAL TÉRREO - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de odorizador no banheiro femenino
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O odorizador está soltando 
+Status/Ação Final: OS Resolvida
+========================================

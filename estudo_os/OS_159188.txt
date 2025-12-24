@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 159188
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA CARPINTARIA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Madeira da porta solta 
+[E-mail ] amanda.costa@luger-academia.com.br
+[Andar/Sala/Unidade] Porta da Sala dos Professores 
+[Descrição Detalhada do Problema] Prezados, 
+A madeira que fica em cima da porta da sala dos professores está solta. Isso têm nos atrapalhado bastante, tanto que o monitoramento teve que desligar o imã da porta.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Porta sala dos professores
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 176498
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: Central de Alarme - AMT 8000 Pró
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação da Central de Alarme
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

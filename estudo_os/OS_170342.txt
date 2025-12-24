@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 170342
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: Geral - Res. Jacy Burmann - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção da botoeira que parou de funcionar.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

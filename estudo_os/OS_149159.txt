@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 149159
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Interfone - Geral
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de interfone, bloco D apartamento 204.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção de interfone dia 03/01, bloco D apartamento 204.
+Status/Ação Final: OS Resolvida
+========================================

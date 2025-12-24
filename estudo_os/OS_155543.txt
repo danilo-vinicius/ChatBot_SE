@@ -1,0 +1,24 @@
+
+========================================
+ORDEM DE SERVIÇO: 155543
+CLIENTE: HEXA - CENTRO DE TREINAMENTO
+EQUIPAMENTO: HEXA HIDRÁULICA CT - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Rejunte vaso sanitário
+[Nome do Solicitante] Rafael Rocha
+[Telefone] (61) 99127-0010
+[E-mail ] rafael.rocha@brasfort.com.br
+[Empresa] Brasfort Administração 
+[Edifício/Condomínio] Sede
+[Endereço] SAAN QD03
+[Andar/Sala/Unidade] 1° SS/Banheiro feminino/Operacional Segurança
+[Descrição Detalhada do Problema] Trata-se de rejunte que está solto. Com isso está com forte odor de esgoto no ambiente.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Forte odor no ambiente, mesmo após a higienização. O dano pode aumentar caso o rejunte não seja colocado.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Rafael Rocha
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 155614
+CLIENTE: EPB - Residência SHIS QL 32
+EQUIPAMENTO: Central de Alarme - AMT 8000 Pró
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Acompanhamento do serviço e Instrução sob o uso da central de alarme ao morador.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

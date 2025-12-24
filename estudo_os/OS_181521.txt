@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 181521
+CLIENTE: T - Refeitório
+EQUIPAMENTO: HEXA HIDRÁULICA TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Reparo na torneira do lavatório
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: A torneira do lavatório de cozinha está vingando 
+Status/Ação Final: Em Andamento
+========================================

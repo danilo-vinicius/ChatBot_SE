@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 151673
+CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+EQUIPAMENTO: SISTEMA DE CFTV GERAL - Geral
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Passagem de cabo e verificação de câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Testada as câmeras com problema da portaria e verificação da infraestrutura para passagem de cabos do totem à portaria 
+========================================

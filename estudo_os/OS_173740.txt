@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 173740
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA ELÉTRICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Solicito que seja feito uma instalação de uma tomada com dois ponto de energia para os dosadores serem instalados.
+[Impacto (o que acontece se não for resolvido):] Será necessário a instalação para o funcionando dos dosadores
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Instalar tomdas.
+Status/Ação Final: OS Resolvida
+========================================

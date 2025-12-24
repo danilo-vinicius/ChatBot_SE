@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 172401
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: Central de Alarme - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de Sensores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: MOBI OPERACIONAL - SYT0E19
+Status/Ação Final: Mudança de Área Responsável efetuada por: Quely Souza Ferreira
+========================================

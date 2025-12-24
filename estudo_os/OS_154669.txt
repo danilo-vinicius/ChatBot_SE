@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154669
+CLIENTE: Vistoria técnica detalhada de Segurança Eletrõnica
+EQUIPAMENTO: Vistoria técnica detalhada de Segurança Eletrõnica - Genérico
+TÉCNICO: Wesley Soares Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Conferencia e Abastecimento  Fiorino.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 174326
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ontem (19/09) foi registrada falha geral de comunicação na Usina São Pedro devido à queda de energia. O sistema retornou parcialmente às 19h10 via nobreak, mas às 03h de hoje (20/09) a bateria se esgotou e a comunicação foi totalmente perdida. Pela manhã houve restabelecimento parcial da energia, o que reativou o switch principal, normalizando 15 câmeras e parte do alarme. Entretanto, os switches dos racks externos continuam inativos, comprometendo a operação completa do CFTV e do sistema de alarme.
+
+Diante disso, será necessária uma intervenção presencial ainda hoje. A equipe de suporte inicial deverá realizar testes de energização, inspeção dos racks externos e validação dos links de comunicação. Caso não haja restabelecimento integral, já está agendada para segunda-feira a atuação da equipe técnica avançada, que fará análise completa de configuração e equipamentos em campo.
+Detalhe do Defeito: Câmera IP não está aparecendo
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Necessario verificação do energia nos pontos de switch. 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 156174
+CLIENTE: BL - TERRAÇO SHOPPING
+EQUIPAMENTO: HEXA ELÉTRICA BL TERRAÇO SHOPPING - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Verificar tomada que não está funcionando
+[Andar/Sala/Unidade] Subsolo
+[Descrição Detalhada do Problema] Colaboradoras informam que tomada não está funcionando.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar tomada
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 153087
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] bebedouro 
+[Nome do Solicitante] Marlon Honesko
+[Telefone] (61) 98176-0129
+[E-mail ] marlon.honesko@brasfort.com.br
+[Empresa] Brasfort 
+[Edifício/Condomínio] Ed. Sede 
+[Endereço] SAAN Quadra 3 lote 1240
+[Andar/Sala/Unidade] 01º Subsolo
+[Descrição Detalhada do Problema] A Registro de abrir e fechar está com problemas e a vasão da agua está pouca
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] filtro com problemas
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] .
+[Nome do Solicitante (Assine no campo abaixo)] Marlon Honesko
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazão de água e comando de abrir e fechar do bebedouro do -1º subsolo
+Status/Ação Final: OS Resolvida
+========================================

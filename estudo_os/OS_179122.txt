@@ -1,0 +1,18 @@
+
+========================================
+ORDEM DE SERVIÇO: 179122
+CLIENTE: CIPLAN SOBRADINHO
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: 1 Álcool Isopropílico 
+4 Pacote Conector Bmc 
+2 Pacote Pi P4 
+1 Talabarte
+1 Fita de Ancoragem
+Status/Ação Final: OS Resolvida
+========================================

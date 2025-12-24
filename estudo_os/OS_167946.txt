@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 167946
+CLIENTE: PNTF PONTIFÍCIAS
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Retirar o motor portão para manutenção e instalação de um provisório.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: O motor do portão foi substituído no local, sendo realizado o seguinte procedimento: o motor que estava em operação no portão secundário, o qual apresentava baixo uso, foi removido e transferido para o portão principal, que possui maior frequência de operação. Ambos os motores eram do mesmo modelo e estavam com as conexões elétricas previamente desconectadas. O motor funcional foi instalado no portão principal e o motor defeituoso foi encaminhado para o setor de reparos para diagnóstico e conserto
+========================================

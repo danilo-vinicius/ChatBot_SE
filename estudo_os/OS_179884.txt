@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 179884
+CLIENTE: RMC RESIDENCIA MARIA DO CARMO
+EQUIPAMENTO: Controle de acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de CFTV.
+Detalhe do Defeito: CFTV
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

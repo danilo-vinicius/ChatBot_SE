@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 166823
+CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+EQUIPAMENTO: HEXA GERAL QD 1 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Dispensar quebrado, necessitando de troca 
+[Andar/Sala/Unidade] Copa do térreo 
+[Descrição Detalhada do Problema] Dispenser quebrado , necessita ser trocado
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar se tem conserto o dispenser. caso não tenha providenciar a troca
+Status/Ação Final: OS Resolvida
+========================================

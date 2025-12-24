@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 179113
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA ELÉTRICA AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 2º subsolo
+[Descreva o problema de forma clara e objetiva.] Verificamos que há uma lâmpada queimada na copa.
+[Impacto (o que acontece se não for resolvido):] Solicito a substituição para restabelecer a iluminação adequada no ambiente.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Trocar lâmpada de LED tubular 
+Status/Ação Final: OS Resolvida
+========================================

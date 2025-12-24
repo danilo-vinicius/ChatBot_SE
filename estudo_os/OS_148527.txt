@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 148527
+CLIENTE: COND. TOP LIFE SAINT TROPEZ
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Fazer o resete das câmeras.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Fazer o resete das câmeras.
+Status/Ação Final: OS Resolvida
+========================================

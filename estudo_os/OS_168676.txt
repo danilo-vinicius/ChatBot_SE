@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 168676
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA GERAL AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vaso sem descarga
+[Andar/Sala/Unidade] Banheiros Masculino 
+[Descrição Detalhada do Problema] O botão da descarga está quebrado, impossibilitando a descarga.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar o botão de acionamento da caixa de descarga do banheiro masculino
+Status/Ação Final: OS Resolvida
+========================================

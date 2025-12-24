@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 161119
+CLIENTE: BL - TERRAÇO SHOPPING
+EQUIPAMENTO: HEXA GERAL BL TERRAÇO SHOPPING - ENGENHARIA
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Averiguar porta de vidro
+[Andar/Sala/Unidade] Loja Subsolo
+[Descrição Detalhada do Problema] Porta está com um um estalo acredito que nas dobradiças ao abrir e fechar e também apresenta uma dificuldade na hora de usar a chave no miolo da fechadura fica dura na hora de girar ao trancar e destrancar.
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Está com dificuldade ao trancar e destrancar a porta e estalos ao abrir e fechar a porta
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Trocar mola da porta e verificar a fechadura 
+Status/Ação Final: Ordem de Serviço gerada a partir do evento 317/2025
+========================================

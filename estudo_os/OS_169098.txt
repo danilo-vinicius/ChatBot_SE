@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 169098
+CLIENTE: LUGER - TAGUATINGA
+EQUIPAMENTO: HEXA HIDRÁULICA AL TAGUATINGA - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] VAZAMENTO NO ESTANDE
+[E-mail ] clesio.silva@luger-academia.com.br
+[Andar/Sala/Unidade] Unidade de Taguatinga
+[Descrição Detalhada do Problema] Venho por meio desse chamado solicitar a manutenção de um vazamento no estande A 
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Vazamento de agua no estande A, o que impactará nas aulas de tiro.
+Clesio Silva
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazamento estande de tiro.
+Status/Ação Final: OS Resolvida
+========================================

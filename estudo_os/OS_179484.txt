@@ -1,0 +1,23 @@
+
+========================================
+ORDEM DE SERVIÇO: 179484
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA HIDRÁULICA AL ASA NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1º andar 
+[Descreva o problema de forma clara e objetiva.] A torneira do lado direito do banheiro masculino, localizado no 1º andar, está vazando água pelo botão (local de acionamento).
+Solicito a verificação e o reparo necessário para corrigir o vazamento.
+
+[Impacto (o que acontece se não for resolvido):] O vazamento está gerando desperdício de água e pode causar acúmulo de água na pia e no piso.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar se tem conserto a torneira ou se precisa realizar a troca.
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 130935
+CLIENTE: COND. RES GENERAL JACY BURMANN
+EQUIPAMENTO: Terminal dedicado porteiro eletrônico - XPE 1013 PLUS
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Troca da senha dos terminais dedicados porteiros eletrônicos das portas de serviço e teste para criação de senha para cada morador.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Terminais estão instalados e foram configurados por outra empresa, não temos as senhas.
+Status/Ação Final: OS Resolvida
+========================================

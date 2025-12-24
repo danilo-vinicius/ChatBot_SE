@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182258
+CLIENTE: CONDOMÍNO VILLE PLUS - SAMAMBAIA
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Matheus Guerra Pariz
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Preventiva.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: A manutenção preventiva do sistema de CFTV do condomínio Ville Plus foi realizada com sucesso. Durante a inspeção, foi verificado se os dois DVRs estavam gravando corretamente e se todas as câmeras estavam funcionando. Todos os equipamentos apresentaram desempenho perfeito. Além disso, foi realizada a análise do sistema de reconhecimento facial, que também está operando sem falhas.
+========================================

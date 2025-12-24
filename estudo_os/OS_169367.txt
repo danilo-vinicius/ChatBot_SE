@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 169367
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA ELÉTRICA AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Substituição de Lâmpadas Queimadas
+[Descrição Detalhada do Problema] Prezados, bom dia.
+Solicito, por gentileza, a substituição das lâmpadas queimadas nas dependências abaixo:
+Sala 1: 3 lâmpadas grandes queimadas
+Sala 3: 1 lâmpada grande queimada
+Corredor da Sala 1: 3 lâmpadas grandes queimadas
+Copa: 1 lâmpada pequena com defeito (localizada acima da pia)
+Aguardamos providências o quanto antes, considerando a necessidade de iluminação adequada nos ambientes citados.
+Atenciosamente,
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Trocar lâmpadas.
+Status/Ação Final: OS Resolvida
+========================================

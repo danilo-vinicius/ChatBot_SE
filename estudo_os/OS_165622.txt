@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 165622
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vaso entupido 
+[Andar/Sala/Unidade] 1° subsolo, Sede Brasfort
+[Descrição Detalhada do Problema] Informamos que um dos vasos sanitários do banheiro feminino, localizado no 1º subsolo da Sede, está entupido.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Desentupir vaso sanitário.
+Status/Ação Final: OS Resolvida
+========================================

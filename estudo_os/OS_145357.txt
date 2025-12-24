@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 145357
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Câmera - VIP 1230 B
+TÉCNICO: Wesley Soares Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Adicionar câmeras no DVR da guarita
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

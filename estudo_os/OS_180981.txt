@@ -1,0 +1,27 @@
+
+========================================
+ORDEM DE SERVIÇO: 180981
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: HEXA GERAL AL NORTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Aline Ferreira da Silva
+[Telefone (celular):] (61) 99327-0018
+[Endereço de E-mail:] aline.silva@luger-academia.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1 andar 
+[Descreva o problema de forma clara e objetiva.] Prezados,
+
+Boa tarde.
+
+Solicito atendimento para manutenção da porta de vidro localizada na entrada. A porta está cedendo e, ao abrir e fechar, acaba encostando na parte fixa da estrutura, o que pode causar danos ao vidro e ao mecanismo de deslizamento.
+
+
+[Impacto (o que acontece se não for resolvido):] Pedimos verificação e ajuste urgente para evitar risco de quebra e garantir o funcionamento adequado.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar porta de vidro da entrada.
+Status/Ação Final: OS Resolvida
+========================================

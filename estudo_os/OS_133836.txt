@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 133836
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Telefone - Tip 125i
+TÉCNICO: Quely Souza Ferreira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Troca de telefone queimado. Necessário troca da câmera do bicicletário do bloco C.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 155742
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: HEXA HIDRÁULICA SUDOESTE - ENGENHARIA
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vazamento de água 
+
+[E-mail ] julio.santos@braslav.com.br
+[Empresa] Braslav Sudoeste
+[Descrição Detalhada do Problema] O bebedouro que foi reparado o vazamento de água voltou a vazar por favor verificar.
+ Vazamento podendo ter o risco de queda em caso de escorregar na água no chão.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazamento do bebedouro
+Status/Ação Final: OS Resolvida
+========================================

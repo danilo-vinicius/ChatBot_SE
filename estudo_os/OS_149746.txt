@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 149746
+CLIENTE: COND. GREEN PARK
+EQUIPAMENTO: Interfone - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção de antena, bloco E apartamento 210.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Manutenção de antena, bloco E apartamento 210.
+Status/Ação Final: OS Resolvida
+========================================

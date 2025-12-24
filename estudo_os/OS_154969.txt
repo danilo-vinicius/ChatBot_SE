@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154969
+CLIENTE: AX - ALLDAX
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Wesley Soares Dias
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar pontos de câmeras
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

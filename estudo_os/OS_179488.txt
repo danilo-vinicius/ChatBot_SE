@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 179488
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:]  Média Prioridade
+[Nome completo:] PAULO ROBERTO DA SILVA PAULINO
+[Telefone (celular):] (61) 99617-1755
+[Endereço de E-mail:] paulo.paulino@brasfort.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Banheiro masculino térreo próximo a copa
+[Descreva o problema de forma clara e objetiva.] Porta do banheiro está travada, não abre
+[Impacto (o que acontece se não for resolvido):] Possibilidade de alguém ficar trancado.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar porta do banheiro próximo a copa.
+Status/Ação Final: OS Resolvida
+========================================

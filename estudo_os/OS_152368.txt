@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 152368
+CLIENTE: CASA DE MÁQUINAS
+EQUIPAMENTO: Equipamento Geral - Geral
+TÉCNICO: Rayssen Leonardo Carvalho Braga
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Portão do Orquídeas está fora.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 172176
+CLIENTE: BL - NOROESTE
+EQUIPAMENTO: Central de Alarme - AMT 2018 E SMART
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar central de alarme e trocar sensor.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

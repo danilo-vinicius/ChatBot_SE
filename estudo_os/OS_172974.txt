@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 172974
+CLIENTE: Rancho Verde (Usina Rancho Verde)
+EQUIPAMENTO: Integração Sigma - Geral
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Falha de comunicação!
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: {"id":21370158,"beginDate":"2025-09-02T23:12:54.832+0000","endDate":null,"status":5,"sequentialId":336,"accountId":1473869,"accountCode":"0090","accountOffset":-3,"personOpenId":136181,"personOpen":"Fabricio Forte","defect":"CFTV","imported":false,"totalExecutingActivities":0,"totalNewActivities":2,"totalPausedActivities":0,"totalCancelledActivities":0,"totalClosedActivities":0,"newSo":false,"comments":[{"id":18742868,"text":"Falha de comunica\u00e7\u00e3o!","date":"2025-09-02T23:12:55.000+0000","personId":136181,"person":"Fabricio Forte","lastEditionDate":null}],"account":"Rancho Verde (Usina Rancho Verde)","executingActivities":false}
+Status/Ação Final: Ordem de Serviço solicitada
+========================================

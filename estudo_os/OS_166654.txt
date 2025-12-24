@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 166654
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Placa suspensa
+[Nome do Solicitante] Marlon José honesko
+[Andar/Sala/Unidade] Primeiro subsolo
+[Descrição Detalhada do Problema] Placa solta pode ocasionar um acidente
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar placas soltas nas salas do 1º subsolo
+Status/Ação Final: Edição da OS executada por : Adriano Mattos e Pinto - Alterado: [de 18/06/2025 12:12:11 para 18/06/2025 12:12]
+========================================

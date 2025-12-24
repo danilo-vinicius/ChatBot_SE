@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 179351
+CLIENTE: BRASFORT - QI 09
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Thiago Alves da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção Motor
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

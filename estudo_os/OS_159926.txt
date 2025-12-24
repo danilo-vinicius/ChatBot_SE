@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 159926
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA GERAL QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] troca de papeleira
+[Andar/Sala/Unidade] Banheiro subsolo masculino
+[Descrição Detalhada do Problema] Troca da papeleira
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] Consumo excessivo de papeis
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar papeleira 
+Status/Ação Final: OS Resolvida
+========================================

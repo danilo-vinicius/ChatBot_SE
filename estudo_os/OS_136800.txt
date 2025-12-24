@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 136800
+CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+EQUIPAMENTO: Servidor LPR - Genérico
+TÉCNICO: Rodrigo de Sousa Pereira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do funcionamento do LPR no dia 09/11/2024.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Perdemos a conexão com o servidor pelo TeamViewer.
+Status/Ação Final: OS Resolvida
+========================================

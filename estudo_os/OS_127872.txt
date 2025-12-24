@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 127872
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Antena - v1
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de antena
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

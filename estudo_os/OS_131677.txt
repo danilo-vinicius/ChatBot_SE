@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 131677
+CLIENTE: BRASFORT - QI 09
+EQUIPAMENTO: Nobreak - Volt Gate
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação para troca de cabo de energia.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

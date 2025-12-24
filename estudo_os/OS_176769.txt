@@ -1,0 +1,21 @@
+
+========================================
+ORDEM DE SERVIÇO: 176769
+CLIENTE: BL - SQS 307 SUL
+EQUIPAMENTO: HEXA HIDRÁULICA BL 307S - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Quadra 307 Bloco D Loja 03 - ASA SUL
+[Descreva o problema de forma clara e objetiva.] Solicito a verificação de um vazamento no chuveiro da loja, pois a água continua correndo mesmo com o registro totalmente fechado.
+[Impacto (o que acontece se não for resolvido):] Esse problema pode gerar desperdício de água e aumento no consumo, além de danificar o sistema hidráulico se não for corrigido com urgência.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar vazamento no chuveiro.
+Status/Ação Final: OS Resolvida
+========================================

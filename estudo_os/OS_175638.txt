@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 175638
+CLIENTE: EPB - Chancelaria
+EQUIPAMENTO: Central - AMT 8000 Pró
+TÉCNICO: Vinicius Campos Borges de Oliveira
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação da Central
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

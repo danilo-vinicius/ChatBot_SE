@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 143814
+CLIENTE: COND. TOP LIFE SAINT TROPEZ
+EQUIPAMENTO: Central PABX - CP 352
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Organização de cabos da central.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Nossa equipe está executando a arrumação dos cabos.
+========================================

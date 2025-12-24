@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 135701
+CLIENTE: COND. TOP LIFE SAINT TROPEZ
+EQUIPAMENTO: Central PABX - CP 352
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificação do interfone da unidade  1205 bloco D.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Interfone está sem sinal. 
+Status/Ação Final: OS Resolvida
+========================================

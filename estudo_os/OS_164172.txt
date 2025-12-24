@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 164172
+CLIENTE: USINA SÃO PEDRO - Samambaia
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Acompanhar o Bruno na passagem de cabos, dia 26/05/2025.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foi realizada a passagem dos cabos de rede através dos eletrodutos (compex) previamente instalados na usina, utilizando as cordas guia já existentes. Foram puxados quatro cabos de rede destinados ao equipamento Squid.
+
+Além da passagem dos cabos, foram executadas sete perfurações no solo para a fixação dos postes que receberão as câmeras de monitoramento.
+
+Também foram lançados cabos de rede ao longo do chão, na lateral e na parte frontal da usina.
+
+Ficou pendente apenas a passagem do cabo de energia e do cabo de fibra óptica na parte dos fundos da usina.
+========================================

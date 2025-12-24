@@ -1,0 +1,28 @@
+
+========================================
+ORDEM DE SERVIÇO: 173875
+CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+EQUIPAMENTO: HEXA GERAL SCIA QD 8 - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Érika Gagliardi
+[Telefone (celular):] (61) 99655-8095
+[Endereço de E-mail:] erikavgagliardi@gmail.com
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] prédio do SCIA
+[Descreva o problema de forma clara e objetiva.] O filtro de água não comporta a quantidade de água para todos os presentes e o fluxo da água é muito fraco, sendo que para encher um copo de 250 ml levou 1 minuto e 25 segundos.
+O ar-condicionado não gela o suficiente na sala, e como são muitas pessoas, o espaço fica desconfortável.
+A iluminação não favorece porque para projetar o conteúdo do treinamento, precisaríamos apagar somente a primeira fileira de luzes. No entanto, não temos essa possibilidade, porque somente há dois interruptores para apagar as luzes e quando apagamos a primeira fileira, outras se apagam. 
+Algumas cadeiras estão com o estofado danificado e a parte do encosto do braço está quebrada.
+Existem poucas tomadas, e algumas não estão funcionando e precisamos levar extensões e as tomadas que estão funcionando estão sem o espelho, ou seja, o fio fica exposto.
+Há pouca estrutura para o serviço de copeiragem.
+
+[Impacto (o que acontece se não for resolvido):] imagem negativa da BRASFORT com o cliente, risco de curto ou funcionário tomar um choque, etc
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):] não há
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar tomadas, filtro e cadeiras quebradas.
+
+========================================

@@ -1,0 +1,17 @@
+
+========================================
+ORDEM DE SERVIÇO: 159925
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] vaso sanitário
+[Andar/Sala/Unidade] banheiro feminino - 2° andar
+[Descrição Detalhada do Problema] vazamento
+[Justificativa para a Solicitação ( explique brevemente por que o serviço é necessário, incluindo qualquer impacto potencial de não realizar o reparo] gasto de água e sujeira acumulada
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Vazamento vaso sanitário
+Status/Ação Final: OS Resolvida
+========================================

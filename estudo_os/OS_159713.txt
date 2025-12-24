@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 159713
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA HIDRO SANITÁRIO TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Ativa senhor mictório
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O senhor do banheiro masculino  está desconectado da base .
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos. Atribuição em massa.
+========================================

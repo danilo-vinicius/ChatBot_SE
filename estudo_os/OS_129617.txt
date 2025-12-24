@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 129617
+CLIENTE: LUGER - ASA NORTE
+EQUIPAMENTO: Central de alarme - AMT 2018 E/EG
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção preventiva na central de alarme.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Após alguns alertas de tamper de um equipamento que não está instalado será necessário a realização de algumas verificações do funcionamento da central.
+Status/Ação Final: OS Resolvida
+========================================

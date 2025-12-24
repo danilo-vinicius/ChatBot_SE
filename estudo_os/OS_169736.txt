@@ -1,0 +1,16 @@
+
+========================================
+ORDEM DE SERVIÇO: 169736
+CLIENTE: BL - SUDOESTE
+EQUIPAMENTO: Geral - Geral
+TÉCNICO: Paulo Ferreira dos Santos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Ventiladores e TV de tubo
+[Andar/Sala/Unidade] Loja
+[Descrição Detalhada do Problema] Solicito a retirada de 4 ventiladores e 1 TV de tubo, que não estão funcionando na loja do Sudoeste. Os ventiladores, como ar condicionado está funcionando não há necessidade dos ventiladores na )
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Retirar equipamento da loja da Braslav do Sudoeste. Lista de material acima
+Status/Ação Final: OS Resolvida
+========================================

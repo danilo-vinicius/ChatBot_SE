@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 170540
+CLIENTE: BL - PENINSULA
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Retirada da câmera.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

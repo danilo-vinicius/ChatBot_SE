@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 135227
+CLIENTE: COND. SAINT TROPEZ
+EQUIPAMENTO: Automatizador de Portão - Jetflet
+TÉCNICO: Lucas S Matos
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Reparo do portão de entrada .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Devido à queda de um raio,  foi detectado a queimada da placa do motor da entrada principal. A placa foi retirada e levada para assistência técnica PPA, para devidos procedimentos de reparos. 
+========================================

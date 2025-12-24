@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 173755
+CLIENTE: GB - GENERAL BURMANN NOROESTE
+EQUIPAMENTO: CFTV Geral - Geral
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção preventiva CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

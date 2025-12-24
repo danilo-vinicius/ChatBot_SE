@@ -1,0 +1,26 @@
+
+========================================
+ORDEM DE SERVIÇO: 140081
+CLIENTE: BRASFORT LTDA
+EQUIPAMENTO: Facial - Não informado
+TÉCNICO: Não informado
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Tipo de Serviço Necessário]  <span style='color:red'>Outro (especificar no campo abaixo)</span>
+[Outros, Especificar:] Verificar posicionamento das câmeras do estande
+[Empresa ou Departamento] Academia Luger ( w3 norte)
+[Responsável pela solicitação] Robson Romano
+[Telefone do solicitante para contato] (61) 99605-3221
+[E-mail do solicitante para contato] robson.silva@academia-luger.com.br
+[Empresa] Academia (W3norte)
+[Edifício/Condomínio] 
+[Endereço] 712/713  W3 norte
+[Andar/Sala/Unidade] 
+[Descrição Detalhada do Problema] A câmera não está pegando a linha de tiro por completo
+Conforme previsão da PF se faz necessário todo o enquadramento da linha de tiro.
+[Observações Adicionais (Inclua qualquer informação relevante que possa ajudar na realização do serviço, como horários preferidos, condições especiais ou restrições de acesso)] 
+[Nome do Solicitante (Assine no campo abaixo)] Robson Romano
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Ordem de Serviço gerada a partir do evento 85/2024
+========================================

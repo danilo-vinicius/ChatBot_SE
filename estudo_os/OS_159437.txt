@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 159437
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA GERAL TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção em senhor de mictório
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: O senhor do mictório  do banheiro masculino está solto.
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos. Atribuição em massa.
+========================================

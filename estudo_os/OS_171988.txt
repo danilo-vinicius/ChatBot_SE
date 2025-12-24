@@ -1,0 +1,29 @@
+
+========================================
+ORDEM DE SERVIÇO: 171988
+CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+EQUIPAMENTO: CFTV GERAL - Geral
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção CFTV .
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Foi realizada uma análise do sistema de câmeras de segurança do prédio da Brasforte, localizado na SCIA. O procedimento inicial consistiu no uso de um testador de câmeras, que foi conectado a cada cabo de rede responsável pela alimentação e transmissão de dados das câmeras para o DVR. Contudo, o testador não detectou sinal de funcionamento em nenhum dos cabos, indicando uma possível falha no fornecimento de sinal ou problemas nos cabos de rede.
+
+Em seguida, utilizou-se um "ratinho" (testador de rede) para a identificação das câmeras. Durante essa segunda etapa, apenas 8 câmeras foram identificadas corretamente, o que sugere que, ou o restante das câmeras está com algum tipo de defeito, ou há problemas nos cabos de rede que conectam essas câmeras ao sistema de gravação central.
+
+Adicionalmente, foi observado que em duas localidades do prédio, não havia câmeras instaladas, apenas as bases (suportes) das câmeras fixadas no teto ou na parede. Isso indica que, em algum momento, as câmeras podem ter sido removidas ou nunca foram instaladas no local previsto, comprometendo a cobertura de segurança nessas áreas.
+
+A falha de comunicação das câmeras identificadas pode ser atribuída a uma série de fatores, como:
+
+Problemas de Cabeamento: Danos nos cabos de rede ou conexões mal feitas podem ter causado a perda de sinal nas câmeras não detectadas.
+
+Falhas no DVR: O equipamento de gravação central (DVR) pode estar apresentando falhas na recepção de sinal de determinadas câmeras.
+
+Configuração de Rede: Possíveis erros na configuração da rede, como endereçamento IP incorreto ou conflitos de rede, podem ter afetado a comunicação de algumas câmeras com o sistema.
+
+Ausência de Câmeras em Localidades Específicas: A falta de câmeras nas duas áreas identificadas com apenas as bases instaladas pode indicar um erro de instalação ou remoção de câmeras sem atualização do sistema.
+
+Será necessário realizar uma verificação mais detalhada, com testes adicionais de continuidade nos cabos, inspeção no DVR, análise da configuração da rede, além de investigar a situação das câmeras ausentes, para identificar a origem do problema e garantir que todas as áreas sejam devidamente monitoradas pelo sistema de câmeras.
+========================================

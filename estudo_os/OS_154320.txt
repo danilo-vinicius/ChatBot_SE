@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 154320
+CLIENTE: CGP - GREEN PARK ASA NORTE
+EQUIPAMENTO: Câmera - Genérico
+TÉCNICO: João Paulo Frutuoso Da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de NVD de 4 portas e uma câmera MIBO.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Instalação da mibo e configuração, não foi possível instalar o NVD por falta da fonte de alimentação 
+========================================

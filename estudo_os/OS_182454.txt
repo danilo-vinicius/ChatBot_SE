@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 182454
+CLIENTE: BB PREVIDÊNCIA - SETOR BANCÁRIO SUL
+EQUIPAMENTO: CFTV Geral - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Pegar gravações do CFTV.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Chegando no local, ligamos o notebook no switch e configuramos o ip fixo para que pudéssemos visualizar todos os equipamentos, acessamos o DVR e configuramos as gravações para DM(detecção de movimento), inicamos a verificação das gravações em busca da movimentação de algum prestador de serviço da empresa que realiza a verificação do consumo de energia, porém após analisar varias câmeras não detectamos nenhum prestador de serviço, salvamos algumas imagens e nos retiramos do local. Todas as câmeras estavam funcionando normalmente.
+========================================

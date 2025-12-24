@@ -1,0 +1,22 @@
+
+========================================
+ORDEM DE SERVIÇO: 180703
+CLIENTE: BL - NOROESTE
+EQUIPAMENTO: HEXA HIDRÁULICA BL NOROESTE - ENGENHARIA
+TÉCNICO: Osni Leandro Carvalho
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] Substituição de Pia Quebrada – Loja Noroeste
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Gabriela
+[Telefone (celular):] (61) 99906-5749
+[Endereço de E-mail:] administrativo@braslav.com.br
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] Q SHCNW CLNW 2/3 BLOCO F S/N LOJA 106 - CENTRO NOROESTE
+[Descreva o problema de forma clara e objetiva.] Gostaria de solicitar a troca da pia do banheiro da loja do Noroeste, pois a mesma caiu e quebrou.
+[Impacto (o que acontece se não for resolvido):] A pia quebrada impede o uso adequado do banheiro, prejudica a higiene dos colaboradores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Realizar fixação da cuba que quebrou.
+Status/Ação Final: OS Resolvida
+========================================

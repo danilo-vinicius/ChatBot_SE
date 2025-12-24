@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 153727
+CLIENTE: COND. TOP LIFE SAINT TROPEZ
+EQUIPAMENTO: Controle de Acesso - Genérico
+TÉCNICO: Silvano Rodrigues De Souza
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+manutenção da cancela dos moradores.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: Erro no sistema.
+========================================

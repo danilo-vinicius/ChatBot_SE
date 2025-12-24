@@ -1,0 +1,12 @@
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar ambientes virtuais (se você criar um no futuro)
+venv/
+.env
+
+.streamlit/secrets.toml

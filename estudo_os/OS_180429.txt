@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 180429
+CLIENTE: Não informado
+EQUIPAMENTO: HEXA ELÉTRICA 2° ANDAR - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Instalação de ponto elétrico
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Criação de ponto elétrico 
+Status/Ação Final: Mudança de Área Responsável efetuada por: Moisés Santos. Atribuição em massa.
+========================================

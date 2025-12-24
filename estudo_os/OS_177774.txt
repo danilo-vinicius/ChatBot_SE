@@ -1,0 +1,14 @@
+
+========================================
+ORDEM DE SERVIÇO: 177774
+CLIENTE: Térreo
+EQUIPAMENTO: HEXA HIDRÁULICA TÉRREO - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Manutenção em torneira
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: As porteira do lavatório do refeitório está quebrada 
+Status/Ação Final: OS Resolvida
+========================================

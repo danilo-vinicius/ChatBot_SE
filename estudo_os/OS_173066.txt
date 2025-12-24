@@ -1,0 +1,25 @@
+
+========================================
+ORDEM DE SERVIÇO: 173066
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA ELÉTRICA QD 3 - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Opção "outros" selecionada, especifique abaixo:] 
+[Classifique de acordo com a urgência do problema:] Alta Prioridade
+[Nome completo:] Luciano Nascimento
+[Telefone (celular):] (61) 98563-1537
+[Endereço de E-mail:] luciano.nascimento@brasfort.com
+<b>Indique exatamente onde o reparo precisa ser feito. </b>
+[Andar / Sala / Unidade:] 1° subsolo, sala Segurança Eletrônica
+[Descreva o problema de forma clara e objetiva.] Boa tarde, Adriano.
+Gostaria de solicitar a finalização das instalações elétricas e da passagem dos cabos de rede na sala de Segurança Eletrônica/Monitoramento, ressaltando que se trata de 9 baias.
+Agradeço desde já pela atenção.
+[Impacto (o que acontece se não for resolvido):] Haverá impacto direto no funcionamento dos equipamentos, comprometendo a operação do sistema de monitoramento, a segurança do local e a eficiência do trabalh
+[Observações Relevantes (ex.: horários preferenciais, restrições de acesso, condições especiais):]
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Verificar instalação elétrica das baias da sala de segurança no 1º subsolo 
+Status/Ação Final: OS Resolvida
+========================================

@@ -1,0 +1,13 @@
+
+========================================
+ORDEM DE SERVIÇO: 170276
+CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+EQUIPAMENTO: Botoeira - Genérico
+TÉCNICO: Eduardo Dos Santos S. Goncalves
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+Verificar o botão de saída do portão pequeno.
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Status/Ação Final: OS Resolvida
+========================================

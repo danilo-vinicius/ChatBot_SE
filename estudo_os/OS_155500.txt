@@ -1,0 +1,19 @@
+
+========================================
+ORDEM DE SERVIÇO: 155500
+CLIENTE: BRASFORT - SEDE QD 03
+EQUIPAMENTO: HEXA HIDRÁULICA SEDE - ENGENHARIA
+TÉCNICO: Cleilson Sousa da Silva
+========================================
+[PROBLEMA / SOLICITAÇÃO]
+[Outros, Especificar:] Vazamento Pia externa
+[Empresa] Brasfort Administração
+[Edifício/Condomínio] Sede
+[Endereço] SAAN Quadra 03
+[Andar/Sala/Unidade] Área externa - próximo aos bancos de espera
+[Descrição Detalhada do Problema] Vazamento na Pia
+
+[HISTÓRICO E SOLUÇÃO TÉCNICA]
+Notas: Vazamento da pia próxima a sala de espera do operacional
+Status/Ação Final: OS Resolvida
+========================================
