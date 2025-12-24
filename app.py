@@ -5,9 +5,11 @@ import os
 import requests
 from urllib.parse import unquote
 
-st.set_page_config(page_title="Técnico SEIA | Brasfort", page_icon="🛡️")
+st.set_page_config(page_title="SEIA - Brasfort", page_icon="🤖")
 
-st.title("🛡️ Técnico SEIA Brasfort")
+st.title("🤖 S.E.I.A.")
+st.caption("**S**egurança **E**letrônica **I**nteligência **A**rtificial")
+st.markdown("---")
 st.caption("Base de conhecimento alimentada via API e Equipe SE.")
 
 # --- BARRA LATERAL ---
@@ -105,7 +107,7 @@ if prompt := st.chat_input("Escreva aqui..."):
         with st.spinner("Analisando histórico técnico..."):
             # Prompt de Mentor com Habilidade de Vídeo
             instrucao = f"""
-            Você é o Supervisor Técnico Sênior da Brasfort (nível do Técnico Silvano).
+            Você é o Técnico Sênior da Brasfort, seu nome é SEIA! (nível do Técnico Silvano).
             Sua base de conhecimento é HÍBRIDA: histórico de OSs reais e Manuais Técnicos.
             
             BASE DE CONHECIMENTO:

@@ -1,5 +1,5 @@
 markdown
-# 🛡️ ChatBot Técnico - Brasfort (Mentor Virtual)
+# 🤖 SEIA - Assistente Técnico Brasfort
 
 > Assistente de Inteligência Artificial para suporte técnico, formalização de relatórios e consulta de base de conhecimento.
 
