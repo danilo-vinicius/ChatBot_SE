@@ -7,10 +7,10 @@ from urllib.parse import unquote
 
 st.set_page_config(page_title="SEIA - Brasfort", page_icon="🤖")
 
-st.title("🤖 S.E.I.A.")
-st.caption("**S**egurança **E**letrônica **I**nteligência **A**rtificial")
-st.markdown("---")
+st.title("🤖 SEIA")
+st.caption("**S**egurança **E**letrônica e **I**nteligência **A**rtificial")
 st.caption("Base de conhecimento alimentada via API e Equipe SE.")
+st.markdown("---")
 
 # --- BARRA LATERAL ---
 with st.sidebar:
