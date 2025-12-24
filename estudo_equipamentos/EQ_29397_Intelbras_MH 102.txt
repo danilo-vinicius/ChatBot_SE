@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29397
+                    LOCAL/CLIENTE: BRASFORT LTDA
+                    NOME NO SISTEMA: Mola aerea 
+                    TIPO: MH 102
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: MH 102
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

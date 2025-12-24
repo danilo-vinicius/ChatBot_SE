@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 35939
+                    LOCAL/CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+                    NOME NO SISTEMA: Central de Alarme
+                    TIPO: Central de Alarme
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: AMT 8000 Pró
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

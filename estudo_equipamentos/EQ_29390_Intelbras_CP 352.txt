@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29390
+                    LOCAL/CLIENTE: COND. TOP LIFE SAINT TROPEZ
+                    NOME NO SISTEMA: Central PABX
+                    TIPO: Central PABX
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: CP 352
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

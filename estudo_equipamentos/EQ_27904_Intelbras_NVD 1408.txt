@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27904
+                    LOCAL/CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+                    NOME NO SISTEMA: Gravador digital 02
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: NVD 1408
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

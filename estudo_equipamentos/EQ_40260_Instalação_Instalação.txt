@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 40260
+                    LOCAL/CLIENTE: EPB - Residência QI 05
+                    NOME NO SISTEMA: Instalação 
+                    TIPO: Instalação
+                    
+                    MARCA: Instalação
+                    MODELO TÉCNICO: Instalação
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 35970
+                    LOCAL/CLIENTE: BL - TERRAÇO SHOPPING
+                    NOME NO SISTEMA: Instalação
+                    TIPO: Instalação
+                    
+                    MARCA: Instalação
+                    MODELO TÉCNICO: Instalação
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

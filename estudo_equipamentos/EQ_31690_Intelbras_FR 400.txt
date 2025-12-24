@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 31690
+                    LOCAL/CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+                    NOME NO SISTEMA: Cadastrador de Mesa
+                    TIPO: Cadastrador de Mesa
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: FR 400
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

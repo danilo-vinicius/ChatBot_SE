@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27922
+                    LOCAL/CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+                    NOME NO SISTEMA: Gravador digital
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: MHDX 1016
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

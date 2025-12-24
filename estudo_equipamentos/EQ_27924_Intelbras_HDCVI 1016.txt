@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27924
+                    LOCAL/CLIENTE: BL - NOBILE
+                    NOME NO SISTEMA: Gravador digital
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: HDCVI 1016
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

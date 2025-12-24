@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 39601
+                    LOCAL/CLIENTE: BRASFORT - QI 09
+                    NOME NO SISTEMA: Instalação
+                    TIPO: Instalação
+                    
+                    MARCA: Instalação
+                    MODELO TÉCNICO: Instalação
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

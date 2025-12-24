@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29113
+                    LOCAL/CLIENTE: EPB - Residência QL 12
+                    NOME NO SISTEMA: Central de Alarme
+                    TIPO: Central de alarme
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: AMT 2018 E SMART
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

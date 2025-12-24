@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 40421
+                    LOCAL/CLIENTE: EPB - Residência QI 05
+                    NOME NO SISTEMA: Central de Alarme
+                    TIPO: Central de Alarme
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: AMT 8000 Pró
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

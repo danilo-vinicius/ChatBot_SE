@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 22170
+                    LOCAL/CLIENTE: BL - GREEN PARK
+                    NOME NO SISTEMA: Câmera Intelbras VIP 1230 B G4 Full HD 1080p com Lente 3,6mm Bullet Resistente à Chuva IP67 IR de 30m
+                    TIPO: Câmera IP
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: Vip 1230
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 12
+                    

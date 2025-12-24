@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27897
+                    LOCAL/CLIENTE: BL - SQS 307 SUL
+                    NOME NO SISTEMA: Central de Alarme
+                    TIPO: Central de alarme
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: AMT 2018 E/EG
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 31504
+                    LOCAL/CLIENTE: NVL NOVELIS
+                    NOME NO SISTEMA: Central de alarme
+                    TIPO: Central de Alarme
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: AMT 8000 Pró
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

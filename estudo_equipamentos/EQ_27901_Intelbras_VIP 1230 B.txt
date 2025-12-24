@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27901
+                    LOCAL/CLIENTE: COND. GREEN PARK
+                    NOME NO SISTEMA: Câmera
+                    TIPO: Câmera IP
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: VIP 1230 B
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

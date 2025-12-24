@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27899
+                    LOCAL/CLIENTE: LUGER - ASA NORTE
+                    NOME NO SISTEMA: Gravador digital
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: NVD 1232
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

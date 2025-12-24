@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29388
+                    LOCAL/CLIENTE: CGP - GREEN PARK ASA NORTE
+                    NOME NO SISTEMA: Maquina de Cartão
+                    TIPO: Maquina de cartão
+                    
+                    MARCA: Rede
+                    MODELO TÉCNICO: Pin Ped TEF
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

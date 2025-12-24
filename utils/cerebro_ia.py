@@ -7,9 +7,10 @@ import random
 # --- CONFIGURAÇÃO ---
 # Adicione aqui todas as pastas que você quer que a IA leia
 PASTAS_CONHECIMENTO = [
-    "estudo_os",                  # Dados da API (Dia a dia)
-    "estudo_manuais",             # Manuais e PDFs técnicos (Referência)
-    "estudo_seguranca_eletronica" # A pasta que você mencionou
+    "estudo_os",
+    "estudo_manuais",
+    "estudo_equipamentos", 
+    "estudo_seguranca_eletronica"
 ]
 
 # Configura API

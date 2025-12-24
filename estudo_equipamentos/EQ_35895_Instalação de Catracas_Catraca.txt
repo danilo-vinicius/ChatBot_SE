@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 35895
+                    LOCAL/CLIENTE: LONGEVITÀ - SUDOESTE
+                    NOME NO SISTEMA: Instalação de Catracas
+                    TIPO: Instalação de Catracas
+                    
+                    MARCA: Instalação de Catracas
+                    MODELO TÉCNICO: Catraca
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

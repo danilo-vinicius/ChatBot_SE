@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29408
+                    LOCAL/CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+                    NOME NO SISTEMA: Power Balun 16 Canais
+                    TIPO: Power Balun 16 Canais
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: Power Balun 16 Canais
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

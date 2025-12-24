@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 31658
+                    LOCAL/CLIENTE: EPB - Residência SHIS QL 32
+                    NOME NO SISTEMA: Central de Alarme
+                    TIPO: Central de Alarme
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: AMT 8000 Pró
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

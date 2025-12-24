@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27898
+                    LOCAL/CLIENTE: BL - NOROESTE
+                    NOME NO SISTEMA: Central de Alarme
+                    TIPO: Central de alarme
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: AMT 2018 E SMART
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

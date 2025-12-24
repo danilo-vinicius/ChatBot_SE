@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 28456
+                    LOCAL/CLIENTE: LS - LAKE SIDE APART HOTEL
+                    NOME NO SISTEMA: Cancela automática
+                    TIPO: Cancela automática
+                    
+                    MARCA: PPA
+                    MODELO TÉCNICO: Jetflex
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

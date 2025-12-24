@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 36046
+                    LOCAL/CLIENTE: COND. GREEN PARK
+                    NOME NO SISTEMA: Instalação
+                    TIPO: Instalação
+                    
+                    MARCA: Instalação
+                    MODELO TÉCNICO: Instalação
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 28467
+                    LOCAL/CLIENTE: BRASFORT - QI 09
+                    NOME NO SISTEMA: Nobreak
+                    TIPO: Nobreak
+                    
+                    MARCA: PPA
+                    MODELO TÉCNICO: Volt Gate
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

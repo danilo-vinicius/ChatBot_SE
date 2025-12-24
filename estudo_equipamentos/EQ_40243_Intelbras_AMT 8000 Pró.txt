@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 40243
+                    LOCAL/CLIENTE: RJG RESIDENCIA JOSÉ GOMES
+                    NOME NO SISTEMA: Alarme
+                    TIPO: Central de Alarme
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: AMT 8000 Pró
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

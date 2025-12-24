@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27934
+                    LOCAL/CLIENTE: RJG RESIDENCIA JOSÉ GOMES
+                    NOME NO SISTEMA: Acionador Wi-Fi Smart
+                    TIPO: Acionador Wi-Fi Smart
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: IGD 110
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

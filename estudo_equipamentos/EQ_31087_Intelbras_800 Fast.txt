@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 31087
+                    LOCAL/CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+                    NOME NO SISTEMA: Motor Portão
+                    TIPO: Motor Portão
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: 800 Fast
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

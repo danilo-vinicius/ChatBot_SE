@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 31738
+                    LOCAL/CLIENTE: LUGER - TAGUATINGA
+                    NOME NO SISTEMA: Telefone IP
+                    TIPO: Telefone IP
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: IP
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

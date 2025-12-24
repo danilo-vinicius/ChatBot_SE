@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27915
+                    LOCAL/CLIENTE: COND. RES GENERAL JACY BURMANN
+                    NOME NO SISTEMA: NVR
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: NVD 1232
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

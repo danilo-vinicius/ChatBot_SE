@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29171
+                    LOCAL/CLIENTE: COND. GREEN PARK
+                    NOME NO SISTEMA: Telefone
+                    TIPO: Telefone
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: Tip 125i
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

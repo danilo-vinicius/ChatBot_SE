@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29385
+                    LOCAL/CLIENTE: COND. GREEN PARK
+                    NOME NO SISTEMA: Câmera VIP 1230 D
+                    TIPO: Câmera IP
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: VIP 1230 D
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

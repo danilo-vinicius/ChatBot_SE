@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 31069
+                    LOCAL/CLIENTE: COND. GREEN PARK
+                    NOME NO SISTEMA: Central PABX Telefonica
+                    TIPO: Central PABX
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: CP 352
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

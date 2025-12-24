@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27883
+                    LOCAL/CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+                    NOME NO SISTEMA: Biometria - Orquideas
+                    TIPO: Biometria
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: Bio Inox Plus SS 311 E
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27896
+                    LOCAL/CLIENTE: BL - QD 1 SAAN
+                    NOME NO SISTEMA: Central de Alarme
+                    TIPO: Central de alarme
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: AMT 2018 E/EG
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

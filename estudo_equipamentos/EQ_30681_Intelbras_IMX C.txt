@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 30681
+                    LOCAL/CLIENTE: BL - TERRAÇO SHOPPING
+                    NOME NO SISTEMA: Câmera
+                    TIPO: Câmera Wi-Fi
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: IMX C
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

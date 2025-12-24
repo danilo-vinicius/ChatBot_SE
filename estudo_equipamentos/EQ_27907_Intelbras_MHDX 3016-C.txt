@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27907
+                    LOCAL/CLIENTE: BRASFORT - GOIANIA
+                    NOME NO SISTEMA: Gravador Digital
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: MHDX 3016-C
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

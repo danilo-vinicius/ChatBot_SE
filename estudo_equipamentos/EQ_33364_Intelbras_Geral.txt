@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 33364
+                    LOCAL/CLIENTE: SQS 206 Bloco D
+                    NOME NO SISTEMA: Controle de Acesso
+                    TIPO: Controle de Acesso 
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: Geral
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

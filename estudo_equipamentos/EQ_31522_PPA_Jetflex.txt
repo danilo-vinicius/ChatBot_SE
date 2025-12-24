@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 31522
+                    LOCAL/CLIENTE: TLF - TOP LIFE CLUB ÁGUAS CLARAS
+                    NOME NO SISTEMA: Cancela automática
+                    TIPO: Cancela automática
+                    
+                    MARCA: PPA
+                    MODELO TÉCNICO: Jetflex
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

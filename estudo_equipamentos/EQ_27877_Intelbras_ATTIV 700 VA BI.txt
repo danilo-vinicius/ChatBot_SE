@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27877
+                    LOCAL/CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+                    NOME NO SISTEMA: Nobreak - Cerejeiras
+                    TIPO: Nobreak
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: ATTIV 700 VA BI
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

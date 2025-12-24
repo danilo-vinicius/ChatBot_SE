@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 35797
+                    LOCAL/CLIENTE: LONGEVITÀ - SUDOESTE
+                    NOME NO SISTEMA: Controle de acesso 
+                    TIPO: Facial
+                    
+                    MARCA: Control Id
+                    MODELO TÉCNICO: IDFace
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

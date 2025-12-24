@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27906
+                    LOCAL/CLIENTE: EPB - Residência QI 15
+                    NOME NO SISTEMA: Gravador digital
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: NVD 1404 P
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

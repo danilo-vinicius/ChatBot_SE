@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 35950
+                    LOCAL/CLIENTE: RESIDENCIAL PARQUE DAS ORQUÍDEAS
+                    NOME NO SISTEMA: Portão
+                    TIPO: Portão
+                    
+                    MARCA: Portão
+                    MODELO TÉCNICO: Portão
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27932
+                    LOCAL/CLIENTE: CGP - GREEN PARK ASA NORTE
+                    NOME NO SISTEMA: Câmera BL - Green Park
+                    TIPO: Câmera Wi-Fi
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: IMX C
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

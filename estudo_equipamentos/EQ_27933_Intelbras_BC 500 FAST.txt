@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27933
+                    LOCAL/CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+                    NOME NO SISTEMA: Automatizador de Portão
+                    TIPO: Automatizador de portão
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: BC 500 FAST
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

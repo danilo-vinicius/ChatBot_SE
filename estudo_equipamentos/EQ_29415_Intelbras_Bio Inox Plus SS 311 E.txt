@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29415
+                    LOCAL/CLIENTE: CASA DE MÁQUINAS
+                    NOME NO SISTEMA: Biometria 
+                    TIPO: Biometria
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: Bio Inox Plus SS 311 E
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27903
+                    LOCAL/CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+                    NOME NO SISTEMA: Gravador digital 01
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: NVD 3208 P
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

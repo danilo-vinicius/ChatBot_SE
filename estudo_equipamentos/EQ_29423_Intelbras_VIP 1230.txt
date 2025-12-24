@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29423
+                    LOCAL/CLIENTE: BRASFORT LTDA
+                    NOME NO SISTEMA: EQUIP Teste
+                    TIPO: Câmera IP
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: VIP 1230
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 12
+                    

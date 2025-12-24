@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29358
+                    LOCAL/CLIENTE: LUGER - ASA NORTE
+                    NOME NO SISTEMA: Câmera IP
+                    TIPO: Câmera IP
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: VIP 3230 D
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

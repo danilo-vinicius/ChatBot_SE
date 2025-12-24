@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29167
+                    LOCAL/CLIENTE: COND. SAINT TROPEZ
+                    NOME NO SISTEMA: Automatizador de Portão
+                    TIPO: Automatizador de Portão 
+                    
+                    MARCA: PPA
+                    MODELO TÉCNICO: Jetflet
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 29416
+                    LOCAL/CLIENTE: USINA NATUVOLT - PARQUE SOLAR
+                    NOME NO SISTEMA: Starlink
+                    TIPO: Starlink
+                    
+                    MARCA: Starlink
+                    MODELO TÉCNICO: Starlink
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27987
+                    LOCAL/CLIENTE: COND. RES GENERAL JACY BURMANN
+                    NOME NO SISTEMA: Terminal dedicado porteiro eletrônico
+                    TIPO: Terminal dedicado porteiro eletrônico
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: XPE 1013 PLUS
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

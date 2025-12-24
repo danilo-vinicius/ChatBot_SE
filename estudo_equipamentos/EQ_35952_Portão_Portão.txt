@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 35952
+                    LOCAL/CLIENTE: GB - GENERAL BURMANN NOROESTE
+                    NOME NO SISTEMA: Portão
+                    TIPO: Portão
+                    
+                    MARCA: Portão
+                    MODELO TÉCNICO: Portão
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

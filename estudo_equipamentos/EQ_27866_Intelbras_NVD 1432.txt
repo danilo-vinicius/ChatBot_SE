@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27866
+                    LOCAL/CLIENTE: RJC RESIDENCIAL JARDIM DAS CEREJEIRAS
+                    NOME NO SISTEMA: NVD - Cerejeiras
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: NVD 1432
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 35898
+                    LOCAL/CLIENTE: Brasfort (Brasfort Empresa de Segurança LTDA)
+                    NOME NO SISTEMA: integração sigma teste
+                    TIPO: Câmera IP
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: VIP 1230
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 12
+                    

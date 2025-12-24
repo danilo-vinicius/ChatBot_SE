@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27865
+                    LOCAL/CLIENTE: BRASFORT - ANTIGA SEDE QD 01
+                    NOME NO SISTEMA: NVR
+                    TIPO: Gravador digital
+                    
+                    MARCA: Hikvision
+                    MODELO TÉCNICO: DS-7732NI-I4/16P(B)
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

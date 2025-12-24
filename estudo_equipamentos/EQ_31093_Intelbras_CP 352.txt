@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 31093
+                    LOCAL/CLIENTE: COND. SAINT TROPEZ
+                    NOME NO SISTEMA: Central CP 352
+                    TIPO: Central PABX
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: CP 352
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

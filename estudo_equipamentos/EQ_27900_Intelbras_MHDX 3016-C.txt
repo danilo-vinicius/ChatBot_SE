@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27900
+                    LOCAL/CLIENTE: BL - QD 1 SAAN
+                    NOME NO SISTEMA: Gravador digital
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: MHDX 3016-C
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

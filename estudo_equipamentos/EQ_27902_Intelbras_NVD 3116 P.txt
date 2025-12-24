@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27902
+                    LOCAL/CLIENTE: BRASFORT - SCIA PRÉDIO GRANDE
+                    NOME NO SISTEMA: Gravador digital
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: NVD 3116 P
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

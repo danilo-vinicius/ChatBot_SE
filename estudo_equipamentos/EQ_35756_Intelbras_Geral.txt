@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 35756
+                    LOCAL/CLIENTE: BRASFORT - SEDE QD 03
+                    NOME NO SISTEMA: Controle de Acesso
+                    TIPO: Controle de Acesso 
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: Geral
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

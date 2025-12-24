@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 27905
+                    LOCAL/CLIENTE: PAS 01
+                    NOME NO SISTEMA: Gravador digital
+                    TIPO: Gravador digital
+                    
+                    MARCA: Intelbras
+                    MODELO TÉCNICO: NVD 1404
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    

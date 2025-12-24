@@ -1,0 +1,13 @@
+
+                    --- FICHA DE EQUIPAMENTO INSTALADO ---
+                    ID: 40044
+                    LOCAL/CLIENTE: BRASFORT - QI 09
+                    NOME NO SISTEMA: Portão
+                    TIPO: Portão
+                    
+                    MARCA: Portão
+                    MODELO TÉCNICO: Portão
+                    
+                    SITUAÇÃO: Ativado
+                    GARANTIA (Meses): 0
+                    
