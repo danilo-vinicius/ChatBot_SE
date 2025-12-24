@@ -5,10 +5,10 @@ import os
 import requests
 from urllib.parse import unquote
 
-st.set_page_config(page_title="Mentor Técnico Brasfort", page_icon="🛡️")
+st.set_page_config(page_title="Técnico SEIA | Brasfort", page_icon="🛡️")
 
-st.title("🛡️ Mentor Técnico Brasfort")
-st.caption("Base de conhecimento alimentada via API PerformanceLab.")
+st.title("🛡️ Técnico SEIA Brasfort")
+st.caption("Base de conhecimento alimentada via API e Equipe SE.")
 
 # --- BARRA LATERAL ---
 with st.sidebar:
