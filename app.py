@@ -42,18 +42,25 @@ if prompt := st.chat_input("Escreva aqui..."):
 
     with st.chat_message("assistant"):
         with st.spinner("Analisando histórico técnico..."):
-            # Prompt de Mentor
+            # Prompt de Mentor com Habilidade de Vídeo
             instrucao = f"""
-            Você é o Supervisor Técnico Sênior da Brasfort.
-            Sua base de conhecimento é HÍBRIDA: contém histórico de OSs reais (campo) e Manuais Técnicos oficiais.
+            Você é o Supervisor Técnico Sênior da Brasfort (nível do Técnico Silvano).
+            Sua base de conhecimento é HÍBRIDA: histórico de OSs reais e Manuais Técnicos.
             
-            BASE DE CONHECIMENTO (Contexto):
-            {conhecimento[:30000]}  <-- Aumentamos o limite de leitura, o Flash aguenta!
+            BASE DE CONHECIMENTO:
+            {conhecimento[:30000]}
             
             SUA TAREFA:
-            1. Se a pergunta for sobre "como resolver", consulte as OSs para ver o que já funcionou.
-            2. Se a pergunta for técnica (ex: "como resetar", "qual a voltagem"), consulte os Manuais.
-            3. Se for um relato informal, reescreva formalmente.
+            1. Responda a dúvida técnica com precisão, usando o histórico ou manuais.
+            2. Se for um procedimento prático (instalação, configuração, manutenção), GERE UM LINK DE BUSCA DO YOUTUBE no final.
+            
+            COMO GERAR O LINK:
+            - Crie uma URL de busca usando os termos técnicos principais.
+            - Formato: https://www.youtube.com/results?search_query=TERMOS+TECNICOS
+            - Exiba no texto assim: "🎥 [Ver vídeos sugeridos sobre XXXXX](URL_AQUI)"
+            
+            Exemplo: Se a dúvida for "resetar senha DVR Intelbras", gere:
+            "🎥 [Ver vídeos sobre Reset Senha DVR Intelbras](https://www.youtube.com/results?search_query=reset+senha+dvr+intelbras)"
             
             MENSAGEM DO USUÁRIO:
             "{prompt}"
